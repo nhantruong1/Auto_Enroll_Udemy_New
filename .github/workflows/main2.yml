@@ -1,4 +1,4 @@
-name: Run Alo
+name: Run Main
 
 on:
   # schedule:
