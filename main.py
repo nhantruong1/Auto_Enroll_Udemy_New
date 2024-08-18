@@ -230,7 +230,7 @@ class Coupon_Udemy_Coupon(Get_Coupon_Course):
         self.url = 'https://udemycoupon-gamma.vercel.app'
     
     def get_list_coupon(self):
-        url = 'https://backen-udemycoupon.vercel.app/api/fetchcoupon/1-20'
+        url = 'https://backen-udemycoupon.vercel.app/api/fetchcoupon/1-30'
         response = requests.get(url)
         return json.loads(response.text)
     
