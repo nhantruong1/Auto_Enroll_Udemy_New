@@ -68,7 +68,7 @@ class Auto_Enroll_Udemy:
                 
     # Lấy danh sách khóa học đã mua
     def load_enrrolled(self):
-        with open('enrolled.txt', 'r') as f:
+        with open('enrolled.txt', 'w') as f:
             return f.read().split()
 
     # Ghi danh sách khóa học đã mua
