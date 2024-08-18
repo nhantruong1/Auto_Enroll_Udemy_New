@@ -28,7 +28,7 @@ jobs:
           CLIENT_ID: ${{secrets.CLIENT_ID}}
           DELAY_TIME: ${{secrets.DELAY_TIME}}
         run: |
-          python test.py # Thay 'your_script.py' bằng tên file Python của bạn
+          python main.py # Thay 'your_script.py' bằng tên file Python của bạn
           
       - name: Configure git
         run: |
