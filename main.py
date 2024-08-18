@@ -73,7 +73,7 @@ class Auto_Enroll_Udemy:
 
     # Ghi danh sách khóa học đã mua
     def write_enrrolled(self):
-        with open('enrroled.txt', 'w') as f:
+        with open('enrolled.txt', 'a') as f:
             f.write('\n'.join(self.list_enrroled))
 
     # Đăng ký khóa học
