@@ -36,18 +36,22 @@ class Auto_Enroll_Udemy:
         
     # Lấy id khóa học
     def get_id_course(self):
-        url = 'https://backen-udemycoupon.vercel.app/api/check-course-id'
-        data  = {
-            "access_token" : self.access_token,
-            "client_id" : self.client_id,
-            "url_course" : self.url_course
-        }
-        headers = {
-            'Content-Type': 'application/json'
-        }
-        response = requests.post(url=url, json=data, headers=headers) 
-        response_json = json.loads(response.text)
-        return response_json
+        # url = 'https://backen-udemycoupon.vercel.app/api/check-course-id'
+        # data  = {
+        #     "access_token" : self.access_token,
+        #     "client_id" : self.client_id,
+        #     "url_course" : self.url_course
+        # }
+        # headers = {
+        #     'Content-Type': 'application/json'
+        # }
+        # response = requests.post(url=url, json=data, headers=headers) 
+        # response_json = json.loads(response.text)
+        # return response_json
+        response = requests.get(url=self.url_course)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        course_id = soup.find('body')['data-clp-course-id']
+        return course_id
     
     # Mua khóa học
     def checkout_course(self):
