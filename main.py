@@ -243,6 +243,31 @@ class Coupon_Udemy_Coupon(Get_Coupon_Course):
         for coupon in coupons:
             self.auto_enroll.enrrol(coupon['url'])
 
+class Coupon_Real_Discount(Get_Coupon_Course):
+    def __init__(self, auto_enroll):
+        super().__init__(auto_enroll)
+        self.auto_enroll = auto_enroll
+        self.url = 'https://www.real.discount/'
+        
+    def get_list_coupon(self):
+        max_course = 7
+        url = f'https://www.real.discount/api-web/all-courses/?store=Udemy&page=1&per_page={max_course}&orderby=undefined&free=0&search=&language=&cat='
+        response = self.get_requests(url)
+        return json.loads(response)['results']
+    
+    def get_coupon(self,url):
+        if not url.startswith('https://www.udemy.com'):
+            return url.split('RD_PARM1=')[1]
+        else:
+            return url
+
+    def run(self):
+        coupons = self.get_list_coupon()
+        for coupon in coupons:
+            if "category" in coupon:
+                url_udemy = self.get_coupon(coupon['url'])
+                self.auto_enroll.enrrol(url_udemy)
+
 if __name__ == '__main__':
     # Khởi tạo đối tượng auto_enroll
     auto_enroll = Auto_Enroll_Udemy(ACCESS_TOKEN, CLIENT_ID)
@@ -262,3 +287,8 @@ if __name__ == '__main__':
     # Lấy coupon từ udemycoupon
     udemycoupon = Coupon_Udemy_Coupon(auto_enroll)
     udemycoupon.run()
+
+    print("[+] Enroll from realdiscount")
+    # Lấy coupon từ realdiscount
+    real_discount = Coupon_Real_Discount(auto_enroll)
+    real_discount.run()
