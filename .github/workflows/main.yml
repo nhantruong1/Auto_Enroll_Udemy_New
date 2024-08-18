@@ -34,6 +34,9 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Pull latest changes from master
+        run: |
+          git pull --rebase origin master
 
       - name: Add changes to commit
         run: |
