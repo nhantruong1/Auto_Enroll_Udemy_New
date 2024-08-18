@@ -115,7 +115,7 @@ class Get_Coupon_Course:
         response = requests.get(url)
         return response.text
 
-class Coupon_Discudemy(Get_Coupon_Course):
+class Coupon_Discudemy_By_Category(Get_Coupon_Course):
     def __init__(self, url, auto_enroll):
         super().__init__(auto_enroll)
         self.url = url
@@ -189,6 +189,56 @@ class Coupon_Discudemy(Get_Coupon_Course):
             for link in links:
                 coupon = self.get_coupon(link)
                 self.auto_enroll.enrrol(coupon)
+
+class Coupon_Discudemy(Get_Coupon_Course):
+    def __init__(self, auto_enroll):
+        super().__init__(auto_enroll)
+        self.url = "https://www.discudemy.com/all"
+
+    # Lấy danh sách các pages
+    # Trả về mảng [1,2,3]    
+    def get_list_page(self):
+        max_page = 3
+        pages = list(range(1, max_page + 1))
+        return pages
+        
+    # Lấy danh sách link khóa học
+    # Trả về mảng chứa các link khóa học trong 1 page
+    def get_list_link(self, url):
+        html_content = self.get_requests(url)
+        # Parse the HTML content
+        soup = BeautifulSoup(html_content, 'html.parser')
+
+        # Find all the 'section' elements with the class 'card'
+        cards = soup.find_all('section', class_='card')
+        
+        # Extract and print the links
+        links = []
+        for card in cards:
+            a_tag = card.find('a', class_='card-header')
+            if a_tag and a_tag.get('href'):
+                links.append("https://www.discudemy.com/go/" + a_tag['href'].split('/')[-1])
+                
+        return links
+    
+    # Lấy link khóa học udemy
+    # Trả về link khóa học udemy
+    def get_coupon(self,url):
+        html_content = self.get_requests(url)
+        soup = BeautifulSoup(html_content, 'html.parser')
+        link = soup.find('div', class_='ui segment').find('a', target='_blank').get('href')
+        return link
+    
+    # Chạy chương trình
+    def run(self):
+        pages = self.get_list_page()
+        for page in pages:
+            page_url = self.url + f'/{page}'
+            links = self.get_list_link(page_url)
+            for link in links:
+                coupon = self.get_coupon(link)
+                self.auto_enroll.enrrol(coupon)
+
 
 class Coupon_Udemy_Freebies(Get_Coupon_Course):
     def __init__(self, auto_enroll):
@@ -276,7 +326,7 @@ if __name__ == '__main__':
     print("[+] Enroll from discudemy")
     # Lấy coupon từ discudemy
     for link in COUPON_DISCUDEMY_LINKS:
-        discudemy = Coupon_Discudemy(link, auto_enroll)
+        discudemy = Coupon_Discudemy(auto_enroll)
         discudemy.run()
 
     print("[+] Enroll from udemyfreebies")
