@@ -251,7 +251,7 @@ class Coupon_Real_Discount(Get_Coupon_Course):
         self.url = 'https://www.real.discount/'
         
     def get_list_coupon(self):
-        max_course = 50
+        max_course = 30
         url = f'https://www.real.discount/api-web/all-courses/?store=Udemy&page=1&per_page={max_course}&orderby=undefined&free=0&search=&language=&cat='
         response = self.get_requests(url)
         return json.loads(response)['results']
