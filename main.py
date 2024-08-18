@@ -236,7 +236,7 @@ class Coupon_Udemy_Coupon(Get_Coupon_Course):
     def get_list_coupon(self):
         max_course = 30
         url = f'https://backen-udemycoupon.vercel.app/api/fetchcoupon/1-{max_course}'
-        html_content = requests.get_requests(url)
+        html_content = self.get_requests(url)
         return json.loads(html_content)
     
     def run(self):
