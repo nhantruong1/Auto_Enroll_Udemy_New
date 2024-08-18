@@ -41,7 +41,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git diff-index --quiet HEAD || (git commit -a -m "Update enrolled.txt" --alow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Update enrolled.txt" --allow-empty)
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
