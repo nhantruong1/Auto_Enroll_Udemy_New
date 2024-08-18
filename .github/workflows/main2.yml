@@ -1,8 +1,8 @@
 name: Run Main
 
 on:
-  # schedule:
-  #   - cron: "0 * * * *" # Chạy mỗi giờ một lần vào phút 0
+  schedule:
+    - cron: "0 */2 * * *" # Chạy hai giờ một lần vào phút 0
   workflow_dispatch:
 jobs:
   run-script:
