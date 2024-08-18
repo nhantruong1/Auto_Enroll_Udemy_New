@@ -6,6 +6,7 @@ import os
 
 try:
     ACCESS_TOKEN = os.environ("ACCESS_TOKEN")
+    print(ACCESS_TOKEN)
     CLIENT_ID = os.environ("CLIENT_ID")
     DELAY_TIME = os.environ("DELAY_TIME") # Giây
 except:
