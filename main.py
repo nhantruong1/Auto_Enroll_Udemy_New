@@ -317,28 +317,27 @@ class Coupon_Real_Discount(Get_Coupon_Course):
         for coupon in coupons:
             if "category" in coupon:
                 url_udemy = self.get_coupon(coupon['url'])
-                print(url_udemy)
                 self.auto_enroll.enrrol(url_udemy)
 
 if __name__ == '__main__':
     # Khởi tạo đối tượng auto_enroll
     auto_enroll = Auto_Enroll_Udemy(ACCESS_TOKEN, CLIENT_ID)
 
-    # print("[+] Enroll from discudemy")
-    # # Lấy coupon từ discudemy
-    # for link in COUPON_DISCUDEMY_LINKS:
-    #     discudemy = Coupon_Discudemy(auto_enroll)
-    #     discudemy.run()
+    print("[+] Enroll from discudemy")
+    # Lấy coupon từ discudemy
+    for link in COUPON_DISCUDEMY_LINKS:
+        discudemy = Coupon_Discudemy(auto_enroll)
+        discudemy.run()
 
-    # print("[+] Enroll from udemyfreebies")
-    # # Lấy coupon từ udemyfreebies
-    # freebies = Coupon_Udemy_Freebies(auto_enroll)
-    # freebies.run()
+    print("[+] Enroll from udemyfreebies")
+    # Lấy coupon từ udemyfreebies
+    freebies = Coupon_Udemy_Freebies(auto_enroll)
+    freebies.run()
 
-    # print("[+] Enroll from udemycoupon")
-    # # Lấy coupon từ udemycoupon
-    # udemycoupon = Coupon_Udemy_Coupon(auto_enroll)
-    # udemycoupon.run()
+    print("[+] Enroll from udemycoupon")
+    # Lấy coupon từ udemycoupon
+    udemycoupon = Coupon_Udemy_Coupon(auto_enroll)
+    udemycoupon.run()
 
     print("[+] Enroll from realdiscount")
     # Lấy coupon từ realdiscount
