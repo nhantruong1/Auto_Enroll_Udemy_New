@@ -1354,3 +1354,5 @@ https://www.udemy.com/course/django-5-build-a-complete-website-from-scratch-to-d
 https://www.udemy.com/course/chief-human-resources-officer/?couponCode=D0C8748424A5245D23CE
 https://www.udemy.com/course/prompt-engineering-safety-ai-engineering-safety-expert/?couponCode=169856680D0F1207F3B6
 https://www.udemy.com/course/chinestudy-listen-to-hsk-1/?couponCode=FREEHSK1
+https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=7834ED1E55E439395563
+https://www.udemy.com/course/cpitm-certified-professional-it-manager/?couponCode=D4FE8E6621DAD5D07959
