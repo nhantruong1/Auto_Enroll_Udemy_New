@@ -1532,3 +1532,5 @@ https://www.udemy.com/course/complete-machine-learning-project-using-yolov9/?cou
 https://www.udemy.com/course/eightball-pool-with-unity/?couponCode=25F6BA1186FAF8266593
 https://www.udemy.com/course/mastering-go-from-basics-to-advanced/?couponCode=0F2FA68EB504C59E9E61
 https://www.udemy.com/course/4-practice-tests-for-c-certification-preparation/?couponCode=82427D88F99578B1B277
+https://www.udemy.com/course/web3-development-essentials/?couponCode=93CA4AF806376F96566A
+https://www.udemy.com/course/building-of-web3-token-balance-application/?couponCode=88038302B2AC46E4DDBC
