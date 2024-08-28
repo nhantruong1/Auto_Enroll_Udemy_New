@@ -1844,3 +1844,5 @@ https://www.udemy.com/course/docker-for-devops/?couponCode=47AF565101702FE31966
 https://www.udemy.com/course/vscode-shortcuts-extensions-for-web-developer/?couponCode=40C025073B3B1D3A5B38
 https://www.udemy.com/course/microsoft-ads-masterclass-2022-all-campaigns-features/?couponCode=B571CB0E83C6F38E34ED
 https://www.udemy.com/course/learn-how-to-do-free-patent-search-with-free-database-ai/?couponCode=DATABASE
+https://www.udemy.com/course/data-science-con-python-numpy-pandas/?couponCode=193243C8FCF4AEB33EB8
+https://www.udemy.com/course/scrum-master-certification-c/?couponCode=4549577E2F830BF7C175
