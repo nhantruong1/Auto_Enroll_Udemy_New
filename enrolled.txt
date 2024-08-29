@@ -1889,3 +1889,4 @@ https://www.udemy.com/course/salesforce-certified-advanced-administrator-adm-301
 https://www.udemy.com/course/certified-information-systems-auditor-cisa-updated-2024/?couponCode=50D1A5530269B17F9360
 https://www.udemy.com/course/certified-risk-information-systems-controlcrisc-tests-2024/?couponCode=AAA2901C575EC71280A5
 https://www.udemy.com/course/cisa-exam-questions-for-2023-06-full-hard-test-part-02/?couponCode=09BEEDF8F2C479EA9DB5
+https://www.udemy.com/course/laravel-jetstream-fortify-the-complete-guide-arabic/?couponCode=34C39EDE4F075E66629F
