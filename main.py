@@ -94,10 +94,12 @@ class Auto_Enroll_Udemy:
                     print(f'Enroll success: {self.url_course}')
                     # Đợi 5s để mua khóa học tiếp theo
                     sleep(DELAY_TIME)
+                else:
+                    print(f'Enroll fail: {self.url_course}')
             
             except:
                 # Xử lý lỗi
-                print(f'Enroll fail: {self.url_course}')
+                print(f'Enroll error: {self.url_course}')
 
 class Get_Coupon_Course:
     def __init__(self, auto_enroll):
