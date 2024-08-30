@@ -1896,3 +1896,13 @@ https://www.udemy.com/course/maitrisez-javascript-110-projets-pour-le-monde-reel
 https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/
 https://www.udemy.com/course/executive-diploma-in-engineering-management
 https://www.udemy.com/course/reactjs-premium-crash-course/
+https://www.udemy.com/course/mastering-excel-formulas-functions-beginner-to-advanced/
+https://www.udemy.com/course/microsoft-office-training-master-excel-powerpoint-word/
+https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/
+https://www.udemy.com/course/python-project-for-basics-data-analysis/
+https://www.udemy.com/course/blue-prism-ad01-certified-developer-mastery-practice-exams/
+https://www.udemy.com/course/eccouncil-certified-cybersecurity-technician/
+https://www.udemy.com/course/real-world-sql-projects/
+https://www.udemy.com/course/digital-skills-for-teachers/
+https://www.udemy.com/course/experiential-learning-for-educators/
+https://www.udemy.com/course/teaching-skills-for-teachers/
