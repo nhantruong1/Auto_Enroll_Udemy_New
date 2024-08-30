@@ -1893,3 +1893,4 @@ https://www.udemy.com/course/laravel-jetstream-fortify-the-complete-guide-arabic
 https://www.udemy.com/course/rapida-introducao-ao-orquestrador-de-containers-kubernetes/?couponCode=F03FD5CD6890C38F9B59
 https://www.udemy.com/course/discover-google-gemini-for-marketing-success/?couponCode=DGG2908
 https://www.udemy.com/course/maitrisez-javascript-110-projets-pour-le-monde-reel/?couponCode=CDF0D2D9A7FDC067D4F3
+https://www.udemy.com/course/master-in-generative-ai-artificial-intelligence/?couponCode=623D3E6D98E718E3C5EE
