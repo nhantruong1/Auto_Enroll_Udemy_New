@@ -331,10 +331,10 @@ if __name__ == '__main__':
         discudemy = Coupon_Discudemy(auto_enroll)
         discudemy.run()
 
-    print("[+] Enroll from udemyfreebies")
-    # Lấy coupon từ udemyfreebies
-    freebies = Coupon_Udemy_Freebies(auto_enroll)
-    freebies.run()
+    # print("[+] Enroll from udemyfreebies")
+    # # Lấy coupon từ udemyfreebies
+    # freebies = Coupon_Udemy_Freebies(auto_enroll)
+    # freebies.run()
 
     print("[+] Enroll from udemycoupon")
     # Lấy coupon từ udemycoupon
