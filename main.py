@@ -82,14 +82,14 @@ class Auto_Enroll_Udemy:
 
     # Đăng ký khóa học
     def enrrol(self,url_course):
-        if (url_course not in self.list_enrroled) and ('couponCode' in url_course):
+        if (url_course.split("?couponCode")[0] not in self.list_enrroled) and ('couponCode' in url_course):
             try:  
                 self.url_course = url_course
                 self.coupon_course = url_course.split('?couponCode=')[1]
                 self.id_course = self.get_id_course()
                 # Nếu khóa học mua thành công thì thêm vào danh sách đã mua
                 if self.checkout_course():
-                    self.list_enrroled.append(self.url_course)
+                    self.list_enrroled.append(self.url_course.split("?couponCode")[0])
                     self.write_enrrolled()
                     print(f'Enroll success: {self.url_course}')
                     # Đợi 5s để mua khóa học tiếp theo
