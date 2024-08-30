@@ -1906,3 +1906,11 @@ https://www.udemy.com/course/real-world-sql-projects/
 https://www.udemy.com/course/digital-skills-for-teachers/
 https://www.udemy.com/course/experiential-learning-for-educators/
 https://www.udemy.com/course/teaching-skills-for-teachers/
+https://www.udemy.com/course/complete-graphics-design-bootcamp-beginner-to-advanced/
+https://www.udemy.com/course/essentials-user-experience-design-adobe-xd-ui-ux-design/
+https://www.udemy.com/course/salesforce-platform-developer-1-mock-exams/
+https://www.udemy.com/course/aws-certified-devops-professional-exam-mocks/
+https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-tests-n/
+https://www.udemy.com/course/servicenow-implementation-specialist-it-service-itsm-exams/
+https://www.udemy.com/course/99-school-management-strategies/
+https://www.udemy.com/course/interactive-ai-video-clone-creation-the-complete-course/
