@@ -2015,3 +2015,10 @@ https://www.udemy.com/course/2024-google-cloud-devops-engineer-practice-exams/
 https://www.udemy.com/course/google-cloud-digital-leader-certification-practice-exam-2024-z/
 https://www.udemy.com/course/google-professional-cloud-security-engineer-exam-questions/
 https://www.udemy.com/course/2024-google-professional-data-engineer-certification-exams/
+https://www.udemy.com/course/tailwind-css-mega-course-basic-to-advanced-build-2-projects/
+https://www.udemy.com/course/playwright-automation-testing-complete-bootcamp-uiapi/
+https://www.udemy.com/course/70-642-ts-windows-server-network-infra-practice-test-2024/
+https://www.udemy.com/course/70-640-windows-server-active-directory-practice-test-2024/
+https://www.udemy.com/course/salesforce-certified-business-analyst-mock-exams/
+https://www.udemy.com/course/70-487-develop-windows-azure-web-service-practice-test-2024/
+https://www.udemy.com/course/salesforce-advanced-administrator-adm-301-mock-exams-2024/
