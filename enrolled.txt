@@ -1997,3 +1997,5 @@ https://www.udemy.com/course/aws-certified-ai-practitioner-practice-exams/
 https://www.udemy.com/course/mastering-productivity-daily-reviews-using-ai-powered-voice/
 https://www.udemy.com/course/clases-de-piano-soy-pianista/
 https://www.udemy.com/course/executive-certificate-in-digital-transformation/
+https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/
+https://www.udemy.com/course/pass-the-aws-certified-machine-learning-mls-c01-exam/
