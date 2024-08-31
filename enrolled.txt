@@ -2041,3 +2041,11 @@ https://www.udemy.com/course/2022-r-programming-bootcamp/
 https://www.udemy.com/course/defining-project-scope-and-managing-resources-for-project/
 https://www.udemy.com/course/exploring-autodesk-revit-for-structure-bim-tutorials/
 https://www.udemy.com/course/windows-basic-course/
+https://www.udemy.com/course/intellij-idea-mastery-essential-skills-for-developers/
+https://www.udemy.com/course/python-interview-questions-practice-tests-v/
+https://www.udemy.com/course/javascript-interview-questions-practice-tests/
+https://www.udemy.com/course/java-interview-questions-practice-tests/
+https://www.udemy.com/course/450-c-plus-plus-interview-questions-practice-test/
+https://www.udemy.com/course/php-interview-questions-practice-tests/
+https://www.udemy.com/course/900-mongodb-interview-questions-practice-tests/
+https://www.udemy.com/course/650-c-interview-questions-practice-tests/
