@@ -2136,3 +2136,8 @@ https://www.udemy.com/course/android-kotlin-development-from-zero-to-hero-2022-a
 https://www.udemy.com/course/kotlin-course-arabic/
 https://www.udemy.com/course/professional-scrum-product-owner-2-pspo2-practice-test-exam/
 https://www.udemy.com/course/ktor-restapi-arabic-2024/
+https://www.udemy.com/course/complete-microsoft-sql-server-from-scratch-bootcamp/
+https://www.udemy.com/course/java-21-programming-masterclass-fundamentals-for-beginners/
+https://www.udemy.com/course/create-stunning-presentations-using-ai-chatgpt-and-more/
+https://www.udemy.com/course/autodesk-navisworks-manage-2023-essentials-advanced/
+https://www.udemy.com/course/mastering-bootstrap-essential/
