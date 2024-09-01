@@ -2060,3 +2060,13 @@ https://www.udemy.com/course/python-basics-certification-the-next-level-python/
 https://www.udemy.com/course/licensed-digital-marketing-master/
 https://www.udemy.com/course/the-complete-da-vinci-resolve-course-beginner-to-filmmaker/
 https://www.udemy.com/course/comprehensive-javascript-mcqs-from-basic-to-advance/
+https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/
+https://www.udemy.com/course/burp-suite-mastery-from-beginner-to-advanced/
+https://www.udemy.com/course/metasploit-from-scratch-beginner-to-professional/
+https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/
+https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/
+https://www.udemy.com/course/the-complete-sales-operations-masterclass-20-courses-in-1/
+https://www.udemy.com/course/docker-for-beginners-a-hands-on-practice-course-12-hours/
+https://www.udemy.com/course/matlab-course-for-wireless-communication-engineering/
+https://www.udemy.com/course/javascript-30-projects-in-30-days-course-for-beginners/
+https://www.udemy.com/course/adobe-illustrator-for-everyone-design-like-a-pro/
