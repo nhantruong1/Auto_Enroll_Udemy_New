@@ -2141,3 +2141,5 @@ https://www.udemy.com/course/java-21-programming-masterclass-fundamentals-for-be
 https://www.udemy.com/course/create-stunning-presentations-using-ai-chatgpt-and-more/
 https://www.udemy.com/course/autodesk-navisworks-manage-2023-essentials-advanced/
 https://www.udemy.com/course/mastering-bootstrap-essential/
+https://www.udemy.com/course/esp32-development-of-apps-with-bynk-for-controlmonitoring/
+https://www.udemy.com/course/arduino-based-solar-tracker/
