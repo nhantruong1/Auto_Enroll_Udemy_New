@@ -2149,3 +2149,11 @@ https://www.udemy.com/course/ai-for-warehouse-management-certificate-odoo-progra
 https://www.udemy.com/course/driving-enhance-e-commerce-forward-with-odoo-ai-powered/
 https://www.udemy.com/course/linux-test-series-command-line-mastery-for-all-levels/
 https://www.udemy.com/course/linux-test-series-cloud-mastery-on-aws-azure-gcp/
+https://www.udemy.com/course/autocad-dominando-el-diseno-y-la-ingenieria-en-2d/
+https://www.udemy.com/course/build-self-checkout-machine-virtual-keyboard-with-opencv/
+https://www.udemy.com/course/html5-essentials-and-advanced-practices/
+https://www.udemy.com/course/seo-mastery-mcq-practice-course/
+https://www.udemy.com/course/complete-video-editing-course-for-freelancers-from-scratch/
+https://www.udemy.com/course/flutter-and-dart-certification/
+https://www.udemy.com/course/complete-digital-marketing-certification/
+https://www.udemy.com/course/google-analytics4-ga4-mastery/
