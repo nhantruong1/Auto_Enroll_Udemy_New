@@ -2242,3 +2242,6 @@ https://www.udemy.com/course/website-traffic-seo-google-ads-meta-ads-chatgpt/
 https://www.udemy.com/course/comptia-network-n10-009-practice-tests-ace-your-exam/
 https://www.udemy.com/course/mb-910-microsoft-dynamics-365-fundamentals-crm-mock-exam/
 https://www.udemy.com/course/cams-certification/
+https://www.udemy.com/course/flutter-for-beginners-learn-to-build-mobile-apps-with-ease/
+https://www.udemy.com/course/the-complete-python-django-rest-api-development-bootcamp/
+https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/
