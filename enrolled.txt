@@ -2143,3 +2143,9 @@ https://www.udemy.com/course/autodesk-navisworks-manage-2023-essentials-advanced
 https://www.udemy.com/course/mastering-bootstrap-essential/
 https://www.udemy.com/course/esp32-development-of-apps-with-bynk-for-controlmonitoring/
 https://www.udemy.com/course/arduino-based-solar-tracker/
+https://www.udemy.com/course/automate-construction-project-with-artificial-intelligence/
+https://www.udemy.com/course/ai-for-accountants-certificate-odoo-17-program/
+https://www.udemy.com/course/ai-for-warehouse-management-certificate-odoo-program/
+https://www.udemy.com/course/driving-enhance-e-commerce-forward-with-odoo-ai-powered/
+https://www.udemy.com/course/linux-test-series-command-line-mastery-for-all-levels/
+https://www.udemy.com/course/linux-test-series-cloud-mastery-on-aws-azure-gcp/
