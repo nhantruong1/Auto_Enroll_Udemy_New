@@ -2347,3 +2347,9 @@ https://www.udemy.com/course/business_administration/
 https://www.udemy.com/course/youtube-marketing-mastering-youtube-for-business-growth/
 https://www.udemy.com/course/blockchain_web3/
 https://www.udemy.com/course/salesforce-cpq-specialist-certification-mock-exams/
+https://www.udemy.com/course/configura-un-vps-digitalocean-con-ubuntu-de-0-a-100/
+https://www.udemy.com/course/php-masterclass-desarrollo-de-proyectos-avanzados-y-completo/
+https://www.udemy.com/course/java-quiz-challenge-for-beginners-job-interview-preparations/
+https://www.udemy.com/course/data-science-artificial-intelligence-machine-learning-with-r/
+https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-tests/
+https://www.udemy.com/course/aws-certified-security-specialty-mock-exams-n/
