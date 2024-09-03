@@ -2247,3 +2247,9 @@ https://www.udemy.com/course/the-complete-python-django-rest-api-development-boo
 https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/
 https://www.udemy.com/course/python-django-the-complete-django-web-development-course/
 https://www.udemy.com/course/data-visualization-python-matplotlib-seaborn-2024/
+https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/
+https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/
+https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/
+https://www.udemy.com/course/combining-ai-and-excel-for-exceptional-professional-outcomes/
+https://www.udemy.com/course/chief-compliance-officer/
+https://www.udemy.com/course/3-latest-react-js-practice-tests-beginner-to-advanced/
