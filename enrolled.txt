@@ -2245,3 +2245,4 @@ https://www.udemy.com/course/cams-certification/
 https://www.udemy.com/course/flutter-for-beginners-learn-to-build-mobile-apps-with-ease/
 https://www.udemy.com/course/the-complete-python-django-rest-api-development-bootcamp/
 https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/
+https://www.udemy.com/course/python-django-the-complete-django-web-development-course/
