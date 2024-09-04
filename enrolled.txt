@@ -2420,3 +2420,6 @@ https://www.udemy.com/course/oca-certification-java-exam-practice-tests-oracle-p
 https://www.udemy.com/course/advanced-blue-team-practice-test-expertly-crafted-mcqs-2024/
 https://www.udemy.com/course/linux-mastery-cli-kali-commands-practice-tests-2024-pro/
 https://www.udemy.com/course/mastering-ethical-hacking-expert-mcq-practice-test-2024-1/
+https://www.udemy.com/course/construye-tu-propio-sistema-pos-con-php-8-y-mysql/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-x/
+https://www.udemy.com/course/makeup-artist-professional-certification/
