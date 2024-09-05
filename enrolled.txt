@@ -2492,3 +2492,6 @@ https://www.udemy.com/course/how-to-sell-online-courses-with-facebook-ads/
 https://www.udemy.com/course/arduino-meets-python/
 https://www.udemy.com/course/n10-009-comptia-network-practice-test-2024/
 https://www.udemy.com/course/cv0-003-comptia-cloud-practice-test-2024/
+https://www.udemy.com/course/email-marketing-a-z-grow-your-list-with-mailchimp-in-2024/
+https://www.udemy.com/course/master-python-web-scraping-automation-using-bs4-selenium/
+https://www.udemy.com/course/pre-recorded-under-1-hour-quick-win-workshops-with-chat-gpt/
