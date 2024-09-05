@@ -2473,3 +2473,15 @@ https://www.udemy.com/course/secrets-of-learning-english-and-other-languages/
 https://www.udemy.com/course/certified-information-systems-auditor-cisa-practice-exams-w/
 https://www.udemy.com/course/professional-scrum-product-owner-i-pspo-i-practice-tests/
 https://www.udemy.com/course/google-cloud-network-engineer-pcne-full-practice-exams/
+https://www.udemy.com/course/kubernetes-training/
+https://www.udemy.com/course/supply-chain-operations-specialization-plm-odoo-planning/
+https://www.udemy.com/course/artificial-intelligence-in-consulting-project-management/
+https://www.udemy.com/course/automate-restaurant-management-operations-with-ai-odoo/
+https://www.udemy.com/course/automated-a-manufacturing-business-from-a-to-z-with-odoo-ai/
+https://www.udemy.com/course/ecommerce-manager-operations-course-with-powerful-odoo-17/
+https://www.udemy.com/course/learn-web-design-html-css-adobe-photoshop/
+https://www.udemy.com/course/complete-sql-from-scratch-bootcamp/
+https://www.udemy.com/course/generative-ai-for-dynamic-java-web-applications-with-chatgpt/
+https://www.udemy.com/course/ultimate-guide-to-hacking-ielts/
+https://www.udemy.com/course/mastering-generative-ai/
+https://www.udemy.com/course/selenium-webdriver-with-java-testng-testing-framework/
