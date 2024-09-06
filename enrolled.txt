@@ -2546,3 +2546,8 @@ https://www.udemy.com/course/professional-scrum-master-psm-2-psm-ii-practice-que
 https://www.udemy.com/course/certified-information-systems-auditor-cisa-mock-test-2024
 https://www.udemy.com/course/esp32-firebase-connection-exchange-data-in-realtime/
 https://www.udemy.com/course/arduino-object-oriented-programming/
+https://www.udemy.com/course/autocad-2d-floor-plan-from-beginner-to-advanced-level/
+https://www.udemy.com/course/curiosity-and-lifelong-learning-b/
+https://www.udemy.com/course/project-estimating-pmi-pmp/
+https://www.udemy.com/course/comptia-security-sy0-701-practice-tests-pass-fast/
+https://www.udemy.com/course/mulesoft-interview-questions/
