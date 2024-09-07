@@ -2631,3 +2631,4 @@ https://www.udemy.com/course/az-900-mastery-test-your-microsoft-azure-fundamenta
 https://www.udemy.com/course/computerscienceempire_datastructures/
 https://www.udemy.com/course/certificate-course-in-human-respiratory-system/
 https://www.udemy.com/course/from-order-to-invoice-master-sap-fiori-sales-in-s4hana-sd/
+https://www.udemy.com/course/the-complete-java-course-from-basics-to-advanced/
