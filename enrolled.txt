@@ -2617,3 +2617,4 @@ https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/
 https://www.udemy.com/course/mastering-prompt-engineering-for-genai-practical-workshop/
 https://www.udemy.com/course/pre-sales-and-sales-engineering-101/
 https://www.udemy.com/course/iso-90012015-quality-management-system-qms/
+https://www.udemy.com/course/c-and-java-training-crash-course-2022/
