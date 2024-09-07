@@ -2618,3 +2618,10 @@ https://www.udemy.com/course/mastering-prompt-engineering-for-genai-practical-wo
 https://www.udemy.com/course/pre-sales-and-sales-engineering-101/
 https://www.udemy.com/course/iso-90012015-quality-management-system-qms/
 https://www.udemy.com/course/c-and-java-training-crash-course-2022/
+https://www.udemy.com/course/build-a-custom-e-commerce-site-in-react-javascript-basics/
+https://www.udemy.com/course/complete-capcut-desktop-mastery-course/
+https://www.udemy.com/course/payments-101-fintech-fundamentals/
+https://www.udemy.com/course/the-ultimate-guide-for-comptia-security-plus-exam/
+https://www.udemy.com/course/chatgpt-for-work-use-ai-at-work-to-improve-efficiency/
+https://www.udemy.com/course/altium-course-learn-altium-designer-today/
+https://www.udemy.com/course/arduino-practice-test-test-your-arduino-knowledge/
