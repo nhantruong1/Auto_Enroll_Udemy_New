@@ -2628,3 +2628,6 @@ https://www.udemy.com/course/arduino-practice-test-test-your-arduino-knowledge/
 https://www.udemy.com/course/complete-german-course-german-speaking/
 https://www.udemy.com/course/unofficial-udemy-course-creation-management-marketing/
 https://www.udemy.com/course/az-900-mastery-test-your-microsoft-azure-fundamentals/
+https://www.udemy.com/course/computerscienceempire_datastructures/
+https://www.udemy.com/course/certificate-course-in-human-respiratory-system/
+https://www.udemy.com/course/from-order-to-invoice-master-sap-fiori-sales-in-s4hana-sd/
