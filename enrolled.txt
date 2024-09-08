@@ -2669,3 +2669,8 @@ https://www.udemy.com/course/raspberry-pi-facial-recognition-door-lock-raspberry
 https://www.udemy.com/course/freertos-arduino-multi-tasking-with-freertos/
 https://www.udemy.com/course/preguntas-de-entrenamiento-para-product-owner-y-scrum-master/
 https://www.udemy.com/course/certified-entry-level-python-programmer-pcep-30-02/
+https://www.udemy.com/course/los-secretos-de-los-lideres-mas-exitosos-del-mundo-spanish/
+https://www.udemy.com/course/learn-easy-italian/
+https://www.udemy.com/course/construye-una-tienda-en-shopify-desde-cero/
+https://www.udemy.com/course/power-bi-mastery-zero-to-hero-data-visualization-skills/
+https://www.udemy.com/course/project-management-mock-tests-pmp-preparation/
