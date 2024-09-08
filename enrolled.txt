@@ -2658,3 +2658,6 @@ https://www.udemy.com/course/building-ai-assistant-with-python-a-beginners-guide
 https://www.udemy.com/course/supervised-machine-learning-test-your-skills-with-practice/
 https://www.udemy.com/course/colour-essentials-create-colour-palettes-with-confidence/
 https://www.udemy.com/course/amazing-javascript-programming-with-examples-in-one-day/
+https://www.udemy.com/course/learn-how-to-become-a-successful-exporter/
+https://www.udemy.com/course/python-scikit-learn-mastery-exam-detailed-practice-quiz/
+https://www.udemy.com/course/statistical-modeling-mastery-success-exam-practice-test/
