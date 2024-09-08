@@ -2674,3 +2674,8 @@ https://www.udemy.com/course/learn-easy-italian/
 https://www.udemy.com/course/construye-una-tienda-en-shopify-desde-cero/
 https://www.udemy.com/course/power-bi-mastery-zero-to-hero-data-visualization-skills/
 https://www.udemy.com/course/project-management-mock-tests-pmp-preparation/
+https://www.udemy.com/course/master-bi-ssis-ssrs-ssas-mdx-zero-to-hero-2024/
+https://www.udemy.com/course/pcap-31-03-python-certification-exam-practice-tests-2023/
+https://www.udemy.com/course/ultimate-terraform-guide-with-interview-preparation/
+https://www.udemy.com/course/java-foundations-mastering-the-basics/
+https://www.udemy.com/course/git-github-for-beginners-from-start-to-star/
