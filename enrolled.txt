@@ -2661,3 +2661,11 @@ https://www.udemy.com/course/amazing-javascript-programming-with-examples-in-one
 https://www.udemy.com/course/learn-how-to-become-a-successful-exporter/
 https://www.udemy.com/course/python-scikit-learn-mastery-exam-detailed-practice-quiz/
 https://www.udemy.com/course/statistical-modeling-mastery-success-exam-practice-test/
+https://www.udemy.com/course/ccna-cisco-certified-network-associate-practice-exams-2024/
+https://www.udemy.com/course/crisc-practice-test-exam-simulation-detail-explanation/
+https://www.udemy.com/course/professional-business-analyst-pmi-pba-practice-exam-2024/
+https://www.udemy.com/course/entry-certificate-business-analysis-ecba-practice-test-2024/
+https://www.udemy.com/course/raspberry-pi-facial-recognition-door-lock-raspberry-pi/
+https://www.udemy.com/course/freertos-arduino-multi-tasking-with-freertos/
+https://www.udemy.com/course/preguntas-de-entrenamiento-para-product-owner-y-scrum-master/
+https://www.udemy.com/course/certified-entry-level-python-programmer-pcep-30-02/
