@@ -2679,3 +2679,6 @@ https://www.udemy.com/course/pcap-31-03-python-certification-exam-practice-tests
 https://www.udemy.com/course/ultimate-terraform-guide-with-interview-preparation/
 https://www.udemy.com/course/java-foundations-mastering-the-basics/
 https://www.udemy.com/course/git-github-for-beginners-from-start-to-star/
+https://www.udemy.com/course/from-beginner-to-advanced-level-php-practice-test/
+https://www.udemy.com/course/delivering-5-star-guest-customer-service/
+https://www.udemy.com/course/tabelle-pivot-e-dashboard-dinamiche-in-microsoft-excel/
