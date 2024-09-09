@@ -2751,3 +2751,11 @@ https://www.udemy.com/course/hr-predictive-analytics/
 https://www.udemy.com/course/itil-4-foundation-exam-prep-practice-tests/
 https://www.udemy.com/course/oca-certification-java-exam-practice-tests-oracle-prep-part-three/
 https://www.udemy.com/course/practical-iot-course-make-your-own-iot-liquid-level-meter/
+https://www.udemy.com/course/python-colab/
+https://www.udemy.com/course/hybrid-work-environments/
+https://www.udemy.com/course/70-347-enabling-office-365-services-practice-test-2024/
+https://www.udemy.com/course/70-410-instal-config-windows-server-2012-practice-test-2024/
+https://www.udemy.com/course/70-448-microsoft-sql-server-2008-r2-practice-test-2024/
+https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/
+https://www.udemy.com/course/220-1002-comptia-a-core-2-practice-test-2024/
+https://www.udemy.com/course/jk0-019-comptia-network-practice-test-2024/
