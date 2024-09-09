@@ -2759,3 +2759,5 @@ https://www.udemy.com/course/70-448-microsoft-sql-server-2008-r2-practice-test-2
 https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/
 https://www.udemy.com/course/220-1002-comptia-a-core-2-practice-test-2024/
 https://www.udemy.com/course/jk0-019-comptia-network-practice-test-2024/
+https://www.udemy.com/course/spring-boot-3-and-spring-framework/
+https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/
