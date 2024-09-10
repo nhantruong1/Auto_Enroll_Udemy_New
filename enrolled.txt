@@ -2774,3 +2774,5 @@ https://www.udemy.com/course/cissp-cheat-sheet-challenge-expertly-crafted-practi
 https://www.udemy.com/course/microsoft-dp-500-azure-enterprise-data-analyst-associate/
 https://www.udemy.com/course/300-730-svpn-implementing-with-virtual-private-networks-pro/
 https://www.udemy.com/course/kubernetes-and-cloud-native-associate-kcna-exam-prep2024/
+https://www.udemy.com/course/build-a-simple-react-app-from-scratch/
+https://www.udemy.com/course/become-a-corporate-winner/
