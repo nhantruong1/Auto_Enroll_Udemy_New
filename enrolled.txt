@@ -2829,3 +2829,4 @@ https://www.udemy.com/course/professional-scrum-product-owner-i-1040-questions-2
 https://www.udemy.com/course/elevate-your-content-with-chatgpt-tips-and-techniques/
 https://www.udemy.com/course/command-line-course/
 https://www.udemy.com/course/product-owner-certification-aec/
+https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/
