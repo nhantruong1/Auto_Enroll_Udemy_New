@@ -2846,3 +2846,7 @@ https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap
 https://www.udemy.com/course/2024-leadership-mastery-modern-leaders-practical-training/
 https://www.udemy.com/course/sc-100-microsoft-cybersecurity-architect-new-practice-tests/
 https://www.udemy.com/course/how-to-introduce-yourself/
+https://www.udemy.com/course/cloud-engineer-google-practice-test-2024/
+https://www.udemy.com/course/1z0-333-oracle-financials-cloud-2016-practice-test-2024/
+https://www.udemy.com/course/1z0-337-oracle-cloud-infra-classic-2018-practice-test-2024/
+https://www.udemy.com/course/70-693-managing-enterprise-devices-apps-practice-test-2024/
