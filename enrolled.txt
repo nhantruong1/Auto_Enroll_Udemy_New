@@ -2851,3 +2851,9 @@ https://www.udemy.com/course/1z0-333-oracle-financials-cloud-2016-practice-test-
 https://www.udemy.com/course/1z0-337-oracle-cloud-infra-classic-2018-practice-test-2024/
 https://www.udemy.com/course/70-693-managing-enterprise-devices-apps-practice-test-2024/
 https://www.udemy.com/course/windows-iot-10-raspberry-pi-raspberrypi-iot-bundle-bootcamp/
+https://www.udemy.com/course/create-snake-with-python-pygame/
+https://www.udemy.com/course/mastering-windows-security/
+https://www.udemy.com/course/digital-hidden-secrets/
+https://www.udemy.com/course/hackers-toolkit/
+https://www.udemy.com/course/ethical-hacking-command-injection/
+https://www.udemy.com/course/infrared-control-with-and-without-arduino-microcontroller-ir-transmit/
