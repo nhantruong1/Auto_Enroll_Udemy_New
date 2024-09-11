@@ -2857,3 +2857,10 @@ https://www.udemy.com/course/digital-hidden-secrets/
 https://www.udemy.com/course/hackers-toolkit/
 https://www.udemy.com/course/ethical-hacking-command-injection/
 https://www.udemy.com/course/infrared-control-with-and-without-arduino-microcontroller-ir-transmit/
+https://www.udemy.com/course/ethical-hacking-windows-exploitation-basics/
+https://www.udemy.com/course/osint-content-discovery/
+https://www.udemy.com/course/hack-network-pcs/
+https://www.udemy.com/course/mastering-google-calendar-mastering-your-day/
+https://www.udemy.com/course/mspowerpoint/
+https://www.udemy.com/course/pyspark-interview-questions/
+https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/
