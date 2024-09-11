@@ -2864,3 +2864,5 @@ https://www.udemy.com/course/mastering-google-calendar-mastering-your-day/
 https://www.udemy.com/course/mspowerpoint/
 https://www.udemy.com/course/pyspark-interview-questions/
 https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/
+https://www.udemy.com/course/microsoft-project-for-civil-engineers-learn-2-live-projects/
+https://www.udemy.com/course/curso-de-iniciacao-hacker-da-escola-de-hackers/
