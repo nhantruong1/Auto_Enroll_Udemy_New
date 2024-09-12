@@ -2875,3 +2875,7 @@ https://www.udemy.com/course/python-programming-a-step-by-step-programming-cours
 https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/
 https://www.udemy.com/course/converting-excel-calculations-formula-to-website-in-15-mints/
 https://www.udemy.com/course/c-certification-preparation-4-practice-tests/
+https://www.udemy.com/course/tableau-vs-google-looker/
+https://www.udemy.com/course/complete-python-game-development-course-from-zero-to-hero/
+https://www.udemy.com/course/certified-management-professional/
+https://www.udemy.com/course/core-java-and-coding-for-automation-testers-for-beginners/
