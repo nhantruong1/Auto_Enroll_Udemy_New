@@ -2879,3 +2879,11 @@ https://www.udemy.com/course/tableau-vs-google-looker/
 https://www.udemy.com/course/complete-python-game-development-course-from-zero-to-hero/
 https://www.udemy.com/course/certified-management-professional/
 https://www.udemy.com/course/core-java-and-coding-for-automation-testers-for-beginners/
+https://www.udemy.com/course/the-ultimate-ethical-hacking-masterclass/
+https://www.udemy.com/course/system-administration-with-python/
+https://www.udemy.com/course/the-challenge-quiz-game-with-html-css-js/
+https://www.udemy.com/course/python-project-masterclass/
+https://www.udemy.com/course/modern-vlogging-guide-how-to-start-successful-vlog-in-2020/
+https://www.udemy.com/course/php-with-mysql-2023-build-complete-tours-and-travel-website/
+https://www.udemy.com/course/mastering-prompt-engineering-a-toolkit-for-modern-marketers/
+https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/
