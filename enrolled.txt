@@ -2871,3 +2871,7 @@ https://www.udemy.com/course/google-ads-mastery-challenge-propel-your-digital-ma
 https://www.udemy.com/course/digital-mastery-google-ads-certification-challenge/
 https://www.udemy.com/course/mastering-google-analytics-individual-qualification-iq/
 https://www.udemy.com/course/ultimate-affiliate-marketing-guide/
+https://www.udemy.com/course/python-programming-a-step-by-step-programming-course/
+https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/
+https://www.udemy.com/course/converting-excel-calculations-formula-to-website-in-15-mints/
+https://www.udemy.com/course/c-certification-preparation-4-practice-tests/
