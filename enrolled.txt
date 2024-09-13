@@ -2946,3 +2946,12 @@ https://www.udemy.com/course/new-1z0-071-oracle-database-sql-certified-associate
 https://www.udemy.com/course/flutter-20-firebase-build-a-chat-app-for-ios-android/
 https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/
 https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/
+https://www.udemy.com/course/become-a-data-analyst/
+https://www.udemy.com/course/tableau-for-finance-starttech/
+https://www.udemy.com/course/tableau-for-hr/
+https://www.udemy.com/course/tableau-data-visualization-starttech/
+https://www.udemy.com/course/sales-analytics/
+https://www.udemy.com/course/excel-and-google-sheets/
+https://www.udemy.com/course/the-big-sql-bundle/
+https://www.udemy.com/course/postgresql-oracle-sql/
+https://www.udemy.com/course/essential-drawing-course-for-beginner-to-advanced/
