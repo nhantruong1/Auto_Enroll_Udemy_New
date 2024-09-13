@@ -2933,3 +2933,10 @@ https://www.udemy.com/course/vegas-pro-mastery-from-beginners-to-advanced-techni
 https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/
 https://www.udemy.com/course/ceh-practice-exam/
 https://www.udemy.com/course/cpa-affiliate-marketing-complete-beginner-to-advance-course/
+https://www.udemy.com/course/tableau-prep-starttech/
+https://www.udemy.com/course/create-a-complete-grid-based-puzzle-game-godot-4-c-sharp/
+https://www.udemy.com/course/pl-300-microsoft-power-bi-data-analyst-certification-2024/
+https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-2024-t/
+https://www.udemy.com/course/mastering-household-survey-data-processing-using-stata/
+https://www.udemy.com/course/excel-dashboard-2023/
+https://www.udemy.com/course/certified-kubernetes-application-developer-training/
