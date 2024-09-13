@@ -2914,3 +2914,11 @@ https://www.udemy.com/course/aprende-a-utilizar-la-terminal-de-linux-desde-cero-
 https://www.udemy.com/course/the-complete-playwright-bootcamp-zero-to-hero-in-ecommerce/
 https://www.udemy.com/course/artificial-intelligence-interview-questions/
 https://www.udemy.com/course/python-mastery-the-complete-web-programming-course/
+https://www.udemy.com/course/php-bootcamp-the-complete-programming-course-with-mysql/
+https://www.udemy.com/course/mastering-html5-and-css3-part-1-beginner-level/
+https://www.udemy.com/course/javascript-from-scratch-beginner-level/
+https://www.udemy.com/course/the-complete-android-kotlin-app-development-a-z-bootcamp/
+https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/
+https://www.udemy.com/course/php-with-mysql-2023-build-hotel-booking-management-system/
+https://www.udemy.com/course/learn-algorithms-and-data-structure-from-zero-to-hero-in-js/
+https://www.udemy.com/course/legal-tender-high-powered-money-and-fiduciary-money/
