@@ -2922,3 +2922,6 @@ https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/
 https://www.udemy.com/course/php-with-mysql-2023-build-hotel-booking-management-system/
 https://www.udemy.com/course/learn-algorithms-and-data-structure-from-zero-to-hero-in-js/
 https://www.udemy.com/course/legal-tender-high-powered-money-and-fiduciary-money/
+https://www.udemy.com/course/learn-ui-ux-design-adobe-xd-figma-uiuxdesign/
+https://www.udemy.com/course/how-to-speak-on-the-telephone/
+https://www.udemy.com/course/balance-of-payments-dynamics-causes-and-corrective-measures/
