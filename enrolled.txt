@@ -2940,3 +2940,9 @@ https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-2024-t/
 https://www.udemy.com/course/mastering-household-survey-data-processing-using-stata/
 https://www.udemy.com/course/excel-dashboard-2023/
 https://www.udemy.com/course/certified-kubernetes-application-developer-training/
+https://www.udemy.com/course/home-automation-using-raspberry-pi-2-and-windows-10-iot-windowsiot10/
+https://www.udemy.com/course/practical-iot-development-training-course-with-esp32/
+https://www.udemy.com/course/new-1z0-071-oracle-database-sql-certified-associate-exams/
+https://www.udemy.com/course/flutter-20-firebase-build-a-chat-app-for-ios-android/
+https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/
+https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/
