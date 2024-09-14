@@ -2956,3 +2956,7 @@ https://www.udemy.com/course/the-big-sql-bundle/
 https://www.udemy.com/course/postgresql-oracle-sql/
 https://www.udemy.com/course/essential-drawing-course-for-beginner-to-advanced/
 https://www.udemy.com/course/learn-to-build-e-commerce-using-angular-and-net-core-arabic/
+https://www.udemy.com/course/mastering-html5-and-css3-part-3-advanced-level/
+https://www.udemy.com/course/mastering-html5-and-css3-part-2-intermediate-level/
+https://www.udemy.com/course/make-a-web-template-responsive-using-html5-css3/
+https://www.udemy.com/course/design-a-website-template-using-html5-css3/
