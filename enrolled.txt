@@ -2955,3 +2955,4 @@ https://www.udemy.com/course/excel-and-google-sheets/
 https://www.udemy.com/course/the-big-sql-bundle/
 https://www.udemy.com/course/postgresql-oracle-sql/
 https://www.udemy.com/course/essential-drawing-course-for-beginner-to-advanced/
+https://www.udemy.com/course/learn-to-build-e-commerce-using-angular-and-net-core-arabic/
