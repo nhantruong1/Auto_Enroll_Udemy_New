@@ -2988,3 +2988,6 @@ https://www.udemy.com/course/programacion-web-php-mvc-poo-y-mysql-tienda-online/
 https://www.udemy.com/course/learn-tailwind-css-quickly/
 https://www.udemy.com/course/project-finance-fundamentals/
 https://www.udemy.com/course/project-finance-excel-build-financial-models-from-scratch/
+https://www.udemy.com/course/formation-examen-toeic/
+https://www.udemy.com/course/forex-mastery-technical-fundamental-analysis-mega-course/
+https://www.udemy.com/course/complete-fundamental-analysis-master-course/
