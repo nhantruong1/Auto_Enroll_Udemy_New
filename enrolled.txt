@@ -3001,3 +3001,7 @@ https://www.udemy.com/course/nmap-masterclass/
 https://www.udemy.com/course/adobe-photoshop-mega-mastery-course-novice-to-pro/
 https://www.udemy.com/course/crafting-magic-with-firefly/
 https://www.udemy.com/course/the-ultimate-adobe-photoshop-fundamental-course/
+https://www.udemy.com/course/jquery-complete-jquery-course-from-beginner-to-advanced/
+https://www.udemy.com/course/an-in-depth-study-of-antivirus-software
+https://www.udemy.com/course/dbms-meaning-functions-and-database-servers-types/
+https://www.udemy.com/course/java-data-structures-and-algorithms-masterclass/
