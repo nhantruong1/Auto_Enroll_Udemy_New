@@ -3016,3 +3016,6 @@ https://www.udemy.com/course/image_classification_for_android_app_development_ko
 https://www.udemy.com/course/introduction-to-python-games-programming-using-pygame/
 https://www.udemy.com/course/learn-asp-net-c-oops-sql-and-javascript-for-development/
 https://www.udemy.com/course/build-a-google-meet-clone-from-scratch/
+https://www.udemy.com/course/ace-the-pmi-pmp-certification-master-your-pmp-exam/
+https://www.udemy.com/course/aws-dva-c02-practice-test-06-exam-simulation-aug-2024
+https://www.udemy.com/course/learn-practical-exports-marketing-skills/
