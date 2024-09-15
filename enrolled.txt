@@ -3031,3 +3031,6 @@ https://www.udemy.com/course/simulink-for-starters-building-your-first-models/
 https://www.udemy.com/course/top-10-personal-trainer-marketing-secrets/
 https://www.udemy.com/course/adobe-premiere-pro-masterclass/
 https://www.udemy.com/course/speak-to-your-esp32-control-esp-iot-devices-your-voice/
+https://www.udemy.com/course/create-designs-with-canva/
+https://www.udemy.com/course/sap-c_arcon_2404-ariba-implementation-real-exam-dumps/
+https://www.udemy.com/course/platformio-cross-platform-embedded-development-environment/
