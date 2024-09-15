@@ -3013,3 +3013,6 @@ https://www.udemy.com/course/from-zero-to-hero-computer-virus-detection-and-erad
 https://www.udemy.com/course/a1-mlohv/
 https://www.udemy.com/course/the-introvert-confidence-system/
 https://www.udemy.com/course/image_classification_for_android_app_development_kotlin/
+https://www.udemy.com/course/introduction-to-python-games-programming-using-pygame/
+https://www.udemy.com/course/learn-asp-net-c-oops-sql-and-javascript-for-development/
+https://www.udemy.com/course/build-a-google-meet-clone-from-scratch/
