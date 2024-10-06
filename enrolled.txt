@@ -3047,3 +3047,5 @@ https://www.udemy.com/course/300-820-implementing-cisco-collaboration-cloud-edge
 https://www.udemy.com/course/300-835-automating-cisco-collaboration-solution/
 https://www.udemy.com/course/vmware-cloud-foundation-administrator-2024-practice-exam/
 https://www.udemy.com/course/certified-artificial-intelligence-practical-exam-preparation/
+https://www.udemy.com/course/mastering-mysql-database-creation-management-sql-queries/
+https://www.udemy.com/course/hackers-vs-websites-motivations-weaknesses-techniques/
