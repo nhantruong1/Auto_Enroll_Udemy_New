@@ -3072,3 +3072,12 @@ https://www.udemy.com/course/azure-for-beginners-portal-virtual-machine-and-comp
 https://www.udemy.com/course/vmware-vsphere-foundation-administrator-2024-practice-exam/
 https://www.udemy.com/course/comptia-security-syo-701-practice-exam-2023/
 https://www.udemy.com/course/corporate-banking-products-loans-relationship-management/
+https://www.udemy.com/course/docker-container/
+https://www.udemy.com/course/elementor-ecommerce-hosting-crea-una-tienda-online-con-wordpress/
+https://www.udemy.com/course/mastering-jenkins-building-continuous-integration-pipelines/
+https://www.udemy.com/course/devops-multi-project-and-troubleshooting/
+https://www.udemy.com/course/dop-c02-aws-certified-devops-engineer-practice-test/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-6-ultimate-exams/
+https://www.udemy.com/course/cmt-level-1-exam-prep-course-comprehensive-preparation/
+https://www.udemy.com/course/comptia-a-core-2-220-1102-ultimate-practice-exams-2023/
+https://www.udemy.com/course/banking-credit-portfolio-management-lending-to-recovery/
