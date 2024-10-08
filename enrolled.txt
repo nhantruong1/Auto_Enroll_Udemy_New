@@ -3235,3 +3235,8 @@ https://www.udemy.com/course/2v0-7121-professional-vmware-application-modernizat
 https://www.udemy.com/course/project-management-professional-pmp-certification-exam-prep/
 https://www.udemy.com/course/professional-logo-production-with-artificial-intelligence/
 https://www.udemy.com/course/voice-cloning-with-artificial-intelligence/
+https://www.udemy.com/course/git-for-beginners-course/
+https://www.udemy.com/course/build-modern-php-api/
+https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/
+https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/
+https://www.udemy.com/course/artificial-intelligence-creating-video-from-photo/
