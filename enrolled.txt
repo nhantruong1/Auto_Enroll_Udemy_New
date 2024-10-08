@@ -3221,3 +3221,12 @@ https://www.udemy.com/course/angular-web-design/
 https://www.udemy.com/course/design-thinking-for-long-term-business-success/
 https://www.udemy.com/course/web-applications-part-1/
 https://www.udemy.com/course/web-applications-step-by-step-guide-part-3/
+https://www.udemy.com/course/master-spring-framework/
+https://www.udemy.com/course/gen-ai-tools-for-business-operation-leaders/
+https://www.udemy.com/course/complete-it-requirements-and-requirement-engineering-course/
+https://www.udemy.com/course/laravel-and-postman-rest-api-development-beginner-to-pro/
+https://www.udemy.com/course/mastering-c-fundamentals-with-generative-ai-a-hands-on/
+https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/
+https://www.udemy.com/course/java-programming-with-chatgpt-learn-using-generative-ai/
+https://www.udemy.com/course/master-azure-synapse-analytics-beginner-to-pro-in-2-days/
+https://www.udemy.com/course/2v0-5121-professional-vmware-horizon-8x-practice-exam/
