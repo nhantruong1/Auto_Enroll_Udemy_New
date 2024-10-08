@@ -3230,3 +3230,8 @@ https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/
 https://www.udemy.com/course/java-programming-with-chatgpt-learn-using-generative-ai/
 https://www.udemy.com/course/master-azure-synapse-analytics-beginner-to-pro-in-2-days/
 https://www.udemy.com/course/2v0-5121-professional-vmware-horizon-8x-practice-exam/
+https://www.udemy.com/course/mastering-power-bidata-analysis-and-visualization/
+https://www.udemy.com/course/2v0-7121-professional-vmware-application-modernizations/
+https://www.udemy.com/course/project-management-professional-pmp-certification-exam-prep/
+https://www.udemy.com/course/professional-logo-production-with-artificial-intelligence/
+https://www.udemy.com/course/voice-cloning-with-artificial-intelligence/
