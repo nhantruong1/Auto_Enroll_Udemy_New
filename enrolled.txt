@@ -3243,3 +3243,4 @@ https://www.udemy.com/course/artificial-intelligence-creating-video-from-photo/
 https://www.udemy.com/course/public-speaking-and-presentation-skills-course/
 https://www.udemy.com/course/aws-solutions-architect-associate-saa-c03-practice-exams-l/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-practice-exams-e/
+https://www.udemy.com/course/3v0-2123-advanced-professional-vmware-vsphere-8x-design/
