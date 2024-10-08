@@ -3217,3 +3217,7 @@ https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-proj
 https://www.udemy.com/course/process-design-certification/
 https://www.udemy.com/course/esg-community-engagement-become-a-force-for-good/
 https://www.udemy.com/course/comptia-server-practice-tests-questions/
+https://www.udemy.com/course/angular-web-design/
+https://www.udemy.com/course/design-thinking-for-long-term-business-success/
+https://www.udemy.com/course/web-applications-part-1/
+https://www.udemy.com/course/web-applications-step-by-step-guide-part-3/
