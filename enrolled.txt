@@ -3274,3 +3274,7 @@ https://www.udemy.com/course/foundations-of-networking-with-cisco/
 https://www.udemy.com/course/python-programming-the-complete-course-for-success/
 https://www.udemy.com/course/behavioral-economics-merging-psychology-economics/
 https://www.udemy.com/course/comprehensive-react-js-test/
+https://www.udemy.com/course/chatbot-for-begineer-create-an-ai-chatbot-without-coding/
+https://www.udemy.com/course/chatgpt-for-video-creation-and-editing-complete-guide/
+https://www.udemy.com/course/crypto-airdrop-farming-guide-strategy-for-beginners/
+https://www.udemy.com/course/3v0-4220-advanced-professional-vmware-nsx-t-data-center/
