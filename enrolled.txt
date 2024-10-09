@@ -3288,3 +3288,9 @@ https://www.udemy.com/course/700-551-cisco-cloud-and-managed-services-sales-spec
 https://www.udemy.com/course/700-250-understanding-cisco-cybersecurity-fundamentals/
 https://www.udemy.com/course/700-150-introducing-cisco-data-center-networking-dcicn/
 https://www.udemy.com/course/jn0-104-juniper-networks-associate-practice-test/
+https://www.udemy.com/course/revit-architecture-mastery-for-architects-and-bim-modelers/
+https://www.udemy.com/course/bim-autodesk-navisworks-manage-2023-from-zero-to-advanced/
+https://www.udemy.com/course/google-bard-ai-masterclass-a-complete-google-bard-chatbot/
+https://www.udemy.com/course/python-mastery-with-tabnine-ai-enhanced-coding-efficiency/
+https://www.udemy.com/course/complete-course-in-autocad-electrical-2021/
+https://www.udemy.com/course/700-265-implementing-cisco-edge-network-security-solutions/
