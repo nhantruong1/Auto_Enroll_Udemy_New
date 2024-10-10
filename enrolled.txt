@@ -3319,3 +3319,8 @@ https://www.udemy.com/course/watchguard-firewalls-crash-course-for-beginners/
 https://www.udemy.com/course/chatgpt-for-it-professionals-crash-course/
 https://www.udemy.com/course/hands-on-cisco-labs-quality-of-service-qos-fundamentals/
 https://www.udemy.com/course/fundamentals-software-programmer-career-engineering/
+https://www.udemy.com/course/mastering-mermaidjs-diagram-charts-and-data-visualization/
+https://www.udemy.com/course/mindful-stress-management-master-emotional-control-today/
+https://www.udemy.com/course/git-github-training/
+https://www.udemy.com/course/python-programming-build-a-strong-foundation-in-coding/
+https://www.udemy.com/course/design-pattern-in-python-with-real-world-examples/
