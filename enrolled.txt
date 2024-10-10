@@ -3369,3 +3369,14 @@ https://www.udemy.com/course/react-interview-questions-and-practice-tests/
 https://www.udemy.com/course/python-programming-mastery-pcap-practice-test/
 https://www.udemy.com/course/advertising-strategy-o/
 https://www.udemy.com/course/embracing-a-skills-first-mindset-for-your-organization-c/
+https://www.udemy.com/course/microsoft-excel-intermedio/
+https://www.udemy.com/course/aprende-sql-desde-cero-curso-con-mas-de-100-ejercicios/
+https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/
+https://www.udemy.com/course/power-bi-dax-avanzado/
+https://www.udemy.com/course/python-3-plus-python-desde-cero-data-analysis-y-matplot/
+https://www.udemy.com/course/aprende-sql-nivel-avanzado-curso-con-mas-de-50-ejercicios/
+https://www.udemy.com/course/python-genai-basics/
+https://www.udemy.com/course/r-desde-cero-el-curso-mas-poderoso/
+https://www.udemy.com/course/el-curso-completo-de-google-sheets-desde-cero/
+https://www.udemy.com/course/tableau-10-desde-cero/
+https://www.udemy.com/course/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/
