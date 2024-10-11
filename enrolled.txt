@@ -3451,3 +3451,7 @@ https://www.udemy.com/course/autocad-3d-autocad-civil-architectural/
 https://www.udemy.com/course/digital-marketing-and-gdpr-data-protection/
 https://www.udemy.com/course/erp-crm-implementation-with-free-open-source-software/
 https://www.udemy.com/course/security-intrusion-alarm-systems-the-complete-guide/
+https://www.udemy.com/course/agile-coach-certification/
+https://www.udemy.com/course/alteryx-masterclass-for-data-analytics-etl-and-reporting/
+https://www.udemy.com/course/create-web-apps-with-astrojs-htmx-and-alpinejs/
+https://www.udemy.com/course/presentation-expert-ai-gpt-pitch-decks-business-speech/
