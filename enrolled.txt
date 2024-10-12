@@ -3462,3 +3462,9 @@ https://www.udemy.com/course/how-to-start-podcast-storytelling/
 https://www.udemy.com/course/the-psychology-of-toxic-relationships/
 https://www.udemy.com/course/scientific_research/
 https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/
+https://www.udemy.com/course/ai-cold-calling-course/
+https://www.udemy.com/course/sql-problem-solving-for-interviews/
+https://www.udemy.com/course/curso-de-git-bash-y-apache-ant-para-proyectos-java-netbeans/
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03-30daychallenge/
+https://www.udemy.com/course/centos-and-ubuntu-managing-packages/
+https://www.udemy.com/course/ccna-200-301-exam-success-expert-answers-explanations/
