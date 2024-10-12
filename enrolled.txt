@@ -3470,3 +3470,10 @@ https://www.udemy.com/course/centos-and-ubuntu-managing-packages/
 https://www.udemy.com/course/ccna-200-301-exam-success-expert-answers-explanations/
 https://www.udemy.com/course/english-pron/
 https://www.udemy.com/course/introduction-to-css-flexbox/
+https://www.udemy.com/course/computer-networks-theory-and-network-configurations/
+https://www.udemy.com/course/learning-microsoft-word-through-an-exciting-book-project/
+https://www.udemy.com/course/excel-essentials-unlocking-mastery-with-practical-exercises/
+https://www.udemy.com/course/certified-data-management-professional-cdmp-associate/
+https://www.udemy.com/course/presentations-with-chatgpt-aec/
+https://www.udemy.com/course/mega-microsoft-office-course-covers-seven-office-products/
+https://www.udemy.com/course/windows-server-2016-with-powershell-fundamentals/
