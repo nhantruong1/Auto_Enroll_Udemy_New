@@ -3549,3 +3549,9 @@ https://www.udemy.com/course/advanced-flutter-mvvm-with-provider-riverpod-bloc/
 https://www.udemy.com/course/add-wifi-to-arduino-boards/
 https://www.udemy.com/course/raspberry-pi-getting-started-with-raspberry-pi-p/
 https://www.udemy.com/course/1z0-900-oracle-java-ee-7-practice-test-exam-prep/
+https://www.udemy.com/course/mastering-web-performance-optimization/
+https://www.udemy.com/course/mongodb-beginner-practice-exams/
+https://www.udemy.com/course/linux-commands-line/
+https://www.udemy.com/course/learn-cloud-computing/
+https://www.udemy.com/course/microsoft-excel-unlocking-formulas-charts-and-analytics/
+https://www.udemy.com/course/getting-started-with-react-and-vite-library/
