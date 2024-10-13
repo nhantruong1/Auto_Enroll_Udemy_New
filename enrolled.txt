@@ -3541,3 +3541,11 @@ https://www.udemy.com/course/2020-amazon-fba-pl-product-hunting-tactics-under-1-
 https://www.udemy.com/course/sistema-punto-de-venta-con-php-y-mysql-con-adminlte/
 https://www.udemy.com/course/practice-tests-aws-certified-solutions-architect-associate-c/
 https://www.udemy.com/course/hacking-etico-como-se-usan-los-malware-virus-troyanos/
+https://www.udemy.com/course/convertools/
+https://www.udemy.com/course/mastering-aws-serverless-hands-on-with-core-aws-services/
+https://www.udemy.com/course/create-intelligent-excel-ai/
+https://www.udemy.com/course/chief-marketing-officer/
+https://www.udemy.com/course/advanced-flutter-mvvm-with-provider-riverpod-bloc/
+https://www.udemy.com/course/add-wifi-to-arduino-boards/
+https://www.udemy.com/course/raspberry-pi-getting-started-with-raspberry-pi-p/
+https://www.udemy.com/course/1z0-900-oracle-java-ee-7-practice-test-exam-prep/
