@@ -3555,3 +3555,5 @@ https://www.udemy.com/course/linux-commands-line/
 https://www.udemy.com/course/learn-cloud-computing/
 https://www.udemy.com/course/microsoft-excel-unlocking-formulas-charts-and-analytics/
 https://www.udemy.com/course/getting-started-with-react-and-vite-library/
+https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-exa/
+https://www.udemy.com/course/xgwnmofc/
