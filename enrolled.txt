@@ -3559,3 +3559,6 @@ https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c0
 https://www.udemy.com/course/xgwnmofc/
 https://www.udemy.com/course/junit-interview-questions/
 https://www.udemy.com/course/marketing-pessoal-top/
+https://www.udemy.com/course/become-an-expert-in-excel-google-sheet-formula-functions/
+https://www.udemy.com/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/
+https://www.udemy.com/course/b2b-sales-executive/
