@@ -3566,3 +3566,8 @@ https://www.udemy.com/course/python-crash-course-cgev/
 https://www.udemy.com/course/uipath-rpa-developer-uiard-certification-practice-tests/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-exams-k/
 https://www.udemy.com/course/learn-about-students-quality-circles-sqc-n/
+https://www.udemy.com/course/bell-curve/
+https://www.udemy.com/course/guitar-music-theory-in-excel-scales-intervals-modes-more/
+https://www.udemy.com/course/ultimate-generative-persuasion/
+https://www.udemy.com/course/dva-c02-aws-certified-developer-associate-practice/
+https://www.udemy.com/course/business-case-sustainability/
