@@ -3557,3 +3557,5 @@ https://www.udemy.com/course/microsoft-excel-unlocking-formulas-charts-and-analy
 https://www.udemy.com/course/getting-started-with-react-and-vite-library/
 https://www.udemy.com/course/aws-certified-sysops-administrator-associate-soa-c02-exa/
 https://www.udemy.com/course/xgwnmofc/
+https://www.udemy.com/course/junit-interview-questions/
+https://www.udemy.com/course/marketing-pessoal-top/
