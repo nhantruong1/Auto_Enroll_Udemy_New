@@ -3599,3 +3599,7 @@ https://www.udemy.com/course/essential-tools-for-working-remotely-google-apps/
 https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/
 https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/
 https://www.udemy.com/course/marketing-analytics-marketing-strategy-models-in-excel/
+https://www.udemy.com/course/sqlite-mastering-android-sqlite-database-development/
+https://www.udemy.com/course/self-driving-cars-a-guide-to-mastering-autonomous-mobility/
+https://www.udemy.com/course/mbed-and-cmsis/
+https://www.udemy.com/course/adobe-flash-mastery-from-basics-to-advanced/
