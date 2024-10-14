@@ -3582,3 +3582,6 @@ https://www.udemy.com/course/computer-networks-for-physical-security-systems-ins
 https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/
 https://www.udemy.com/course/splk-1003-splunk-enterprise-certified-admin-5-practice-tests/
 https://www.udemy.com/course/analyze-annual-reports-of-companies-to-evaluate-performance/
+https://www.udemy.com/course/tools-to-shape-a-secure-learning-environment/
+https://www.udemy.com/course/sql-developer-with-ai/
+https://www.udemy.com/course/jn0-223-juniper-network-professional-data-cente-practice/
