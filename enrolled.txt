@@ -3592,3 +3592,10 @@ https://www.udemy.com/course/sales-marketing-techniques/
 https://www.udemy.com/course/cka-ckad-crash-course/
 https://www.udemy.com/course/crisis-management-the-economic-response-to-a-pandemic/
 https://www.udemy.com/course/practical-leadership-in-a-digital-world/
+https://www.udemy.com/course/python-genai-from-scratch/
+https://www.udemy.com/course/linear-regression-and-logistic-regression-r-studio-starttech/
+https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/
+https://www.udemy.com/course/essential-tools-for-working-remotely-google-apps/
+https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/
+https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/
+https://www.udemy.com/course/marketing-analytics-marketing-strategy-models-in-excel/
