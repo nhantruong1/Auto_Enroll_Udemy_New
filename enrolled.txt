@@ -3562,3 +3562,6 @@ https://www.udemy.com/course/marketing-pessoal-top/
 https://www.udemy.com/course/become-an-expert-in-excel-google-sheet-formula-functions/
 https://www.udemy.com/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/
 https://www.udemy.com/course/b2b-sales-executive/
+https://www.udemy.com/course/python-crash-course-cgev/
+https://www.udemy.com/course/uipath-rpa-developer-uiard-certification-practice-tests/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-exams-k/
