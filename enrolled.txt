@@ -3640,3 +3640,7 @@ https://www.udemy.com/course/700-105-interconnecting-cisco-networking-devices-pa
 https://www.udemy.com/course/ans-c01-aws-certified-advanced-networking-specialty-exam/
 https://www.udemy.com/course/clf-c01-aws-certified-cloud-practitioner-practice-test-2024/
 https://www.udemy.com/course/das-c01-aws-certified-data-analytics-practice-test/
+https://www.udemy.com/course/c-programming-language-practice-tests-interview-questions-q/
+https://www.udemy.com/course/desalination-for-water-management/
+https://www.udemy.com/course/drinking-water-explained-for-water-management/
+https://www.udemy.com/course/1z0-997-oracle-cloud-infrastructure-2020-practice-test-2024/
