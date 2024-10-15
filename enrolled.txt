@@ -3629,3 +3629,5 @@ https://www.udemy.com/course/database-management-knexjs-postgresql/
 https://www.udemy.com/course/url-shortener-typescript-koa-postgresql/
 https://www.udemy.com/course/dcpp-certification-prep-intensive-mock-test-review/
 https://www.udemy.com/course/teradata-interview-questions/
+https://www.udemy.com/course/e_s4cpe-certification-questions/
+https://www.udemy.com/course/c_s4cfi-financial-accounting-practice-test-dumps/
