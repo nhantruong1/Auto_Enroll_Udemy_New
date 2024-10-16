@@ -3670,3 +3670,11 @@ https://www.udemy.com/course/clf-c02-aws-certified-cloud-practitioner-practice/
 https://www.udemy.com/course/jn0-252-juniper-networks-specialist-cloud-practice/
 https://www.udemy.com/course/jn0-231-juniper-networks-specialist-security-ptactice/
 https://www.udemy.com/course/jn0-280-juniper-networks-specialist-cloud-security-practice/
+https://www.udemy.com/course/how-to-give-a-sales-presentation/
+https://www.udemy.com/course/abcd-airflow-23x-helm-eks-minikube/
+https://www.udemy.com/course/500-240-implementing-cisco-business-resiliency/
+https://www.udemy.com/course/500-285-implementing-cisco-collaboration-application/
+https://www.udemy.com/course/500-490-implementing-cisco-collaboration-application/
+https://www.udemy.com/course/jn0-349-juniper-network-professional-security-practice/
+https://www.udemy.com/course/jn0-335-juniper-networks-specialist-security-practice/
+https://www.udemy.com/course/500-560-implementing-cisco-collaboration-applications/
