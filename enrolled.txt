@@ -3710,3 +3710,4 @@ https://www.udemy.com/course/python-clothes-application/
 https://www.udemy.com/course/c-plus-plus-programming-language/
 https://www.udemy.com/course/master-the-basics-of-the-paleo-diet/
 https://www.udemy.com/course/how-to-accelerate-your-business-benefits/
+https://www.udemy.com/course/vmware-cloud-foundation-administrator-2024/
