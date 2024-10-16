@@ -3665,3 +3665,8 @@ https://www.udemy.com/course/vmware-cloud-foundation-52-administrator-2v0-1124-e
 https://www.udemy.com/course/unlock-cct-data-center-010-151-dctech-essential-training/
 https://www.udemy.com/course/clf-c02-aws-certified-cloud-practitioner-exam-tests-oct-2024/
 https://www.udemy.com/course/saa-c03-aws-certified-solutions-architect-associate-practice/
+https://www.udemy.com/course/build-and-deploy-responsive-websites-on-aws-using-html-css/
+https://www.udemy.com/course/clf-c02-aws-certified-cloud-practitioner-practice/
+https://www.udemy.com/course/jn0-252-juniper-networks-specialist-cloud-practice/
+https://www.udemy.com/course/jn0-231-juniper-networks-specialist-security-ptactice/
+https://www.udemy.com/course/jn0-280-juniper-networks-specialist-cloud-security-practice/
