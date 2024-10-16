@@ -3706,3 +3706,5 @@ https://www.udemy.com/course/working-with-project-managers-and-project-sponsors/
 https://www.udemy.com/course/4-practice-tests-for-python-certification-preparation/
 https://www.udemy.com/course/integration-testing-from-basics-to-execution/
 https://www.udemy.com/course/pega-certification/
+https://www.udemy.com/course/python-clothes-application/
+https://www.udemy.com/course/c-plus-plus-programming-language/
