@@ -3728,3 +3728,10 @@ https://www.udemy.com/course/wastewater-sanitation-for-water-management/
 https://www.udemy.com/course/esphome-fur-den-esp32-ohne-programmierung-zum-smart-home/
 https://www.udemy.com/course/oszilloskop-einsteiger-bootcamp-fur-arduino-entwickler/
 https://www.udemy.com/course/ethology-for-veterinerian-an-introduction/
+https://www.udemy.com/course/html-css-certification-course-for-beginners/
+https://www.udemy.com/course/learn-mysql-for-beginners/
+https://www.udemy.com/course/internet-and-web-development-fundamentals/
+https://www.udemy.com/course/fcp_fgt_ad-74-fortigate-administrator-practice-test/
+https://www.udemy.com/course/upgrade-to-oracle-database-12c-1z0-060/
+https://www.udemy.com/course/fcss_sase_ad-23-fortinet-secure-access-service-practice/
+https://www.udemy.com/course/fcp_fmg_ad74-fortimanager-administrator-practice-test/
