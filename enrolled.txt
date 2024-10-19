@@ -3856,3 +3856,6 @@ https://www.udemy.com/course/november-blues/
 https://www.udemy.com/course/boris-and-brexit-an-economic-analysis/
 https://www.udemy.com/course/400-sql-basic-to-advanced-question-practice-tests/
 https://www.udemy.com/course/data-structures-and-algorithms-simplified-bootcamp/
+https://www.udemy.com/course/odysy-cs-bootcamp/
+https://www.udemy.com/course/generative-ai-and-prompt-engineering-with-chatgpt-and-more/
+https://www.udemy.com/course/lets-talk-about-grief/
