@@ -3855,3 +3855,4 @@ https://www.udemy.com/course/quakernomics/
 https://www.udemy.com/course/november-blues/
 https://www.udemy.com/course/boris-and-brexit-an-economic-analysis/
 https://www.udemy.com/course/400-sql-basic-to-advanced-question-practice-tests/
+https://www.udemy.com/course/data-structures-and-algorithms-simplified-bootcamp/
