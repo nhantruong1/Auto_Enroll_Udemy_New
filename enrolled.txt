@@ -3889,3 +3889,8 @@ https://www.udemy.com/course/azure-devops-ci-cd-pipelines/
 https://www.udemy.com/course/sap-basics-introduction-and-navigation/
 https://www.udemy.com/course/snowflake-cloud-data-platform/
 https://www.udemy.com/course/pmi-capm-mock-exam/
+https://www.udemy.com/course/splk-1002-splunk-core-certified-power-user-practice-tests-k/
+https://www.udemy.com/course/comptia-network-n10-009-qa-mastery-ace-the-n10-009/
+https://www.udemy.com/course/sap-c_ts4co_2023-management-accounting-extreme-exam-dumps/
+https://www.udemy.com/course/sap-c_ts4fi_2023-financial-accounting-extreme-exam-dumps/
+https://www.udemy.com/course/sap-c_ts410_2022-business-process-integration-exam-dumps/
