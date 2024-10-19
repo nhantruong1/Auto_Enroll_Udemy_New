@@ -3885,3 +3885,7 @@ https://www.udemy.com/course/psm-1-certification-mock-test/
 https://www.udemy.com/course/certified-scrum-master-csm-mock-test/
 https://www.udemy.com/course/prince2-foundation-mock-exams/
 https://www.udemy.com/course/pmi-acp-mock-exam-2024/
+https://www.udemy.com/course/azure-devops-ci-cd-pipelines/
+https://www.udemy.com/course/sap-basics-introduction-and-navigation/
+https://www.udemy.com/course/snowflake-cloud-data-platform/
+https://www.udemy.com/course/pmi-capm-mock-exam/
