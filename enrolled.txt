@@ -3939,3 +3939,12 @@ https://www.udemy.com/course/640-692-implementing-cisco-industrial-networking/
 https://www.udemy.com/course/700-755-cisco-security-sales-specialist-exam/
 https://www.udemy.com/course/700-760-cisco-iot-advantage-sales-specialist-exam/
 https://www.udemy.com/course/820-605-cisco-customer-experience-cx-specialist-exam/
+https://www.udemy.com/course/master-youtube-automation-create-content-effortlessly/
+https://www.udemy.com/course/corporate-governance-a-comprehensive-overview/
+https://www.udemy.com/course/dbs-c01-aws-certified-database-specialty-practice-test/
+https://www.udemy.com/course/2v0-8120-professional-vmware-security-practice-exam/
+https://www.udemy.com/course/3v0-2121-advanced-professional-vmware-vsphere-7x-design/
+https://www.udemy.com/course/5v0-2223-vmware-certified-professional-vmware-vsan-8x/
+https://www.udemy.com/course/300-610-cisco-data-center-infrastructure-practice-test/
+https://www.udemy.com/course/300-635-cisco-data-center-solutions-practice-test/
+https://www.udemy.com/course/aprende-a-crear-minimal-apis-con-net-swagger-sql-server/
