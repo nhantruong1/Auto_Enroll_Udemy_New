@@ -3948,3 +3948,7 @@ https://www.udemy.com/course/5v0-2223-vmware-certified-professional-vmware-vsan-
 https://www.udemy.com/course/300-610-cisco-data-center-infrastructure-practice-test/
 https://www.udemy.com/course/300-635-cisco-data-center-solutions-practice-test/
 https://www.udemy.com/course/aprende-a-crear-minimal-apis-con-net-swagger-sql-server/
+https://www.udemy.com/course/introduction-to-arm-cortex-m-architecture/
+https://www.udemy.com/course/pic-microcontroller-build-engineering-projects-today/
+https://www.udemy.com/course/fastapi-interview/
+https://www.udemy.com/course/bun-js-interview/
