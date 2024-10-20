@@ -3929,3 +3929,13 @@ https://www.udemy.com/course/nse6_fac-64-fortinet-network-security-expert-practi
 https://www.udemy.com/course/excel-vba-para-principiantes-aprenda-excel-vba-paso-a-paso/
 https://www.udemy.com/course/advanced-nursing-research/
 https://www.udemy.com/course/nse5_fsm-63-fortinet-network-security-expert-practice/
+https://www.udemy.com/course/sap-basics-sap-query/
+https://www.udemy.com/course/mastering-data-cleansing-techniques-and-best-practices/
+https://www.udemy.com/course/sap-basics-reporting-tools/
+https://www.udemy.com/course/sap-basics-abap-dictionary/
+https://www.udemy.com/course/500-651-implementing-cisco-collaboration-applications/
+https://www.udemy.com/course/500-710-implementing-cisco-collaboration-applications/
+https://www.udemy.com/course/640-692-implementing-cisco-industrial-networking/
+https://www.udemy.com/course/700-755-cisco-security-sales-specialist-exam/
+https://www.udemy.com/course/700-760-cisco-iot-advantage-sales-specialist-exam/
+https://www.udemy.com/course/820-605-cisco-customer-experience-cx-specialist-exam/
