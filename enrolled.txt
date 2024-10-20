@@ -3920,3 +3920,9 @@ https://www.udemy.com/course/learn-django-web-development-with-3-real-world-proj
 https://www.udemy.com/course/100-101-interconnecting-cisco-networking-devices-part-1/
 https://www.udemy.com/course/time-management-to-sell-more-and-earn-more/
 https://www.udemy.com/course/the-future-of-creative-content-unlocking-potential-with-ai/
+https://www.udemy.com/course/master-python-generative-ai-for-advanced-analytics/
+https://www.udemy.com/course/windows-server-2016-with-powershell-working-with-pipeline-1/
+https://www.udemy.com/course/foundations-of-oil-painting-master-the-basics/
+https://www.udemy.com/course/angular-16-rxjs-build-modern-single-page-applications/
+https://www.udemy.com/course/unlocking-the-power-of-relative-clauses/
+https://www.udemy.com/course/nse6_fac-64-fortinet-network-security-expert-practice/
