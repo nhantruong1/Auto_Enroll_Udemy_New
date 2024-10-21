@@ -3976,3 +3976,7 @@ https://www.udemy.com/course/jn0-663-juniper-network-specialist-cloud-practice-t
 https://www.udemy.com/course/jn0-648-juniper-networks-expert-security-practice-test/
 https://www.udemy.com/course/jn0-363-juniper-networks-specialist-service-provider-exam/
 https://www.udemy.com/course/sap-certified-associate-sap-fiori-application-developer-practice/
+https://www.udemy.com/course/itil-4-foundation-mock-exams/
+https://www.udemy.com/course/200-201-cisco-ccna-security-practice-test-2024/
+https://www.udemy.com/course/nse6_fml-72-fortinet-network-security-expert-practice/
+https://www.udemy.com/course/700-750-cisco-cyberops-associate-exam/
