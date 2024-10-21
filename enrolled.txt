@@ -3960,3 +3960,9 @@ https://www.udemy.com/course/java-and-c-and-php-complete-course-2022/
 https://www.udemy.com/course/a-crashcourse-in-monday-crm/
 https://www.udemy.com/course/nse6_fad-62-fortinet-network-security-expert-practice/
 https://www.udemy.com/course/cloud-computing-test/
+https://www.udemy.com/course/problem-solving-with-c-programming-language/
+https://www.udemy.com/course/api-testing-rest-api-automation-testing-from-scratch/
+https://www.udemy.com/course/c-programming-language-from-a-to-z/
+https://www.udemy.com/course/python_tutorials/
+https://www.udemy.com/course/how_to_become_a_programmer/
+https://www.udemy.com/course/basics_of_programming/
