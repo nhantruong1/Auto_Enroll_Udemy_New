@@ -3995,3 +3995,8 @@ https://www.udemy.com/course/chatgpt-mastery-online-course-/
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03-qa/
 https://www.udemy.com/course/automotive-engineering-essentials-drive-your-future/
 https://www.udemy.com/course/the-sports-vibe/
+https://www.udemy.com/course/sap-abap-on-hana-j/
+https://www.udemy.com/course/data-standardization-frameworks-for-analysts-data-professionals/
+https://www.udemy.com/course/windows-server-2016-with-powershell-working-with-pipeline-2/
+https://www.udemy.com/course/comptia-a-core-1-220-1101-exam/
+https://www.udemy.com/course/college-loopholes/
