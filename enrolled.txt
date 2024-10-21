@@ -3966,3 +3966,13 @@ https://www.udemy.com/course/c-programming-language-from-a-to-z/
 https://www.udemy.com/course/python_tutorials/
 https://www.udemy.com/course/how_to_become_a_programmer/
 https://www.udemy.com/course/basics_of_programming/
+https://www.udemy.com/course/hacking-essentials-bash-scripting-for-cybersecurity-warrior/
+https://www.udemy.com/course/job-interview-complete/
+https://www.udemy.com/course/microsoft-excel-course-in-hindi-most-updated-for-beginners-to-advanced/
+https://www.udemy.com/course/microsoft-office-word-essential-office-course/
+https://www.udemy.com/course/nse6_fml-64-fortinet-network-security-expert-practice/
+https://www.udemy.com/course/jn0-683-juniper-networks-specialist-security-practice/
+https://www.udemy.com/course/jn0-663-juniper-network-specialist-cloud-practice-test/
+https://www.udemy.com/course/jn0-648-juniper-networks-expert-security-practice-test/
+https://www.udemy.com/course/jn0-363-juniper-networks-specialist-service-provider-exam/
+https://www.udemy.com/course/sap-certified-associate-sap-fiori-application-developer-practice/
