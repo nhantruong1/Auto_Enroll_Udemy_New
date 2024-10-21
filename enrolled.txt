@@ -3980,3 +3980,7 @@ https://www.udemy.com/course/itil-4-foundation-mock-exams/
 https://www.udemy.com/course/200-201-cisco-ccna-security-practice-test-2024/
 https://www.udemy.com/course/nse6_fml-72-fortinet-network-security-expert-practice/
 https://www.udemy.com/course/700-750-cisco-cyberops-associate-exam/
+https://www.udemy.com/course/python-app-development-masterclass-app-development-bootcamp/
+https://www.udemy.com/course/advanced-powerpoint-masterclass-for-professionals/
+https://www.udemy.com/course/2v0-4120-professional-vmware-nsxt-data-center-practic-exam/
+https://www.udemy.com/course/2v0-4123-professional-vmware-nsx-4x-practice-exam/
