@@ -4055,3 +4055,7 @@ https://www.udemy.com/course/basic-linux-security/
 https://www.udemy.com/course/securing-ubuntu-linux/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-practice-exam-2024/
 https://www.udemy.com/course/new-project-management-professional-pmp-practice-exams/
+https://www.udemy.com/course/business-ethics-professional-ethics/
+https://www.udemy.com/course/mastering-company-valuation-and-compliance-management/
+https://www.udemy.com/course/professional-scrum-product-owner-ii-pspo-ii-practice-test/
+https://www.udemy.com/course/pmi-capm-06-practice-exams-with-explanation-sep-2024/
