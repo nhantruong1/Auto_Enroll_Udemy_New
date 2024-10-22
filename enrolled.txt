@@ -4049,3 +4049,9 @@ https://www.udemy.com/course/nvidia-certified-professional-infiniband-ncp-ib/
 https://www.udemy.com/course/natural-language-processing-challenges-exam-practice-tests/
 https://www.udemy.com/course/jczsnxta/
 https://www.udemy.com/course/complete-cyber-security-practice-tests-interview-questions/
+https://www.udemy.com/course/ethical-hacking-crypto-101/
+https://www.udemy.com/course/mindful-computing/
+https://www.udemy.com/course/basic-linux-security/
+https://www.udemy.com/course/securing-ubuntu-linux/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-practice-exam-2024/
+https://www.udemy.com/course/new-project-management-professional-pmp-practice-exams/
