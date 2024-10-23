@@ -4096,3 +4096,10 @@ https://www.udemy.com/course/master-frontend-next-js-14-clone-de-netflix-desde-c
 https://www.udemy.com/course/konnect-insights-mastery/
 https://www.udemy.com/course/revit-fin-glass-modeling-parametric-families-bim/
 https://www.udemy.com/course/how-to-build-in-public/
+https://www.udemy.com/course/react-bootcamp-2023/
+https://www.udemy.com/course/fullstack-web-development-node/
+https://www.udemy.com/course/javascript-essentials-arabic/
+https://www.udemy.com/course/agile-coaching-interviews-situational-questions-and-answers/
+https://www.udemy.com/course/sap-c_thr94_2405-successfactors-time-management-exam-dumps/
+https://www.udemy.com/course/sap-c_thr97_2405-successfactors-onboarding-real-exam-dumps/
+https://www.udemy.com/course/sap-c_thr96_2405-successfactors-workforce-analytics-dumps/
