@@ -4149,3 +4149,12 @@ https://www.udemy.com/course/mastering-performance-testing-techniques-and-jmeter
 https://www.udemy.com/course/bootstrap-53-mastery-build-responsive-websites-like-a-pro/
 https://www.udemy.com/course/ultimate-front-end-bootcamp-css-bootstrap-jq-js-react/
 https://www.udemy.com/course/ai-avatar-masterclass-how-to-create-talking-ai-avatar/
+https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/
+https://www.udemy.com/course/javascript-bootstrap-php-certification-for-beginners/
+https://www.udemy.com/course/setup-lamp-stack-on-a-remote-cloud-server-php-foundations/
+https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/
+https://www.udemy.com/course/html-javascript-bootstrap-certification-course/
+https://www.udemy.com/course/t-shirt-design-with-adobe-photoshop/
+https://www.udemy.com/course/introduction-to-ai-and-chatgpt/
+https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/
+https://www.udemy.com/course/css-javascript-certification-course-for-beginners/
