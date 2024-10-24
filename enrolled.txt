@@ -4158,3 +4158,8 @@ https://www.udemy.com/course/t-shirt-design-with-adobe-photoshop/
 https://www.udemy.com/course/introduction-to-ai-and-chatgpt/
 https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/
 https://www.udemy.com/course/css-javascript-certification-course-for-beginners/
+https://www.udemy.com/course/build-a-wordpress-powered-amazon-affiliate-site-on-nginx/
+https://www.udemy.com/course/amazon-elastic-compute-cloud-ec2-beginners/
+https://www.udemy.com/course/entrenamiento-visual-foxpro-9-y-postgresql-mod01/
+https://www.udemy.com/course/run-multiple-sites-on-a-cloud-server-aws-digital-ocean/
+https://www.udemy.com/course/aws-identity-and-access-management-iam-foundations/
