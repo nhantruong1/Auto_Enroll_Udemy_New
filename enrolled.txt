@@ -4166,3 +4166,4 @@ https://www.udemy.com/course/aws-identity-and-access-management-iam-foundations/
 https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-exam-out/
 https://www.udemy.com/course/exam-2v0-1124-vmware-cloud-foundation-52-administrator/
 https://www.udemy.com/course/clojure-programming/
+https://www.udemy.com/course/chatgpt-prompt-engineering-guide-make-money-using-chatgpt-tareq-hajj/
