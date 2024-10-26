@@ -4263,3 +4263,6 @@ https://www.udemy.com/course/sap-c_sac_2415-data-analyst-analytics-cloud-exam-du
 https://www.udemy.com/course/data-visualization-python-matplotlib-exam-practice-tests/
 https://www.udemy.com/course/javascript-course-for-for-beginners/
 https://www.udemy.com/course/how-freelancers-use-ai-and-basic-writing-to-make-a-profit/
+https://www.udemy.com/course/html-and-css-2-in-1-course-from-zero-for-beginners-2022/
+https://www.udemy.com/course/xss-survival-guide/
+https://www.udemy.com/course/crecimiento-en-facebook-organico-desde-tu-celular-curso/
