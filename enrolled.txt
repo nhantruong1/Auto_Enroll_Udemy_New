@@ -4306,3 +4306,6 @@ https://www.udemy.com/course/broad-scope-bug-bounties-from-scratch/
 https://www.udemy.com/course/lcd-pic-microcontroller-interfacing-with-lcd/
 https://www.udemy.com/course/arduino-eeprom-a-step-by-step-practical-course/
 https://www.udemy.com/course/nutanix-certified-professional-multicloud-infrastructure-m/
+https://www.udemy.com/course/testing-interview-questions-with-answers/
+https://www.udemy.com/course/google-certified-professional-machine-learning-engineer/
+https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-exam/
