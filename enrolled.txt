@@ -4309,3 +4309,8 @@ https://www.udemy.com/course/nutanix-certified-professional-multicloud-infrastru
 https://www.udemy.com/course/testing-interview-questions-with-answers/
 https://www.udemy.com/course/google-certified-professional-machine-learning-engineer/
 https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-exam/
+https://www.udemy.com/course/machine-learning-with-python-e/
+https://www.udemy.com/course/python-101-python-programming-for-absolute-beginners/
+https://www.udemy.com/course/java-testng-mastery-course/
+https://www.udemy.com/course/artificial-intelligence-with-python-p/
+https://www.udemy.com/course/java-spring-boot-complete-course-bundle/
