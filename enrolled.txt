@@ -4318,3 +4318,8 @@ https://www.udemy.com/course/windows-networking/
 https://www.udemy.com/course/windows-security/
 https://www.udemy.com/course/oop-design-patterns-in-python/
 https://www.udemy.com/course/new-salesforce-certified-omnistudio-consultant-exam-2024/
+https://www.udemy.com/course/software-career-bootcamp-tech-lead-project-lead-team-lead/
+https://www.udemy.com/course/ios-11-mobile-development-and-certification-iphone-ipad/
+https://www.udemy.com/course/swift-4-programming-certification-ios-mobile-app-development/
+https://www.udemy.com/course/neuro-sonic-harmonics-memory-and-concentration-course/
+https://www.udemy.com/course/nutanix-certified-associate-nca-v65/
