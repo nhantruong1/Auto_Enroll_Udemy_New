@@ -4314,3 +4314,7 @@ https://www.udemy.com/course/python-101-python-programming-for-absolute-beginner
 https://www.udemy.com/course/java-testng-mastery-course/
 https://www.udemy.com/course/artificial-intelligence-with-python-p/
 https://www.udemy.com/course/java-spring-boot-complete-course-bundle/
+https://www.udemy.com/course/windows-networking/
+https://www.udemy.com/course/windows-security/
+https://www.udemy.com/course/oop-design-patterns-in-python/
+https://www.udemy.com/course/new-salesforce-certified-omnistudio-consultant-exam-2024/
