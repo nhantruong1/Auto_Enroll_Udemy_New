@@ -4389,3 +4389,9 @@ https://www.udemy.com/course/tensorflow-proficiency-exam-hands-on-practice-quest
 https://www.udemy.com/course/master-classes-for-web-design-course-html-css-js-seo/
 https://www.udemy.com/course/learn-computer-vision-python-image-automation-examples/
 https://www.udemy.com/course/master-in-html-css-coding-for-web-design/
+https://www.udemy.com/course/how-to-make-traditional-food-of-tunisia/
+https://www.udemy.com/course/functional-programming-learnit/
+https://www.udemy.com/course/300-python-exercises-simple-and-complex-with-algorithm/
+https://www.udemy.com/course/testing-for-developers/
+https://www.udemy.com/course/ncp-cloud-integration-azure-ncp-ci-azure-practice-exam/
+https://www.udemy.com/course/ethical-hacking-guide-a-z/
