@@ -4407,3 +4407,10 @@ https://www.udemy.com/course/jumpstart-your-project-management-career/
 https://www.udemy.com/course/create-a-project-tracker/
 https://www.udemy.com/course/accident-and-incident-reporting/
 https://www.udemy.com/course/haccp-course/
+https://www.udemy.com/course/excel-certification-exam-preparation-4-practice-tests/
+https://www.udemy.com/course/python-certification-exam-preparation-4-practice-tests/
+https://www.udemy.com/course/information-literacy/
+https://www.udemy.com/course/stay-interviews/
+https://www.udemy.com/course/build-and-learn-aspnet-core-3_1-blazor-hands-on/
+https://www.udemy.com/course/aspnet-core-3-with-mvc-and-mongodb/
+https://www.udemy.com/course/comptia-linux-xk0-005-ace-your-2024-exam-with-1200-qs/
