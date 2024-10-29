@@ -4414,3 +4414,6 @@ https://www.udemy.com/course/stay-interviews/
 https://www.udemy.com/course/build-and-learn-aspnet-core-3_1-blazor-hands-on/
 https://www.udemy.com/course/aspnet-core-3-with-mvc-and-mongodb/
 https://www.udemy.com/course/comptia-linux-xk0-005-ace-your-2024-exam-with-1200-qs/
+https://www.udemy.com/course/azure-with-powershell/
+https://www.udemy.com/course/android-p-programming-development-and-certification/
+https://www.udemy.com/course/python_bootcamp/
