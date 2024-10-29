@@ -4403,3 +4403,7 @@ https://www.udemy.com/course/foundational-math/
 https://www.udemy.com/course/learn-python-programming-with-jafricode-tutorials/
 https://www.udemy.com/course/pentesting-the-ultimate-guide/
 https://www.udemy.com/course/enterprise-risk-management-erm/
+https://www.udemy.com/course/jumpstart-your-project-management-career/
+https://www.udemy.com/course/create-a-project-tracker/
+https://www.udemy.com/course/accident-and-incident-reporting/
+https://www.udemy.com/course/haccp-course/
