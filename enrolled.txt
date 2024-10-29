@@ -4395,3 +4395,11 @@ https://www.udemy.com/course/300-python-exercises-simple-and-complex-with-algori
 https://www.udemy.com/course/testing-for-developers/
 https://www.udemy.com/course/ncp-cloud-integration-azure-ncp-ci-azure-practice-exam/
 https://www.udemy.com/course/ethical-hacking-guide-a-z/
+https://www.udemy.com/course/java-for-programmers-crash-course/
+https://www.udemy.com/course/xamarin-forms-avanzado-clon-de-uber-con-visual-studio-2022/
+https://www.udemy.com/course/xamarinforms-intermedio-animaciones-profesionales/
+https://www.udemy.com/course/mvvm-para-xamarin-forms-la-guia-definitiva/
+https://www.udemy.com/course/foundational-math/
+https://www.udemy.com/course/learn-python-programming-with-jafricode-tutorials/
+https://www.udemy.com/course/pentesting-the-ultimate-guide/
+https://www.udemy.com/course/enterprise-risk-management-erm/
