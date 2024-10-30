@@ -4422,3 +4422,5 @@ https://www.udemy.com/course/react-js-project-bootcamp-build-production-ready-pr
 https://www.udemy.com/course/ai-art-mastery-midjourney-dalle-3-stable-diffusion/
 https://www.udemy.com/course/play-attacking-chess/
 https://www.udemy.com/course/risk-management-professional-rmp-pmi-2024-exams/
+https://www.udemy.com/course/advanced-skill-test-power-bi-data-analyst-exam-pl-300/
+https://www.udemy.com/course/leading-from-any-chair-leadership-masterclass/
