@@ -4417,3 +4417,5 @@ https://www.udemy.com/course/comptia-linux-xk0-005-ace-your-2024-exam-with-1200-
 https://www.udemy.com/course/azure-with-powershell/
 https://www.udemy.com/course/android-p-programming-development-and-certification/
 https://www.udemy.com/course/python_bootcamp/
+https://www.udemy.com/course/vmware-certified-professional-data-center-virtualization-24/
+https://www.udemy.com/course/react-js-project-bootcamp-build-production-ready-projects/
