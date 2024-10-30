@@ -4419,3 +4419,6 @@ https://www.udemy.com/course/android-p-programming-development-and-certification
 https://www.udemy.com/course/python_bootcamp/
 https://www.udemy.com/course/vmware-certified-professional-data-center-virtualization-24/
 https://www.udemy.com/course/react-js-project-bootcamp-build-production-ready-projects/
+https://www.udemy.com/course/ai-art-mastery-midjourney-dalle-3-stable-diffusion/
+https://www.udemy.com/course/play-attacking-chess/
+https://www.udemy.com/course/risk-management-professional-rmp-pmi-2024-exams/
