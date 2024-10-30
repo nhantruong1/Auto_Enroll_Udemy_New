@@ -4444,3 +4444,5 @@ https://www.udemy.com/course/splk-3001-splunk-enterprise-security-certified-admi
 https://www.udemy.com/course/nse7_ots-72-fortinet-network-security-expert-practice/
 https://www.udemy.com/course/nse7_pbc-64-fortinet-network-security-expert-practice/
 https://www.udemy.com/course/nse7_pbc-72-fortinet-network-security-expert-practice/
+https://www.udemy.com/course/abdelsatarpmocp/
+https://www.udemy.com/course/c1000-118-ibm-cloud-pak-for-data-v4x-practice-test/
