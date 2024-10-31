@@ -4475,3 +4475,4 @@ https://www.udemy.com/course/webservices-testing-restassured-postman-complete-gu
 https://www.udemy.com/course/forex-trading-guide-successful-forex-trading-strategies-tareq-hajj/
 https://www.udemy.com/course/forex-trading-guide-master-forex-trading-skills-tareq-hajj/
 https://www.udemy.com/course/take-better-photos-with-your-phone-a-quick-guide/
+https://www.udemy.com/course/chatgpt-for-developer/
