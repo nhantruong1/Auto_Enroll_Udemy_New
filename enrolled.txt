@@ -4480,3 +4480,5 @@ https://www.udemy.com/course/jn0-230-juniper-networks-associate-security-practic
 https://www.udemy.com/course/how-to-lead-and-manage-people-side-of-an-organization/
 https://www.udemy.com/course/generative-ai-powered-programming-for-everyone/
 https://www.udemy.com/course/sap-ecc-and-s4-hana-differences/
+https://www.udemy.com/course/advanced-skill-test-power-bi-data-analyst-exam-pl-300-p3/
+https://www.udemy.com/course/latest-safe-devops-practitioner-6/
