@@ -4551,3 +4551,9 @@ https://www.udemy.com/course/how-to-deliver-a-powerpoint-presentation/
 https://www.udemy.com/course/technical-seo-course-beginner-to-advanced/
 https://www.udemy.com/course/databricks-certified-associate-developer-apache-spark-python/
 https://www.udemy.com/course/servicenow-scripting-mastery-advanced-development/
+https://www.udemy.com/course/html5-css3-and-javascript-for-beginners-from-zero-to-hero/
+https://www.udemy.com/course/css3-certification-prep-comprehensive-practice-tests/
+https://www.udemy.com/course/html-and-css-for-web-designers-from-basics-to-beautiful/
+https://www.udemy.com/course/cpanel-essentials-mastering-web-hosting-management/
+https://www.udemy.com/course/mastering-postman-a-comprehensive-api-testing-course/
+https://www.udemy.com/course/laravel-10-essentials-user-roles-permissions-with-spatie/
