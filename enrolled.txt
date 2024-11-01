@@ -4557,3 +4557,5 @@ https://www.udemy.com/course/html-and-css-for-web-designers-from-basics-to-beaut
 https://www.udemy.com/course/cpanel-essentials-mastering-web-hosting-management/
 https://www.udemy.com/course/mastering-postman-a-comprehensive-api-testing-course/
 https://www.udemy.com/course/laravel-10-essentials-user-roles-permissions-with-spatie/
+https://www.udemy.com/course/advanced-databricks-data-warehouse-performance-optimization/
+https://www.udemy.com/course/mastering-aws-sage-maker-from-fundamentals-to-advance/
