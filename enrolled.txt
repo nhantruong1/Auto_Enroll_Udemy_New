@@ -4549,3 +4549,5 @@ https://www.udemy.com/course/how-to-use-a-teleprompter/
 https://www.udemy.com/course/how-to-give-a-new-business-pitch-presentation/
 https://www.udemy.com/course/how-to-deliver-a-powerpoint-presentation/
 https://www.udemy.com/course/technical-seo-course-beginner-to-advanced/
+https://www.udemy.com/course/databricks-certified-associate-developer-apache-spark-python/
+https://www.udemy.com/course/servicenow-scripting-mastery-advanced-development/
