@@ -4533,3 +4533,6 @@ https://www.udemy.com/course/c2010-530-ibm-watson-knowledge-catalog-practice-tes
 https://www.udemy.com/course/notion-course/
 https://www.udemy.com/course/aws-certified-ai-practitioner-aif-c01-practice-exams-ml/
 https://www.udemy.com/course/gcp-google-associate-cloud-engineer-practice-test-exam-2024-n/
+https://www.udemy.com/course/pal-ebm-evidence-based-management-certification-mock-exams/
+https://www.udemy.com/course/pmp-certification-practice-exams-pmi-pmp-pmbok7-pmbok6/
+https://www.udemy.com/course/capm-certified-associate-in-project-management-mock-exams/
