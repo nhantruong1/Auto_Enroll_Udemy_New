@@ -4568,3 +4568,4 @@ https://www.udemy.com/course/git-command-line-for-beginners/
 https://www.udemy.com/course/securing-your-digital-life/
 https://www.udemy.com/course/flask-hacking-mastery/
 https://www.udemy.com/course/hack-simple-websites/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-qa/
