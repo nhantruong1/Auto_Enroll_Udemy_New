@@ -4570,3 +4570,4 @@ https://www.udemy.com/course/flask-hacking-mastery/
 https://www.udemy.com/course/hack-simple-websites/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-qa/
 https://www.udemy.com/course/full-digital-marketing-course-seo-paid-ad-ga4-gtm-email/
+https://www.udemy.com/course/rpa-project-deliver-control-the-rpa-solution/
