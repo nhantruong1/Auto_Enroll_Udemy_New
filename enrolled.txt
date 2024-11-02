@@ -4572,3 +4572,7 @@ https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-qa/
 https://www.udemy.com/course/full-digital-marketing-course-seo-paid-ad-ga4-gtm-email/
 https://www.udemy.com/course/rpa-project-deliver-control-the-rpa-solution/
 https://www.udemy.com/course/computer-forensics-and-incident-response/
+https://www.udemy.com/course/accounting-and-auditing-with-artificial-intelligence-odoo-16/
+https://www.udemy.com/course/microsoft-copilot-microsoft-365-copilot-office/
+https://www.udemy.com/course/aws-certified-solutions-architect-professional-1/
+https://www.udemy.com/course/beat-anxiety-by-dealing-with-your-trauma-in-5-easy-steps/
