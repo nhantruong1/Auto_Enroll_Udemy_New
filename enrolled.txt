@@ -4637,3 +4637,8 @@ https://www.udemy.com/course/500-275-implementing-cisco-collaboration-applicatio
 https://www.udemy.com/course/500-325-implementing-cisco-collaboration-applications/
 https://www.udemy.com/course/500-470-implementing-cisco-collaboration-applications/
 https://www.udemy.com/course/excel-practice-tests/
+https://www.udemy.com/course/javascript-spielend-lernen-grundkurs-webseiten-scripting/
+https://www.udemy.com/course/mongodb-desde-principiante/
+https://www.udemy.com/course/curso-completo-de-sql-con-sqlite/
+https://www.udemy.com/course/arduino-vs-raspberry-pi-vs-pic-microcontroller/
+https://www.udemy.com/course/cybersecurity-with-ai-detecting-threats-using-ml/
