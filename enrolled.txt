@@ -4600,3 +4600,4 @@ https://www.udemy.com/course/certification-in-welding-technology-for-processing-
 https://www.udemy.com/course/fundamentals-of-computer-systems-and-c-programming/
 https://www.udemy.com/course/fundamentals-of-heat-masstransfer-basic-to-advance-level/
 https://www.udemy.com/course/metallurgy-of-welding-for-engineers-2023/
+https://www.udemy.com/course/create-a-object-recognition-web-app-with-python-react/
