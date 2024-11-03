@@ -4606,3 +4606,17 @@ https://www.udemy.com/course/introduction-to-software-engineering/
 https://www.udemy.com/course/wordpress-for-absolute-beginners-course/
 https://www.udemy.com/course/ethical-hacking-hacking-real-websites/
 https://www.udemy.com/course/microsoft-access-exam-prep-essential-database-functions/
+https://www.udemy.com/course/base-de-datos-sqlite-con-python/
+https://www.udemy.com/course/desarrollo-web-con-php-y-mariadb/
+https://www.udemy.com/course/crea-paginas-de-ventas-para-vender-productos-digi-en-hotmart/
+https://www.udemy.com/course/crea-y-lanza-tu-podcast-en-1-dia-sin-invertir-en-equipos/
+https://www.udemy.com/course/maitrise-de-la-communication-interculturelle/
+https://www.udemy.com/course/matematicas-financieras-h/
+https://www.udemy.com/course/excel-paso-a-paso/
+https://www.udemy.com/course/git-para-desarrolladores/
+https://www.udemy.com/course/estructuras-basicas-de-programacion-con-python-y-scratch/
+https://www.udemy.com/course/ciencia-de-datos-con-python/
+https://www.udemy.com/course/programacion-con-python/
+https://www.udemy.com/course/crea-tu-propio-juego-con-python/
+https://www.udemy.com/course/aprende-a-crear-tu-web-desde-cero-con-html-y-css/
+https://www.udemy.com/course/mtcre-preparation-mikrotik-routeros-v7-with-hands-on-labs/
