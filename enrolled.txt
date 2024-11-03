@@ -4602,3 +4602,7 @@ https://www.udemy.com/course/fundamentals-of-heat-masstransfer-basic-to-advance-
 https://www.udemy.com/course/metallurgy-of-welding-for-engineers-2023/
 https://www.udemy.com/course/create-a-object-recognition-web-app-with-python-react/
 https://www.udemy.com/course/build-web-apps-with-vuejs/
+https://www.udemy.com/course/introduction-to-software-engineering/
+https://www.udemy.com/course/wordpress-for-absolute-beginners-course/
+https://www.udemy.com/course/ethical-hacking-hacking-real-websites/
+https://www.udemy.com/course/microsoft-access-exam-prep-essential-database-functions/
