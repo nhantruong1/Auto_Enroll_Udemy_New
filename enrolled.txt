@@ -4595,3 +4595,8 @@ https://www.udemy.com/course/vmware-cta-cloud-management-and-automation-2024/
 https://www.udemy.com/course/certified-information-security-manager-cism-x/
 https://www.udemy.com/course/react-interview-questions-test/
 https://www.udemy.com/course/ai-for-coding/
+https://www.udemy.com/course/fundamentals-of-manufacturing-materials-processes-systems/
+https://www.udemy.com/course/certification-in-welding-technology-for-processing-engineers/
+https://www.udemy.com/course/fundamentals-of-computer-systems-and-c-programming/
+https://www.udemy.com/course/fundamentals-of-heat-masstransfer-basic-to-advance-level/
+https://www.udemy.com/course/metallurgy-of-welding-for-engineers-2023/
