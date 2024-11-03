@@ -4642,3 +4642,8 @@ https://www.udemy.com/course/mongodb-desde-principiante/
 https://www.udemy.com/course/curso-completo-de-sql-con-sqlite/
 https://www.udemy.com/course/arduino-vs-raspberry-pi-vs-pic-microcontroller/
 https://www.udemy.com/course/cybersecurity-with-ai-detecting-threats-using-ml/
+https://www.udemy.com/course/psm1-practice-tests-scrum-master-certification-160q/
+https://www.udemy.com/course/pmi-acp-200-agile/
+https://www.udemy.com/course/microsoft-az-104-azure-administrator-exam-prep-test/
+https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-preparation-test/
+https://www.udemy.com/course/python-basics-to-advance-test/
