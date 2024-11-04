@@ -4662,3 +4662,7 @@ https://www.udemy.com/course/introduction-to-web-application-penetration-testing
 https://www.udemy.com/course/tensorflow-basic-to-advanced-training/
 https://www.udemy.com/course/test-driven-development-build-software-with-confidence/
 https://www.udemy.com/course/asq-certified-food-safety-and-quality-auditor-practice-exam/
+https://www.udemy.com/course/25-projects-in-25-days-of-ai-development-bootcamp/
+https://www.udemy.com/course/learn-thymeleaf-with-spring-boot/
+https://www.udemy.com/course/certified-culinarian-practice-exam/
+https://www.udemy.com/course/irs-enrolled-agent-practice-test-pass-the-see/
