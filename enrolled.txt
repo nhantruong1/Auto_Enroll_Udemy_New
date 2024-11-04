@@ -4647,3 +4647,5 @@ https://www.udemy.com/course/pmi-acp-200-agile/
 https://www.udemy.com/course/microsoft-az-104-azure-administrator-exam-prep-test/
 https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-preparation-test/
 https://www.udemy.com/course/python-basics-to-advance-test/
+https://www.udemy.com/course/pmo-cp-preperationcourse/
+https://www.udemy.com/course/ms-pl-300-power-bi-certification-practice-exams-preparations/
