@@ -4666,3 +4666,6 @@ https://www.udemy.com/course/25-projects-in-25-days-of-ai-development-bootcamp/
 https://www.udemy.com/course/learn-thymeleaf-with-spring-boot/
 https://www.udemy.com/course/certified-culinarian-practice-exam/
 https://www.udemy.com/course/irs-enrolled-agent-practice-test-pass-the-see/
+https://www.udemy.com/course/pinguino-a-pic-microcontroller-based-arduino/
+https://www.udemy.com/course/business-performance-and-art-therapy/
+https://www.udemy.com/course/project-management-professional-pmp-practice-questions-d/
