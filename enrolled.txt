@@ -4659,3 +4659,6 @@ https://www.udemy.com/course/microsoft-sql-pour-les-debutants-le-cours-de-a-a-z/
 https://www.udemy.com/course/lpic-1-mastery-exam-101-500-v5-harness-the-power-of-linux/
 https://www.udemy.com/course/advanced-skill-test-microsoft-excel-exam-mo-200/
 https://www.udemy.com/course/introduction-to-web-application-penetration-testing/
+https://www.udemy.com/course/tensorflow-basic-to-advanced-training/
+https://www.udemy.com/course/test-driven-development-build-software-with-confidence/
+https://www.udemy.com/course/asq-certified-food-safety-and-quality-auditor-practice-exam/
