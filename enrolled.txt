@@ -4691,3 +4691,7 @@ https://www.udemy.com/course/how-to-become-a-pro-servicenow-developer-admin-test
 https://www.udemy.com/course/management-consulting-case-business-analysis/
 https://www.udemy.com/course/servicenow-it-operations-managementitom/
 https://www.udemy.com/course/golden-trader-program-stt-strategy-lv1-module-1/
+https://www.udemy.com/course/data-architecture-101-for-data-science/
+https://www.udemy.com/course/kickstarter-a-six-week-training-program/
+https://www.udemy.com/course/javascript-like-never-before/
+https://www.udemy.com/course/istqb-ctfl-foundation-level-certification-v4-exam-prep-practice-test/
