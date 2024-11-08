@@ -4751,3 +4751,7 @@ https://www.udemy.com/course/learn-aks-network-security/
 https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/
 https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/
 https://www.udemy.com/course/4g-fullsystem/
+https://www.udemy.com/course/advanced-skill-test-microsoft-excel-exam-mo-201/
+https://www.udemy.com/course/advanced-skill-test-microsoft-excel-exam-mo-210/
+https://www.udemy.com/course/advanced-skill-test-python-entry-level-exam-pcep-30-02/
+https://www.udemy.com/course/aws-sysops-administrator-practice-exams-2024/
