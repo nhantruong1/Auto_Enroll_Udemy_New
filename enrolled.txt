@@ -4750,3 +4750,4 @@ https://www.udemy.com/course/crea-un-sistema-de-compra-y-venta-con-php-js-y-mysq
 https://www.udemy.com/course/learn-aks-network-security/
 https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/
 https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/
+https://www.udemy.com/course/4g-fullsystem/
