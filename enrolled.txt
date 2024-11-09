@@ -4764,3 +4764,4 @@ https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-c
 https://www.udemy.com/course/comprehensive-c-programming-practice-test-code-mastery/
 https://www.udemy.com/course/scrum-master-certification-aece/
 https://www.udemy.com/course/practice-exams-for-the-comptia-pentest-pt0-002/
+https://www.udemy.com/course/easyeda-pcb-circuit-design-diy-arduino-power-supply-shield-easyeda/
