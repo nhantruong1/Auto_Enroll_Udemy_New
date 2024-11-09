@@ -4765,3 +4765,5 @@ https://www.udemy.com/course/comprehensive-c-programming-practice-test-code-mast
 https://www.udemy.com/course/scrum-master-certification-aece/
 https://www.udemy.com/course/practice-exams-for-the-comptia-pentest-pt0-002/
 https://www.udemy.com/course/easyeda-pcb-circuit-design-diy-arduino-power-supply-shield-easyeda/
+https://www.udemy.com/course/300-615-cisco-data-center-troubleshooting-practice-test/
+https://www.udemy.com/course/the-semiconductor-environment-part-1/
