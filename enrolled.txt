@@ -4803,3 +4803,6 @@ https://www.udemy.com/course/distribution-medium-voltage-switchgear-fundamentals
 https://www.udemy.com/course/quick-mastery-of-jenkins-with-uncle-rat/
 https://www.udemy.com/course/advanced-skill-test-python-entry-level-exam-pcep-30-02-v4/
 https://www.udemy.com/course/social-impact-and-esg-in-product-management-masterclass/
+https://www.udemy.com/course/medical-and-cosmetic-acupuncture-treatment-training-course/
+https://www.udemy.com/course/certificacion-aws-cloud-practitioner/
+https://www.udemy.com/course/curso-completo-de-git-y-github-preparate-para-el-desarrollo/
