@@ -4829,3 +4829,6 @@ https://www.udemy.com/course/chatgpt-react-introduction-to-the-ai-chatbot-revolu
 https://www.udemy.com/course/network-defense-fundamentals-training-for-it-beginners/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-tests/
 https://www.udemy.com/course/complete-aws-cloud-practitioner-training/
+https://www.udemy.com/course/c_ts452-certification-practice-test/
+https://www.udemy.com/course/mastering-arcgis-desktop/
+https://www.udemy.com/course/cisco-cyberops-associate-certification-practice-exam-test/
