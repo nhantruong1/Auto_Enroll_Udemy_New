@@ -4847,3 +4847,6 @@ https://www.udemy.com/course/bash-scripting-for-linux-security/
 https://www.udemy.com/course/advanced-skill-test-associate-python-programmer-pcaptm-v1/
 https://www.udemy.com/course/learn-python-programming-with-chatgpt/
 https://www.udemy.com/course/comptia-linux-xko-005-certification-practice-tests/
+https://www.udemy.com/course/google-cloud-platform-fundamentos-laboratorios-practicas/
+https://www.udemy.com/course/microsoft-powerpoint-course-zero-to-hero-in-ms-powerpoint/
+https://www.udemy.com/course/prince2-foundation-certification-practice-exam-update-2024/
