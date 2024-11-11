@@ -4850,3 +4850,4 @@ https://www.udemy.com/course/comptia-linux-xko-005-certification-practice-tests/
 https://www.udemy.com/course/google-cloud-platform-fundamentos-laboratorios-practicas/
 https://www.udemy.com/course/microsoft-powerpoint-course-zero-to-hero-in-ms-powerpoint/
 https://www.udemy.com/course/prince2-foundation-certification-practice-exam-update-2024/
+https://www.udemy.com/course/linux-for-cloud-engineers-and-devops/
