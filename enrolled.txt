@@ -4855,3 +4855,6 @@ https://www.udemy.com/course/the-complete-start-up-business-planning-boot-camp/
 https://www.udemy.com/course/the-complete-attraction-masterclass/
 https://www.udemy.com/course/quick-generative-ai-practice-quiz-test-your-understanding/
 https://www.udemy.com/course/data-structures-interview/
+https://www.udemy.com/course/oauth2-and-oidc-demystified/
+https://www.udemy.com/course/chief-information-security-officer-cciso-practice-tests-d/
+https://www.udemy.com/course/practice-exams-drcp-200-it-disaster-recovery-planner-2024/
