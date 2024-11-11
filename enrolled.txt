@@ -4853,3 +4853,5 @@ https://www.udemy.com/course/prince2-foundation-certification-practice-exam-upda
 https://www.udemy.com/course/linux-for-cloud-engineers-and-devops/
 https://www.udemy.com/course/the-complete-start-up-business-planning-boot-camp/
 https://www.udemy.com/course/the-complete-attraction-masterclass/
+https://www.udemy.com/course/quick-generative-ai-practice-quiz-test-your-understanding/
+https://www.udemy.com/course/data-structures-interview/
