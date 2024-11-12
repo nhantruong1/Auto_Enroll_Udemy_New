@@ -4859,3 +4859,5 @@ https://www.udemy.com/course/oauth2-and-oidc-demystified/
 https://www.udemy.com/course/chief-information-security-officer-cciso-practice-tests-d/
 https://www.udemy.com/course/practice-exams-drcp-200-it-disaster-recovery-planner-2024/
 https://www.udemy.com/course/draft/6282227/
+https://www.udemy.com/course/curso-de-python-3-desde-cero-para-novatos/
+https://www.udemy.com/course/chatgpt-guide-create-and-sell-ebooks-using-chatgpt-tareq-hajj/
