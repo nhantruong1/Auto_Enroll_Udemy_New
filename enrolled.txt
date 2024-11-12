@@ -4868,3 +4868,6 @@ https://www.udemy.com/course/microsoft-excel-advance-level-ms-excel-training-cou
 https://www.udemy.com/course/competency-development-in-organizations/
 https://www.udemy.com/course/rpa-interview-questions/
 https://www.udemy.com/course/liberal-arts-to-technical-study-abroad-non-engineers-guide/
+https://www.udemy.com/course/aidomination/
+https://www.udemy.com/course/advanced-skill-test-associate-python-programmer-pcaptm-v2/
+https://www.udemy.com/course/learn-siemens-s7-1200-plc-tia-portal/
