@@ -4914,3 +4914,9 @@ https://www.udemy.com/course/hazlo-ya-como-vencer-la-procrastinacion/
 https://www.udemy.com/course/trucos-y-productividad-para-vsc-sublime-text-y-vim/
 https://www.udemy.com/course/fcp_fct_ad-7-forticlient-ems-practice-test/
 https://www.udemy.com/course/fcp_wcs_ad-74-fortiweb-cloud-service-practice-test/
+https://www.udemy.com/course/mysql-postgresql-and-mongodb-database-design-masterclass/
+https://www.udemy.com/course/aws-cloud-practitioner-clf-c01clf-c02-practice-questions/
+https://www.udemy.com/course/microsoft-dynamics365-business-central-functional-consultant-mb-800/
+https://www.udemy.com/course/devops-advanced-course-from-theory-to-practice/
+https://www.udemy.com/course/software-testing-kickstart-your-career-as-a-qa-professional/
+https://www.udemy.com/course/devops-beginner-course-theory-of-devops/
