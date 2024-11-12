@@ -4861,3 +4861,6 @@ https://www.udemy.com/course/practice-exams-drcp-200-it-disaster-recovery-planne
 https://www.udemy.com/course/draft/6282227/
 https://www.udemy.com/course/curso-de-python-3-desde-cero-para-novatos/
 https://www.udemy.com/course/chatgpt-guide-create-and-sell-ebooks-using-chatgpt-tareq-hajj/
+https://www.udemy.com/course/rookie-coders/
+https://www.udemy.com/course/ace-databricks-certified-associate-developer-apache-spark/
+https://www.udemy.com/course/beginners-seo-guide-seo-fundamentals-for-beginners-tareq-hajj/
