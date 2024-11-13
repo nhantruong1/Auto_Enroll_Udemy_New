@@ -4930,3 +4930,7 @@ https://www.udemy.com/course/analyse-1/
 https://www.udemy.com/course/work-from-home-guide-easy-side-hustles-to-make-more-money-tareq-hajj/
 https://www.udemy.com/course/aws-certified-sysops-administrator-associate-practice-exam-soa-c02/
 https://www.udemy.com/course/new-finops-certified-practitioner-practice-exam-2024/
+https://www.udemy.com/course/500-052-implementing-cisco-ip-telephony-video-part-1/
+https://www.udemy.com/course/400-101-implementing-cisco-ip-routing/
+https://www.udemy.com/course/400-007-ccie-security-written-exam/
+https://www.udemy.com/course/350-801-implementing-operating-cisco-collaboration/
