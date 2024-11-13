@@ -4940,3 +4940,5 @@ https://www.udemy.com/course/swing-trading-guide-how-to-make-money-swing-trading
 https://www.udemy.com/course/hypnobreathwork-transform-your-practice-attract-clients/
 https://www.udemy.com/course/learn-siemens-s7-300-plc-simatic-manager-step-7-elementry/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-vol1/
+https://www.udemy.com/course/quantization/
+https://www.udemy.com/course/500-210-implementing-cisco-business-resiliency/
