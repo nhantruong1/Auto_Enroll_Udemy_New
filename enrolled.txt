@@ -4973,3 +4973,5 @@ https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcp
 https://www.udemy.com/course/revit-parametric-family-kitchen-cabinet-design-from-zero/
 https://www.udemy.com/course/options-trading-guide-how-to-make-money-trading-options-tareq-hajj/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-v2/
+https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-v4/
+https://www.udemy.com/course/aws-infrastructure-automation-with-terraform/
