@@ -4975,3 +4975,12 @@ https://www.udemy.com/course/options-trading-guide-how-to-make-money-trading-opt
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-v2/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-v4/
 https://www.udemy.com/course/aws-infrastructure-automation-with-terraform/
+https://www.udemy.com/course/arduino-timers/
+https://www.udemy.com/course/arduino-uno-r4-ultimate-training-course/
+https://www.udemy.com/course/arduino-3d-oled-compass/
+https://www.udemy.com/course/advanced-led-matrix-control-build-and-manage-big-displays/
+https://www.udemy.com/course/esp32-micropython-mqtt-weather-logger/
+https://www.udemy.com/course/applied-cryptography-with-python/
+https://www.udemy.com/course/linux-firewalls/
+https://www.udemy.com/course/mastering-adobe-illustrator-projects-build-your-portfolio/
+https://www.udemy.com/course/fcp_faz_ad-74-fortianalyzer-practice-test/
