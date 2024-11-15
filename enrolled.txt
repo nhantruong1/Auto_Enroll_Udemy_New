@@ -4998,3 +4998,6 @@ https://www.udemy.com/course/learn-java-fundamentals-for-beginners/
 https://www.udemy.com/course/stock-market-basics-intro-to-stocks-for-beginners-tareq-hajj/
 https://www.udemy.com/course/modul-d-yonetim-becerileri-modulu-ortak-modul/
 https://www.udemy.com/course/ssrs-interview-questions/
+https://www.udemy.com/course/accredited-book-publishing-certification/
+https://www.udemy.com/course/associate-google-workspace-administrator-practice-exam-1d0-621/
+https://www.udemy.com/course/gcp-ace-google-associate-cloud-engineer-practice-exam/
