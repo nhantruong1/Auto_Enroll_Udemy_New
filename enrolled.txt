@@ -5003,3 +5003,7 @@ https://www.udemy.com/course/associate-google-workspace-administrator-practice-e
 https://www.udemy.com/course/gcp-ace-google-associate-cloud-engineer-practice-exam/
 https://www.udemy.com/course/aml-cft-and-cdd-complete-guide/
 https://www.udemy.com/course/comprehensive-guide-to-anti-money-laundering-aml-operation/
+https://www.udemy.com/course/data-analytics-masters-basics-to-advanced/
+https://www.udemy.com/course/mastering-suspicious-activity-reports-sars-t/
+https://www.udemy.com/course/aml-enforcement-in-cryptocurrency-and-digital-currency/
+https://www.udemy.com/course/anti-money-laundering-aml-challenges-in-fintech/
