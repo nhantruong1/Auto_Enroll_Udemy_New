@@ -5078,3 +5078,7 @@ https://www.udemy.com/course/advanced-skill-test-python-professional-level-2-pcp
 https://www.udemy.com/course/microsoft-power-bi-essential-for-beginners/
 https://www.udemy.com/course/master-cpp-byteboard/
 https://www.udemy.com/course/comptia-cybersecurity-analyst-cysa-cs0-003-practice-exam/
+https://www.udemy.com/course/google-professional-cloud-database-engineer-practice-exam-u/
+https://www.udemy.com/course/chatgpt-prompt-engineering-guide-get-the-most-from-chatgpt-tareq-hajj/
+https://www.udemy.com/course/google-professional-cloud-architect-practice-exam-/
+https://www.udemy.com/course/vmware-cloud-foundation-52-architect-2v0-1324-exam/
