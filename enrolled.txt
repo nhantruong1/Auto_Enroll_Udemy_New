@@ -5128,3 +5128,6 @@ https://www.udemy.com/course/emotion-detection-using-yolov7-complete-project-cou
 https://www.udemy.com/course/machine-learning-ui-ux-powerpoint-presentation-course/
 https://www.udemy.com/course/c2020-012-ibm-cloud-professional-architect-practice-test/
 https://www.udemy.com/course/change-management-strategies/
+https://www.udemy.com/course/practical-integration-testing-using-testcontainers/
+https://www.udemy.com/course/master-in-healthcare-revenue-cycle-management-rcm/
+https://www.udemy.com/course/c2090-600-ibm-certified-data-engineer-cloud-pak-for-data/
