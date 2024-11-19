@@ -5124,3 +5124,7 @@ https://www.udemy.com/course/c2010-825-ibm-cloud-pak-for-integration-practice-te
 https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-full-exam-preparation/
 https://www.udemy.com/course/comprehensive-game-development-practice-test/
 https://www.udemy.com/course/advanced-skill-test-associate-python-programmer-pcaptm-v3/
+https://www.udemy.com/course/emotion-detection-using-yolov7-complete-project-course/
+https://www.udemy.com/course/machine-learning-ui-ux-powerpoint-presentation-course/
+https://www.udemy.com/course/c2020-012-ibm-cloud-professional-architect-practice-test/
+https://www.udemy.com/course/change-management-strategies/
