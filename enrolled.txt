@@ -5131,3 +5131,9 @@ https://www.udemy.com/course/change-management-strategies/
 https://www.udemy.com/course/practical-integration-testing-using-testcontainers/
 https://www.udemy.com/course/master-in-healthcare-revenue-cycle-management-rcm/
 https://www.udemy.com/course/c2090-600-ibm-certified-data-engineer-cloud-pak-for-data/
+https://www.udemy.com/course/complete-5-resnet-deep-learning-project-from-scratch/
+https://www.udemy.com/course/c2180-400-ibm-certified-administrator-practice-test/
+https://www.udemy.com/course/pspo-1-product-owner-certification-practice-tests/
+https://www.udemy.com/course/c2090-619-ibm-certified-data-scientist-practice-test/
+https://www.udemy.com/course/mitsubishi-gx-works-3/
+https://www.udemy.com/course/c2090-616-ibm-certified-data-scientist-watson-studio-v1x/
