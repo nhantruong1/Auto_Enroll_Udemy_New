@@ -5139,3 +5139,4 @@ https://www.udemy.com/course/mitsubishi-gx-works-3/
 https://www.udemy.com/course/c2090-616-ibm-certified-data-scientist-watson-studio-v1x/
 https://www.udemy.com/course/mern-stack-course-build-a-video-sharing-web-app-with-aws/
 https://www.udemy.com/course/understanding-business-research-a-fundamental-guide/
+https://www.udemy.com/course/rust-crash-course-for-absolute-beginners/
