@@ -5168,3 +5168,4 @@ https://www.udemy.com/course/psm-i-professional-scrum-master-i-practice-test-psm
 https://www.udemy.com/course/5-days-5-machine-learning-projects-from-scratch/
 https://www.udemy.com/course/scrum-master-certification-training-/
 https://www.udemy.com/course/fastapi-interview-python-developers/
+https://www.udemy.com/course/java-microservices-practice-test-interview-questions/
