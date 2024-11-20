@@ -5140,3 +5140,5 @@ https://www.udemy.com/course/c2090-616-ibm-certified-data-scientist-watson-studi
 https://www.udemy.com/course/mern-stack-course-build-a-video-sharing-web-app-with-aws/
 https://www.udemy.com/course/understanding-business-research-a-fundamental-guide/
 https://www.udemy.com/course/rust-crash-course-for-absolute-beginners/
+https://www.udemy.com/course/clo-002-comptia-cloud-essentials-practice-exam/
+https://www.udemy.com/course/how-to-appeal-to-emotion-to-sell-something-successfully-tareq-hajj/
