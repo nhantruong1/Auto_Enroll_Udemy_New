@@ -5169,3 +5169,5 @@ https://www.udemy.com/course/5-days-5-machine-learning-projects-from-scratch/
 https://www.udemy.com/course/scrum-master-certification-training-/
 https://www.udemy.com/course/fastapi-interview-python-developers/
 https://www.udemy.com/course/java-microservices-practice-test-interview-questions/
+https://www.udemy.com/course/code-your-own-gps-dashboard-step-by-step-using-esp32/
+https://www.udemy.com/course/exam-2v0-1324vmware-cloud-foundation-52-architect-vcp-vcf/
