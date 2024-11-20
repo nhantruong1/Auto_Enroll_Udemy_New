@@ -5167,3 +5167,4 @@ https://www.udemy.com/course/500-220-implementing-cisco-business-resiliency/
 https://www.udemy.com/course/psm-i-professional-scrum-master-i-practice-test-psm1/
 https://www.udemy.com/course/5-days-5-machine-learning-projects-from-scratch/
 https://www.udemy.com/course/scrum-master-certification-training-/
+https://www.udemy.com/course/fastapi-interview-python-developers/
