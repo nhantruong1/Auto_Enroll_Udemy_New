@@ -5171,3 +5171,5 @@ https://www.udemy.com/course/fastapi-interview-python-developers/
 https://www.udemy.com/course/java-microservices-practice-test-interview-questions/
 https://www.udemy.com/course/code-your-own-gps-dashboard-step-by-step-using-esp32/
 https://www.udemy.com/course/exam-2v0-1324vmware-cloud-foundation-52-architect-vcp-vcf/
+https://www.udemy.com/course/becoming-your-best-self-transform-your-life-in-6-steps/
+https://www.udemy.com/course/python-fundamentals-a-comprehensive-beginners-guide/
