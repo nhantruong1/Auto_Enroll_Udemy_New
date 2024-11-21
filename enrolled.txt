@@ -5192,3 +5192,10 @@ https://www.udemy.com/course/asf-agile-scrum-foundation-practice-test/
 https://www.udemy.com/course/social-media-marketing-guide-how-to-grow-on-social-media-tareq-hajj/
 https://www.udemy.com/course/psm-ii-professional-scrum-master-ii-practice-test/
 https://www.udemy.com/course/android-app-development-with-laravel-authentication/
+https://www.udemy.com/course/python-dataanalysis-course-for-beginners/
+https://www.udemy.com/course/h2o-data-science-and-machine-learning-platforms/
+https://www.udemy.com/course/h2o-cloud-ai-developer-services/
+https://www.udemy.com/course/consulting-guide-how-to-sell-consulting-services-tareq-hajj/
+https://www.udemy.com/course/mastering-microsoft-entra-id/
+https://www.udemy.com/course/leadershipdiploma/
+https://www.udemy.com/course/iso-90012015-quality-management-system-essentials/
