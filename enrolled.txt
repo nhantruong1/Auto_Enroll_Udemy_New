@@ -5216,3 +5216,9 @@ https://www.udemy.com/course/technical-support-interview-questions/
 https://www.udemy.com/course/fuzor-full-course-bim-integration-4d5d-simulation-vr/
 https://www.udemy.com/course/istqb-ct-ai-testing-practice-exams/
 https://www.udemy.com/course/learn-sql-from-scratch-sql-tutorial/
+https://www.udemy.com/course/linux-incident-response-basics/
+https://www.udemy.com/course/essential-linux-backdoor-detection/
+https://www.udemy.com/course/hash-cracking-for-beginners/
+https://www.udemy.com/course/system-recon-with-kali-linux/
+https://www.udemy.com/course/pmp-exam-practice-tests-3/
+https://www.udemy.com/course/pmp-exam-practice-tests-2/
