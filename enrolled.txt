@@ -5227,3 +5227,5 @@ https://www.udemy.com/course/kaizen-teknigi-ile-surekli-iyilestirme/
 https://www.udemy.com/course/therapeutic-art/
 https://www.udemy.com/course/flutter-store-app-graphqlbloc-freezed-clean-architecture/
 https://www.udemy.com/course/complete-french-course-beginners-to-advanced-learn-fast/
+https://www.udemy.com/course/vmware-cloud-foundation-52-architect-2024/
+https://www.udemy.com/course/satis-egitimi-stratejik-yaklasimlar-ve-ileri-teknikler/
