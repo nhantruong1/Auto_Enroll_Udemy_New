@@ -5229,3 +5229,5 @@ https://www.udemy.com/course/flutter-store-app-graphqlbloc-freezed-clean-archite
 https://www.udemy.com/course/complete-french-course-beginners-to-advanced-learn-fast/
 https://www.udemy.com/course/vmware-cloud-foundation-52-architect-2024/
 https://www.udemy.com/course/satis-egitimi-stratejik-yaklasimlar-ve-ileri-teknikler/
+https://www.udemy.com/course/python-pro-the-complete-python-bootcamp-for-noobs/
+https://www.udemy.com/course/commercialmanagement/
