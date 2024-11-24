@@ -5231,3 +5231,6 @@ https://www.udemy.com/course/vmware-cloud-foundation-52-architect-2024/
 https://www.udemy.com/course/satis-egitimi-stratejik-yaklasimlar-ve-ileri-teknikler/
 https://www.udemy.com/course/python-pro-the-complete-python-bootcamp-for-noobs/
 https://www.udemy.com/course/commercialmanagement/
+https://www.udemy.com/course/new-master-class-python-programming-for-non-programmers/
+https://www.udemy.com/course/pmi-pba-exam-business-analysis-mock-tests/
+https://www.udemy.com/course/adx-201-salesforce-administrator-practice-test/
