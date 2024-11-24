@@ -5242,3 +5242,7 @@ https://www.udemy.com/course/adx-261-salesforce-service-cloud-consultant-practic
 https://www.udemy.com/course/facial-profiling-fundamentals-foqus/
 https://www.udemy.com/course/tiktok-marketing-mastery-learn-to-grow-go-viral/
 https://www.udemy.com/course/chatgpt-guide-how-to-use-chatgpt-to-generate-leads-tareq-hajj/
+https://www.udemy.com/course/cyber-kill-chain/
+https://www.udemy.com/course/cyberchef-basics-for-beginners/
+https://www.udemy.com/course/javascript-attack-surface/
+https://www.udemy.com/course/pmi-acp-exam-agile-certified-practitioner-prep-test/
