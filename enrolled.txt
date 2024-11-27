@@ -5301,3 +5301,5 @@ https://www.udemy.com/course/master-ruby-scripting-elite-ethical-hacking-practic
 https://www.udemy.com/course/beyond-hacks2024-pro-ceh-tests-unofficial-module-17-to-20/
 https://www.udemy.com/course/chatgpt-guide-prompt-engineering-basics-for-beginners-tareq-hajj/
 https://www.udemy.com/course/comptia-cloud-2024-cv0-004-practice-exam/
+https://www.udemy.com/course/draft/6308783/
+https://www.udemy.com/course/cof-c02-snowflake-snowpro-core-certification-mock-exams/
