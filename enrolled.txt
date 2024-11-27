@@ -5326,3 +5326,12 @@ https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcp
 https://www.udemy.com/course/power-apps-interview-questions/
 https://www.udemy.com/course/hands-on-sql-for-data-analysts/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-v11/
+https://www.udemy.com/course/the-art-of-chfi-with-kali-a-hands-on-forensic-journey-2024/
+https://www.udemy.com/course/improving-project-outcomes/
+https://www.udemy.com/course/ethical-hacking-mastery-v10-11-expert-edition-only/
+https://www.udemy.com/course/kubernetes-mastery-exam-kubernetes-proficiency-special/
+https://www.udemy.com/course/a-data-science-odyssey-2024-practice-recommender-engines/
+https://www.udemy.com/course/mastering-nmap-commandsnetwork-scanning-practice-2024-pro/
+https://www.udemy.com/course/comptia-pentest-mcq-bootcamp-exam-unofficial-training-2024/
+https://www.udemy.com/course/docker-deep-dive-mastering-containers-for-devops-success/
+https://www.udemy.com/course/devops-proficiency-exam-engineering-and-docker-mastery-2024/
