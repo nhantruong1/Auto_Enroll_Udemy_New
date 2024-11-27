@@ -5324,3 +5324,5 @@ https://www.udemy.com/course/investor-relations/
 https://www.udemy.com/course/product-management-stakeholder-mapping/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-t/
 https://www.udemy.com/course/power-apps-interview-questions/
+https://www.udemy.com/course/hands-on-sql-for-data-analysts/
+https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-v11/
