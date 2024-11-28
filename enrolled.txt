@@ -5352,3 +5352,7 @@ https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/
 https://www.udemy.com/course/data-science-skillpath/
 https://www.udemy.com/course/become-a-data-scientist/
 https://www.udemy.com/course/craft-a-story-like-a-spy/
+https://www.udemy.com/course/dynamic-ict-forex-scalping-trading-strategy/
+https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai/
+https://www.udemy.com/course/effective-cold-email-outreach-from-strategy-to-execution/
+https://www.udemy.com/course/mastering-chatgpt-prompt-engineering-beginner-to-advanced/
