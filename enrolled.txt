@@ -5344,3 +5344,11 @@ https://www.udemy.com/course/bim-revit-structure-full-course-from-beginner-to-ad
 https://www.udemy.com/course/psm-1-professional-scrum-master-certification-practice-test/
 https://www.udemy.com/course/magento-2-interview-questions/
 https://www.udemy.com/course/dementia-care-delaying-progress-and-supporting-families/
+https://www.udemy.com/course/python-web-dev-pro-flask-django-html-css-bootstrap/
+https://www.udemy.com/course/python-in-action-a-practical-course-50-real-world-projects/
+https://www.udemy.com/course/ai-superpowers-transform-your-work-with-latest-ai-tools/
+https://www.udemy.com/course/python-crash-course-for-beginners-zero-to-hero/
+https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/
+https://www.udemy.com/course/data-science-skillpath/
+https://www.udemy.com/course/become-a-data-scientist/
+https://www.udemy.com/course/craft-a-story-like-a-spy/
