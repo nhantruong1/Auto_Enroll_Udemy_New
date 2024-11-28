@@ -5335,3 +5335,6 @@ https://www.udemy.com/course/mastering-nmap-commandsnetwork-scanning-practice-20
 https://www.udemy.com/course/comptia-pentest-mcq-bootcamp-exam-unofficial-training-2024/
 https://www.udemy.com/course/docker-deep-dive-mastering-containers-for-devops-success/
 https://www.udemy.com/course/devops-proficiency-exam-engineering-and-docker-mastery-2024/
+https://www.udemy.com/course/guide-chatgpt-gagner-de-largent-en-ligne-avec-chatgpt-tareq-hajj/
+https://www.udemy.com/course/ccna-200-301-networking-essentials-practice-lab-test-2024/
+https://www.udemy.com/course/ccie-exam-mastery-6-comprehensive-practice-tests-2024-pro-1/
