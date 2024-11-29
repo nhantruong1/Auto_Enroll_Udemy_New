@@ -5381,3 +5381,4 @@ https://www.udemy.com/course/mcpa-level-1-salesforce-mulesoft-professional-archi
 https://www.udemy.com/course/proyectos-para-tu-portafolio-de-programador/
 https://www.udemy.com/course/supplychainlogisticsmanagement/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm/
+https://www.udemy.com/course/python-hacking-pyceh/
