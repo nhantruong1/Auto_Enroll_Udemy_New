@@ -5378,3 +5378,5 @@ https://www.udemy.com/course/oms-435-salesforce-order-management-administrator-p
 https://www.udemy.com/course/php-codeigniter-4-for-beginners-2023-build-full-blog-system/
 https://www.udemy.com/course/mongodb-beginners-guide/
 https://www.udemy.com/course/mcpa-level-1-salesforce-mulesoft-professional-architect/
+https://www.udemy.com/course/proyectos-para-tu-portafolio-de-programador/
+https://www.udemy.com/course/supplychainlogisticsmanagement/
