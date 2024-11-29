@@ -5372,3 +5372,6 @@ https://www.udemy.com/course/create-professional-powerpoint-from-beginner-to-exp
 https://www.udemy.com/course/sap-mm-wm-integration-course-by-ganesh-padala/
 https://www.udemy.com/course/kano-analysis/
 https://www.udemy.com/course/python-certification-exam-pcep-30-02-preparation-2025/
+https://www.udemy.com/course/mcc-201-salesforce-marketing-cloud-consultant-practice-test/
+https://www.udemy.com/course/mcia-level-1-salesforce-mulesoft-integration-architect-test/
+https://www.udemy.com/course/oms-435-salesforce-order-management-administrator-practice/
