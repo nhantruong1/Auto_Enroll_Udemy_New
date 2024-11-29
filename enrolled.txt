@@ -5383,3 +5383,5 @@ https://www.udemy.com/course/supplychainlogisticsmanagement/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm/
 https://www.udemy.com/course/python-hacking-pyceh/
 https://www.udemy.com/course/microsoft-md-102-endpoint-management-exam/
+https://www.udemy.com/course/microsoft-dp-700-exam/
+https://www.udemy.com/course/celpip-general-ls-for-canadian-citizenship/
