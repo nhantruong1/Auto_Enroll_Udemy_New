@@ -5375,3 +5375,6 @@ https://www.udemy.com/course/python-certification-exam-pcep-30-02-preparation-20
 https://www.udemy.com/course/mcc-201-salesforce-marketing-cloud-consultant-practice-test/
 https://www.udemy.com/course/mcia-level-1-salesforce-mulesoft-integration-architect-test/
 https://www.udemy.com/course/oms-435-salesforce-order-management-administrator-practice/
+https://www.udemy.com/course/php-codeigniter-4-for-beginners-2023-build-full-blog-system/
+https://www.udemy.com/course/mongodb-beginners-guide/
+https://www.udemy.com/course/mcpa-level-1-salesforce-mulesoft-professional-architect/
