@@ -5403,3 +5403,5 @@ https://www.udemy.com/course/learn-big-data-basics/
 https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/
 https://www.udemy.com/course/practice-test-oracle-cloud-infra-2024-1z0-1085-24/
 https://www.udemy.com/course/business-analysis-aec/
+https://www.udemy.com/course/advanced-ict-order-block-forex-trading-strategy/
+https://www.udemy.com/course/mastering-advanced-chatgpt-prompt-engineering/
