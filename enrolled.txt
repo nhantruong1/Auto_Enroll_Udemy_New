@@ -5397,3 +5397,9 @@ https://www.udemy.com/course/become-a-data-analyst-in-hindi/
 https://www.udemy.com/course/entrepreneurship-masterclass/
 https://www.udemy.com/course/advanced-skill-test-python-professional-level-1-pcpp1tm-a/
 https://www.udemy.com/course/csm-001-scrummaster-practice-test/
+https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/
+https://www.udemy.com/course/different-technologies-in-big-data/
+https://www.udemy.com/course/learn-big-data-basics/
+https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/
+https://www.udemy.com/course/practice-test-oracle-cloud-infra-2024-1z0-1085-24/
+https://www.udemy.com/course/business-analysis-aec/
