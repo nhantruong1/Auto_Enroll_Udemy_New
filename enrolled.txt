@@ -5434,3 +5434,6 @@ https://www.udemy.com/course/genai-cybersecurity-solutions/
 https://www.udemy.com/course/the-complete-negotiation-masterclass-certificate/
 https://www.udemy.com/course/vip-chatgpt-prompt-secrets-harness-the-unfair-ai-advantage/
 https://www.udemy.com/course/complete-generative-ai-build-pro-web-mobile-saas-apps/
+https://www.udemy.com/course/e-mail-marketing-mit-klick-tipp-werde-profi-in-4-stunden/
+https://www.udemy.com/course/pfsense-network-security-and-firewall-management/
+https://www.udemy.com/course/master-cisco-sd-wan-with-350-mcqs-on-eve-ng-deployment/
