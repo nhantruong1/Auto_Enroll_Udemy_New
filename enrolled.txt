@@ -5460,3 +5460,4 @@ https://www.udemy.com/course/linux-network-security-basics/
 https://www.udemy.com/course/ethical-hacking-file-inclusion/
 https://www.udemy.com/course/pdi-salesforce-platform-developer-i-practice-test/
 https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/
+https://www.udemy.com/course/ferramentas-hacker-21-programas-de-varredura-de-portas/
