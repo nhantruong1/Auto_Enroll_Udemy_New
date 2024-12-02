@@ -5455,3 +5455,8 @@ https://www.udemy.com/course/html-css-for-absolute-begginers/
 https://www.udemy.com/course/apprendre-swift/
 https://www.udemy.com/course/vagrant-for-beginners-tools-to-start-your-devops-career/
 https://www.udemy.com/course/complete-basics-to-fiverr-freelancing/
+https://www.udemy.com/course/excel-malware-investigation/
+https://www.udemy.com/course/linux-network-security-basics/
+https://www.udemy.com/course/ethical-hacking-file-inclusion/
+https://www.udemy.com/course/pdi-salesforce-platform-developer-i-practice-test/
+https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/
