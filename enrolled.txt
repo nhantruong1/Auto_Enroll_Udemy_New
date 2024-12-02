@@ -5473,3 +5473,7 @@ https://www.udemy.com/course/aws-certified-machine-learning-specialty-mls-c01-ex
 https://www.udemy.com/course/sc-200-microsoft-security-operations-analyst-exams/
 https://www.udemy.com/course/1z0-1127-24-oci-2024-generative-ai-professional-practice-exam/
 https://www.udemy.com/course/1z0-1194-24-ocd-2024-migration-professional-practice-exam/
+https://www.udemy.com/course/freelance-mastery-with-smartphone-3d-logo-design/
+https://www.udemy.com/course/desarrolla-sistemas-pos-en-php-8-de-inventarios-y-ventas/
+https://www.udemy.com/course/nueva-app-movil-para-clientes-en-sistema-de-restaurante/
+https://www.udemy.com/course/1z0-1111-24-oci-2024-observability-professional-test/
