@@ -5452,3 +5452,6 @@ https://www.udemy.com/course/quick-guide-to-malware-analysis/
 https://www.udemy.com/course/the-complete-us-medical-billing-coding-course/
 https://www.udemy.com/course/trumponomics-an-ongoing-analysis/
 https://www.udemy.com/course/html-css-for-absolute-begginers/
+https://www.udemy.com/course/apprendre-swift/
+https://www.udemy.com/course/vagrant-for-beginners-tools-to-start-your-devops-career/
+https://www.udemy.com/course/complete-basics-to-fiverr-freelancing/
