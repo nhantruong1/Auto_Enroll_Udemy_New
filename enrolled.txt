@@ -5441,3 +5441,8 @@ https://www.udemy.com/course/complete-basics-of-wordpress-web-design-and-web-dev
 https://www.udemy.com/course/supplychain-procurement-logistics/
 https://www.udemy.com/course/az-104-microsoft-azure-administrator-practice-exam-2024/
 https://www.udemy.com/course/statistics-and-hypothesis-testing-for-data-science/
+https://www.udemy.com/course/smartphone-graphic-design/
+https://www.udemy.com/course/fundamentals-of-remote-sensing-and-its-applications/
+https://www.udemy.com/course/fundamentals-of-literature-journalism-and-critics/
+https://www.udemy.com/course/business-analytics-using-data-science/
+https://www.udemy.com/course/data-driven-decisions-mastering-market-research-strategies/
