@@ -5461,3 +5461,13 @@ https://www.udemy.com/course/ethical-hacking-file-inclusion/
 https://www.udemy.com/course/pdi-salesforce-platform-developer-i-practice-test/
 https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/
 https://www.udemy.com/course/ferramentas-hacker-21-programas-de-varredura-de-portas/
+https://www.udemy.com/course/databricks-certified-generative-ai-engineer-associate-exams/
+https://www.udemy.com/course/certified-kubernetes-application-developer-ckad-exams/
+https://www.udemy.com/course/nvidia-certified-associate-generative-ai-llms-exams/
+https://www.udemy.com/course/google-professional-cloud-security-engineer-practice-exams-cse/
+https://www.udemy.com/course/mysql-database-developer-oracle-certified-professional-exams/
+https://www.udemy.com/course/databricks-certified-data-engineer-professional-exams/
+https://www.udemy.com/course/exam-az-204-developing-solutions-microsoft-azure/
+https://www.udemy.com/course/google-associate-cloud-engineer-gcp-ace-exams/
+https://www.udemy.com/course/aws-certified-machine-learning-specialty-mls-c01-exams/
+https://www.udemy.com/course/sc-200-microsoft-security-operations-analyst-exams/
