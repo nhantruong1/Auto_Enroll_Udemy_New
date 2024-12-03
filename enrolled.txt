@@ -5486,3 +5486,5 @@ https://www.udemy.com/course/examen-mo-200-microsoft-excel-office-2019/
 https://www.udemy.com/course/finanzas-personales-exito-financiero/
 https://www.udemy.com/course/1z0-997-24-oci-2024-architect-professional-practice-exam/
 https://www.udemy.com/course/1z0-1071-24-oci-2024-digital-assistant-professional-practice-exam/
+https://www.udemy.com/course/1z0-770-oracle-apex-cloud-developer-professional-practice-exam/
+https://www.udemy.com/course/1z0-931-24-oracle-autonomous-database-cloud-2024-professional-test/
