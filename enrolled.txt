@@ -5496,3 +5496,5 @@ https://www.udemy.com/course/curso-python-agrupacion-y-agregacion-de-datos-con-p
 https://www.udemy.com/course/seo-training-and-certification/
 https://www.udemy.com/course/be-professional-with-metasploit-framework-course-msf-a-to-z/
 https://www.udemy.com/course/advanced-patent-landscape-study-with-power-bi-dashboard/
+https://www.udemy.com/course/ethical-hacking-linux-privilege-escalation/
+https://www.udemy.com/course/ai-techniques-to-boost-your-e-commerce-business/
