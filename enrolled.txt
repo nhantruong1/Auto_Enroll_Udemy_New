@@ -5509,3 +5509,6 @@ https://www.udemy.com/course/agentic_ai/
 https://www.udemy.com/course/dev-de-destaque/
 https://www.udemy.com/course/c_s4cpr_2408-questions-sourcing-and-procurement-practice-test/
 https://www.udemy.com/course/101-01-riverbed-solutions-associate-practice-test/
+https://www.udemy.com/course/a-healthy-mindset-for-running/
+https://www.udemy.com/course/desarrolla-robots-automatizados-trading-python/
+https://www.udemy.com/course/practice-exams-aws-certified-machine-learning-mla-c01/
