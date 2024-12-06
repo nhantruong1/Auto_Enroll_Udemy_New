@@ -5553,3 +5553,7 @@ https://www.udemy.com/course/life-coaching-certification-3-in-1-acc-mcc-pcc/
 https://www.udemy.com/course/raspberry-pi-labview-getting-started-link-raspberry-pi-labview/
 https://www.udemy.com/course/iot-internet-of-things-bundle-esp-esp32-board-iot-arduino/
 https://www.udemy.com/course/power-of-data-driven-teaching-in-schools/
+https://www.udemy.com/course/python-programming-replit/
+https://www.udemy.com/course/aprende-a-crear-el-telar-santa-claus/
+https://www.udemy.com/course/network-security-interview-questions/
+https://www.udemy.com/course/300-c-interview-questions-practice-tests/
