@@ -5548,3 +5548,7 @@ https://www.udemy.com/course/programador-java-en-37-dias-con-practica-de-entrevi
 https://www.udemy.com/course/sap-c_s43_2023-asset-management-cloud-private-edition-exam/
 https://www.udemy.com/course/confidence-unleashed-mastering-self-esteem-for-success/
 https://www.udemy.com/course/istqb-ai-testing-certification-ct-ai-mock-exams/
+https://www.udemy.com/course/ultimate-linux-command-line-mastery/
+https://www.udemy.com/course/life-coaching-certification-3-in-1-acc-mcc-pcc/
+https://www.udemy.com/course/raspberry-pi-labview-getting-started-link-raspberry-pi-labview/
+https://www.udemy.com/course/iot-internet-of-things-bundle-esp-esp32-board-iot-arduino/
