@@ -5575,3 +5575,5 @@ https://www.udemy.com/course/effective-ict-forex-trading-course-fair-value-gap-f
 https://www.udemy.com/course/linux-forensics-in-depth/
 https://www.udemy.com/course/linux-process-investigation/
 https://www.udemy.com/course/linux-incident-response-basic/
+https://www.udemy.com/course/autocad-2d-isometric-autocad-civil-architectural/
+https://www.udemy.com/course/arduino-python-email-sending-motion-detector-python/
