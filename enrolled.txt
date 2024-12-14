@@ -5586,3 +5586,8 @@ https://www.udemy.com/course/draft/5159436/
 https://www.udemy.com/course/learn-spring-graphql/
 https://www.udemy.com/course/wordpress-launch-your-site-fast/
 https://www.udemy.com/course/software_defined_radio/
+https://www.udemy.com/course/cyber-security-and-ethical-hacking/
+https://www.udemy.com/course/virtual-assistant-with-python-and-chatgpt/
+https://www.udemy.com/course/python-performance-optimization/
+https://www.udemy.com/course/ethical-hacking-network-exploitation-basics/
+https://www.udemy.com/course/home-automation-low-budget-esp8266-board-arduino-ide/
