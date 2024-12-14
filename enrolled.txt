@@ -5596,3 +5596,5 @@ https://www.udemy.com/course/google-data-practitioner-practice-exam/
 https://www.udemy.com/course/master-linux-security-200-practice-questions/
 https://www.udemy.com/course/pandas-interview-questions/
 https://www.udemy.com/course/match3-inter-game-design-and-programming/
+https://www.udemy.com/course/oci-container-instances-with-terraform-2023-edition/
+https://www.udemy.com/course/introduction-to-docker-containerization-microservices-t/
