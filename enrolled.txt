@@ -5584,3 +5584,5 @@ https://www.udemy.com/course/intro-godot-3d/
 https://www.udemy.com/course/blogger-make-a-professional-website-for-free-with-no-coding/
 https://www.udemy.com/course/draft/5159436/
 https://www.udemy.com/course/learn-spring-graphql/
+https://www.udemy.com/course/wordpress-launch-your-site-fast/
+https://www.udemy.com/course/software_defined_radio/
