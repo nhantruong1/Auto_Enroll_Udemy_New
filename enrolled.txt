@@ -5594,3 +5594,5 @@ https://www.udemy.com/course/home-automation-low-budget-esp8266-board-arduino-id
 https://www.udemy.com/course/super-way-to-learn-arduino-creative/
 https://www.udemy.com/course/google-data-practitioner-practice-exam/
 https://www.udemy.com/course/master-linux-security-200-practice-questions/
+https://www.udemy.com/course/pandas-interview-questions/
+https://www.udemy.com/course/match3-inter-game-design-and-programming/
