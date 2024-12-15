@@ -5604,3 +5604,15 @@ https://www.udemy.com/course/mastering-pytorch/
 https://www.udemy.com/course/mastering-wordpress-from-setup-to-advanced-customizations/
 https://www.udemy.com/course/web-designer-interview-questions/
 https://www.udemy.com/course/sap-para-principiantes-introduccion-a-sap/
+https://www.udemy.com/course/mastering-the-fundamentals-of-chatgpt-and-ai-tools/
+https://www.udemy.com/course/build-a-shopify-store-from-scratch-lean-shopify-from-a-to-z/
+https://www.udemy.com/course/il-corso-completo-di-wordpress-per-principianti-a-to-z/
+https://www.udemy.com/course/der-komplette-wordpress-kurs-fur-einsteiger/
+https://www.udemy.com/course/3d-modeling-simplified-master-sketchup-as-a-beginner/
+https://www.udemy.com/course/smart-goals-parenting/
+https://www.udemy.com/course/python-tensorflow-deep-dive-into-machine-learning/
+https://www.udemy.com/course/autocad-2023-masterclass-de-la-conception-a-la-realisation/
+https://www.udemy.com/course/chatgpt-coding-masterclass-learn-to-code-with-chatgpt/
+https://www.udemy.com/course/python-gui-development-with-tkinter-build-pro-desktop-apps/
+https://www.udemy.com/course/creer-une-boutique-shopify-a-partir-de-zero/
+https://www.udemy.com/course/financement-de-projets-excel-modeles-en-partant-de-zero/
