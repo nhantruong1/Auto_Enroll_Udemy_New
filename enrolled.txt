@@ -5598,3 +5598,5 @@ https://www.udemy.com/course/pandas-interview-questions/
 https://www.udemy.com/course/match3-inter-game-design-and-programming/
 https://www.udemy.com/course/oci-container-instances-with-terraform-2023-edition/
 https://www.udemy.com/course/introduction-to-docker-containerization-microservices-t/
+https://www.udemy.com/course/go-golang-schnelle-sichere-webanwendungen-programmieren/
+https://www.udemy.com/course/complete-digital-marketing-course-18-courses/
