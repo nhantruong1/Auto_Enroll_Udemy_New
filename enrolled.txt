@@ -5600,3 +5600,5 @@ https://www.udemy.com/course/oci-container-instances-with-terraform-2023-edition
 https://www.udemy.com/course/introduction-to-docker-containerization-microservices-t/
 https://www.udemy.com/course/go-golang-schnelle-sichere-webanwendungen-programmieren/
 https://www.udemy.com/course/complete-digital-marketing-course-18-courses/
+https://www.udemy.com/course/mastering-pytorch/
+https://www.udemy.com/course/mastering-wordpress-from-setup-to-advanced-customizations/
