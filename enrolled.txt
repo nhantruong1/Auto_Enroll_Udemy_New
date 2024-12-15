@@ -5602,3 +5602,5 @@ https://www.udemy.com/course/go-golang-schnelle-sichere-webanwendungen-programmi
 https://www.udemy.com/course/complete-digital-marketing-course-18-courses/
 https://www.udemy.com/course/mastering-pytorch/
 https://www.udemy.com/course/mastering-wordpress-from-setup-to-advanced-customizations/
+https://www.udemy.com/course/web-designer-interview-questions/
+https://www.udemy.com/course/sap-para-principiantes-introduccion-a-sap/
