@@ -5653,3 +5653,12 @@ https://www.udemy.com/course/ctfl-001-istqb-tester-foundation-level-practice-tes
 https://www.udemy.com/course/ethical-hacking-linux-intrusion-essentials/
 https://www.udemy.com/course/practice-test-n10-009-comptia-network-2024/
 https://www.udemy.com/course/ase-automotive-a2-automatic-transmission-practice-test/
+https://www.udemy.com/course/chatgpt-canva-dall-e-bard-guide-for-busy-entrepreneur/
+https://www.udemy.com/course/mastering-multi-modular-clean-architecture-in-android/
+https://www.udemy.com/course/how-to-speak-and-present-online/
+https://www.udemy.com/course/python-projects-with-python-programming/
+https://www.udemy.com/course/linux-power-and-shell-scripting-a-step-by-step-mastery/
+https://www.udemy.com/course/mastering-google-docs-your-gateway-to-effortless-document-c/
+https://www.udemy.com/course/mastering-sqlite/
+https://www.udemy.com/course/sqlite-essentials-from-novice-to-expert/
+https://www.udemy.com/course/microsoft-office-mastery-excel-word-beyond/
