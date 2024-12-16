@@ -5692,3 +5692,10 @@ https://www.udemy.com/course/mysql-desde-0-hasta-supabase-domina-las-bases-de-da
 https://www.udemy.com/course/flutter-para-principiantes-desde-0-hasta-los-detalles/
 https://www.udemy.com/course/flutter-for-beginner-in-arabic/
 https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/
+https://www.udemy.com/course/generative-ai-for-personal-productivity/
+https://www.udemy.com/course/veeam-backup-mastery-conquer-challenge-elite-expert-part-1/
+https://www.udemy.com/course/comptia-security-syo-701-mastery-practice-like-a-legend/
+https://www.udemy.com/course/ultimate-az-104-practice-tests-ace-microsoft-azure-exam/
+https://www.udemy.com/course/teste-de-pratica-az-104-certificacao-microsoft-azure/
+https://www.udemy.com/course/aws-certified-solutions-architect-saa-c03-advanced-exam-prep/
+https://www.udemy.com/course/master-kubernetes-practice-tests-from-the-3rd-edition-pro/
