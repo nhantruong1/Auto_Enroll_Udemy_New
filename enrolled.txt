@@ -5690,3 +5690,5 @@ https://www.udemy.com/course/email-automation-for-business-growth/
 https://www.udemy.com/course/strategic-succession-planning-building-a-sustainable-future/
 https://www.udemy.com/course/mysql-desde-0-hasta-supabase-domina-las-bases-de-datos/
 https://www.udemy.com/course/flutter-para-principiantes-desde-0-hasta-los-detalles/
+https://www.udemy.com/course/flutter-for-beginner-in-arabic/
+https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/
