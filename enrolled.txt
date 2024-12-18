@@ -5792,3 +5792,6 @@ https://www.udemy.com/course/ms-project-from-zero-to-pro/
 https://www.udemy.com/course/publish-coloring-illustration-cookbooks-for-passive-income/
 https://www.udemy.com/course/gnu-make-and-makefile-for-your-embedded-c-project/
 https://www.udemy.com/course/web-server-iis-10-fundamentals-with-powershell-and-gui/
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03-m/
+https://www.udemy.com/course/curso-completo-de-looker-studio-data-studio/
+https://www.udemy.com/course/ace-data-science-interviews-500-must-know-questions/
