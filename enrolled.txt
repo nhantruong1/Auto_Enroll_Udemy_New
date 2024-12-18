@@ -5776,3 +5776,8 @@ https://www.udemy.com/course/anti-corruption-and-anti-bribery/
 https://www.udemy.com/course/seven-quality-tools/
 https://www.udemy.com/course/ase-automotive-a4-suspension-and-steering-practice-test/
 https://www.udemy.com/course/the-ultimate-machine-learning-practice-test-450-questions/
+https://www.udemy.com/course/python-data-science-fundamentals-getting-started/
+https://www.udemy.com/course/optical-character-recognition-ocr-masterclass-in-python/
+https://www.udemy.com/course/book-cover-design-training-with-canva-beginner-to-pro/
+https://www.udemy.com/course/nlp-natural-language-processing-course/
+https://www.udemy.com/course/advanced-skill-test-python-professional-level-2-pcpp2tm-new/
