@@ -5790,3 +5790,5 @@ https://www.udemy.com/course/the-best-forex-day-trading-strategy/
 https://www.udemy.com/course/pse-prismacloud-palo-alto-networks-system-engineer-practice/
 https://www.udemy.com/course/ms-project-from-zero-to-pro/
 https://www.udemy.com/course/publish-coloring-illustration-cookbooks-for-passive-income/
+https://www.udemy.com/course/gnu-make-and-makefile-for-your-embedded-c-project/
+https://www.udemy.com/course/web-server-iis-10-fundamentals-with-powershell-and-gui/
