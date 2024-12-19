@@ -5842,3 +5842,4 @@ https://www.udemy.com/course/gcp-google-cloud-platform-interview-questions-pract
 https://www.udemy.com/course/the-fastest-way-to-become-a-product-manager/
 https://www.udemy.com/course/embedded-systems-mastery-test/
 https://www.udemy.com/course/arduino-mastering-arduino-data-streaming-to-excel-csv/
+https://www.udemy.com/course/test-your-c-programming-skills-become-expert-in-c/
