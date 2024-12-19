@@ -5806,3 +5806,8 @@ https://www.udemy.com/course/master-rust-programming-from-basics-to-advanced-tes
 https://www.udemy.com/course/master-go-programming-basics-to-advanced-practice-tests/
 https://www.udemy.com/course/sap-c_c4h320_34-business-user-commerce-cloud-exam-dumps/
 https://www.udemy.com/course/sap-c_bw4h_214-reporting-modeling-and-data-acquisition/
+https://www.udemy.com/course/aws-lambda-interview-questions/
+https://www.udemy.com/course/proficiency-in-javascript/
+https://www.udemy.com/course/sap-c_arsor_2404-ariba-sourcing-practice-exam-dumps/
+https://www.udemy.com/course/sap-c_arscc-business-network-for-supply-chain-exam-dumps/
+https://www.udemy.com/course/sap-e_actai_2403-agile-project-management-exam-dumps/
