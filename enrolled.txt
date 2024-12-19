@@ -5827,3 +5827,5 @@ https://www.udemy.com/course/ase-automotive-a6-electrical-systems-practice-test/
 https://www.udemy.com/course/rust-basics-fur-arduino-uno-der-einstieg/
 https://www.udemy.com/course/early-childhood-education-language-learning-development/
 https://www.udemy.com/course/issap-information-system-security-architecture-professional/
+https://www.udemy.com/course/dein-eigener-podcast/
+https://www.udemy.com/course/c_cpi_2404-certification-questions-mock-test/
