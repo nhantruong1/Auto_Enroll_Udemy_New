@@ -5864,3 +5864,8 @@ https://www.udemy.com/course/cloud-powered-web-app-development-with-aws-and-php/
 https://www.udemy.com/course/grc-program/
 https://www.udemy.com/course/mastering-transaction-monitoring-a-comprehensive-guide/
 https://www.udemy.com/course/arduino-social-distance-detector/
+https://www.udemy.com/course/component-projects-to-review-sensors-internet-of-thing-iot/
+https://www.udemy.com/course/emotional-intelligence-chinese/
+https://www.udemy.com/course/intro-to-django-python-web-apps/
+https://www.udemy.com/course/browser-automation-with-python-selenium/
+https://www.udemy.com/course/ethical-hacking-exploit-linux-server/
