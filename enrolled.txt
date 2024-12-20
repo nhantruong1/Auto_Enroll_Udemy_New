@@ -5845,3 +5845,6 @@ https://www.udemy.com/course/arduino-mastering-arduino-data-streaming-to-excel-c
 https://www.udemy.com/course/test-your-c-programming-skills-become-expert-in-c/
 https://www.udemy.com/course/digitalwellness/
 https://www.udemy.com/course/sampling-central-limit-theorem-standard-error/
+https://www.udemy.com/course/excel-from-zero-to-pro/
+https://www.udemy.com/course/glcd-graphical-liquid-crystal-display-pic-microcontroller-interfacing/
+https://www.udemy.com/course/esp32-arduino-interfacing-connect-control-arduino-esp-esp32-esp8266/
