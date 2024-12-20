@@ -5854,3 +5854,8 @@ https://www.udemy.com/course/foundations-of-ai-search-algorithms/
 https://www.udemy.com/course/embedded-systems-using-tinkercad/
 https://www.udemy.com/course/sports-psychology-for-coaches-trainers-and-athletes/
 https://www.udemy.com/course/mortgage-broker/
+https://www.udemy.com/course/docker-for-beginners-j/
+https://www.udemy.com/course/programador-web-php8-laravel-symfony-proyectos-reales-tareas/
+https://www.udemy.com/course/master-certified-safe-60-devops-practitioner-sdp-training/
+https://www.udemy.com/course/servidor-proxy-usa-crea-implementa-y-configura-un-proxy/
+https://www.udemy.com/course/mastering-the-finra-sie-exam-comprehensive-study-guide/
