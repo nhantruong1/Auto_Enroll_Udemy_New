@@ -5848,3 +5848,9 @@ https://www.udemy.com/course/sampling-central-limit-theorem-standard-error/
 https://www.udemy.com/course/excel-from-zero-to-pro/
 https://www.udemy.com/course/glcd-graphical-liquid-crystal-display-pic-microcontroller-interfacing/
 https://www.udemy.com/course/esp32-arduino-interfacing-connect-control-arduino-esp-esp32-esp8266/
+https://www.udemy.com/course/learn-virtual-commissioning-with-abb-robot-studio/
+https://www.udemy.com/course/learn-factory-automation-with-abb-robot-studio/
+https://www.udemy.com/course/foundations-of-ai-search-algorithms/
+https://www.udemy.com/course/embedded-systems-using-tinkercad/
+https://www.udemy.com/course/sports-psychology-for-coaches-trainers-and-athletes/
+https://www.udemy.com/course/mortgage-broker/
