@@ -5860,3 +5860,7 @@ https://www.udemy.com/course/master-certified-safe-60-devops-practitioner-sdp-tr
 https://www.udemy.com/course/servidor-proxy-usa-crea-implementa-y-configura-un-proxy/
 https://www.udemy.com/course/mastering-the-finra-sie-exam-comprehensive-study-guide/
 https://www.udemy.com/course/mastering-c-sharp-beginner-to-professional-in-arabic/
+https://www.udemy.com/course/cloud-powered-web-app-development-with-aws-and-php/
+https://www.udemy.com/course/grc-program/
+https://www.udemy.com/course/mastering-transaction-monitoring-a-comprehensive-guide/
+https://www.udemy.com/course/arduino-social-distance-detector/
