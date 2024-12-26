@@ -5869,3 +5869,5 @@ https://www.udemy.com/course/emotional-intelligence-chinese/
 https://www.udemy.com/course/intro-to-django-python-web-apps/
 https://www.udemy.com/course/browser-automation-with-python-selenium/
 https://www.udemy.com/course/ethical-hacking-exploit-linux-server/
+https://www.udemy.com/course/arduino-labview-control-microcontroller-lab-view-arduino-interface/
+https://www.udemy.com/course/circuit-design-simulation-microcontroller-and-electronics-simulation/
