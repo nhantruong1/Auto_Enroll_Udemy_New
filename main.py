@@ -12,6 +12,10 @@ except:
     print("Please import your secret environ")
     exit()
 
+# ACCESS_TOKEN = ""
+# CLIENT_ID = ""
+# DELAY_TIME = 2 # Giây
+
 COUPON_DISCUDEMY_LINKS = [
     'https://www.discudemy.com/category/c',
     'https://www.discudemy.com/category/cpp',
@@ -304,9 +308,13 @@ class Coupon_Real_Discount(Get_Coupon_Course):
         
     def get_list_coupon(self):
         max_course = 30
-        url = f'https://www.real.discount/api-web/all-courses/?store=Udemy&page=1&per_page={max_course}&orderby=undefined&free=0&search=&language=&cat='
+        # url = f'https://www.real.discount/api-web/all-courses/?store=Udemy&page=1&per_page={max_course}&orderby=undefined&free=0&search=&language=&cat='
+        # response = self.get_requests(url)
+        # return json.loads(response)['results']
+
+        url = f'https://cdn.real.discount/api/courses?page=1&limit={max_course}&sortBy=sale_start'
         response = self.get_requests(url)
-        return json.loads(response)['results']
+        return json.loads(response)['items']
     
     def get_coupon(self,url):
         if not url.startswith('https://www.udemy.com'):
