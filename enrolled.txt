@@ -5872,3 +5872,6 @@ https://www.udemy.com/course/ethical-hacking-exploit-linux-server/
 https://www.udemy.com/course/arduino-labview-control-microcontroller-lab-view-arduino-interface/
 https://www.udemy.com/course/circuit-design-simulation-microcontroller-and-electronics-simulation/
 https://www.udemy.com/course/crear-un-ecommerce-fullstack-con-php-y-mysql/
+https://www.udemy.com/course/python-3-desde-cero-para-principiantes-y-no-programadores/
+https://www.udemy.com/course/laravel-2025-real-project-portfolio-and-blog-for-beginners/
+https://www.udemy.com/course/user-interviews-and-user-onboarding/
