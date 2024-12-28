@@ -5905,3 +5905,4 @@ https://www.udemy.com/course/curso-de-azure-cli/
 https://www.udemy.com/course/testologic-agile-tester/
 https://www.udemy.com/course/statistics-interview-questions/
 https://www.udemy.com/course/iso-17025-mastery-course/
+https://www.udemy.com/course/mastering-aml-targeted-financial-sanctions/
