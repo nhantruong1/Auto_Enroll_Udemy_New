@@ -5917,3 +5917,5 @@ https://www.udemy.com/course/medical-genetics-n/
 https://www.udemy.com/course/dog-owners-guide-to-groomtrain-do-cpr-first-aid-and-more/
 https://www.udemy.com/course/aging-and-geriatrics/
 https://www.udemy.com/course/immunology-step-by-step/
+https://www.udemy.com/course/arduino-vi/
+https://www.udemy.com/course/crowdstrike-certified-falcon-administrator-exams/
