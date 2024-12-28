@@ -5921,3 +5921,5 @@ https://www.udemy.com/course/arduino-vi/
 https://www.udemy.com/course/crowdstrike-certified-falcon-administrator-exams/
 https://www.udemy.com/course/project-management-methodologies-agile-scrum-and-pmp/
 https://www.udemy.com/course/tnhxwgzs/
+https://www.udemy.com/course/master-oracle-database-sql-arabic/
+https://www.udemy.com/course/master-solid-principles-arabic/
