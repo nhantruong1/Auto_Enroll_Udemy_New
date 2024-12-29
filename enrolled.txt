@@ -5929,3 +5929,5 @@ https://www.udemy.com/course/crece-en-instagram-rapido/
 https://www.udemy.com/course/computer-science-interview-questions/
 https://www.udemy.com/course/csslp-information-systems-security-professional-practice/
 https://www.udemy.com/course/machine-learning-algorithm/
+https://www.udemy.com/course/edge-computing-essentials/
+https://www.udemy.com/course/cissp-issmp-information-system-security-management-practice/
