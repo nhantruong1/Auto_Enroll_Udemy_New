@@ -5931,3 +5931,6 @@ https://www.udemy.com/course/csslp-information-systems-security-professional-pra
 https://www.udemy.com/course/machine-learning-algorithm/
 https://www.udemy.com/course/edge-computing-essentials/
 https://www.udemy.com/course/cissp-issmp-information-system-security-management-practice/
+https://www.udemy.com/course/windows-10-administration-basic-troubleshooting/
+https://www.udemy.com/course/prompt-engineering-for-developers/
+https://www.udemy.com/course/generative-ai-techniques-applications-and-ethics/
