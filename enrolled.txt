@@ -5936,3 +5936,7 @@ https://www.udemy.com/course/prompt-engineering-for-developers/
 https://www.udemy.com/course/generative-ai-techniques-applications-and-ethics/
 https://www.udemy.com/course/installing-configuring-dns-services-on-windows-server-2016/
 https://www.udemy.com/course/servicenow-certified-system-administratorcsa-practice-exam-z/
+https://www.udemy.com/course/mastering-gitlab-building-continuous-integration-pipelines/
+https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero/
+https://www.udemy.com/course/computer-vision-face-mask-detection-with-deep-learning/
+https://www.udemy.com/course/ssh-ftp-scp-for-linux-and-unix/
