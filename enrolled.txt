@@ -5940,3 +5940,4 @@ https://www.udemy.com/course/mastering-gitlab-building-continuous-integration-pi
 https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero/
 https://www.udemy.com/course/computer-vision-face-mask-detection-with-deep-learning/
 https://www.udemy.com/course/ssh-ftp-scp-for-linux-and-unix/
+https://www.udemy.com/course/istqb-certified-tester-foundation-level-v40-arabic/
