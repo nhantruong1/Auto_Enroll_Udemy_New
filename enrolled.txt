@@ -5956,3 +5956,6 @@ https://www.udemy.com/course/powercli/
 https://www.udemy.com/course/creacion-de-beats-con-chatgpt/
 https://www.udemy.com/course/kick-off-your-gaming-qa-career-basics-of-qa-for-games/
 https://www.udemy.com/course/safe-general-overview-course-aece/
+https://www.udemy.com/course/ccsp-isc2-cloud-security-professional-practice-test/
+https://www.udemy.com/course/ogea-101-togaf-enterprise-architecture-part-1-practice-test/
+https://www.udemy.com/course/cap-isc2-authorization-professional-practice-test/
