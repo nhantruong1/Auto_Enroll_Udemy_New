@@ -5945,3 +5945,5 @@ https://www.udemy.com/course/master-stress-management-build-resilient-workplaces
 https://www.udemy.com/course/master-emotional-intelligence-for-hr-and-leadership-success/
 https://www.udemy.com/course/coach-yourself-to-happiness/
 https://www.udemy.com/course/numpy-interview-questions-practice/
+https://www.udemy.com/course/pcnse-palo-alto-networks-security-engineer-practice-test-v1/
+https://www.udemy.com/course/nvidia-certified-professional-ai-operations-exams/
