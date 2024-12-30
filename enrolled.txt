@@ -5941,3 +5941,6 @@ https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero/
 https://www.udemy.com/course/computer-vision-face-mask-detection-with-deep-learning/
 https://www.udemy.com/course/ssh-ftp-scp-for-linux-and-unix/
 https://www.udemy.com/course/istqb-certified-tester-foundation-level-v40-arabic/
+https://www.udemy.com/course/master-stress-management-build-resilient-workplaces/
+https://www.udemy.com/course/master-emotional-intelligence-for-hr-and-leadership-success/
+https://www.udemy.com/course/coach-yourself-to-happiness/
