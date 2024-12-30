@@ -5961,3 +5961,5 @@ https://www.udemy.com/course/ogea-101-togaf-enterprise-architecture-part-1-pract
 https://www.udemy.com/course/cap-isc2-authorization-professional-practice-test/
 https://www.udemy.com/course/mastering-performance-reviews-evaluate-and-empower-teams/
 https://www.udemy.com/course/performance-management-mastery-drive-employee-success/
+https://www.udemy.com/course/leadership-leaders-skills-training/
+https://www.udemy.com/course/python-for-data-science-numpy-pandas-exercises/
