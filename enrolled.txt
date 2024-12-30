@@ -5947,3 +5947,12 @@ https://www.udemy.com/course/coach-yourself-to-happiness/
 https://www.udemy.com/course/numpy-interview-questions-practice/
 https://www.udemy.com/course/pcnse-palo-alto-networks-security-engineer-practice-test-v1/
 https://www.udemy.com/course/nvidia-certified-professional-ai-operations-exams/
+https://www.udemy.com/course/unix-solaris-high-availability-cluster/
+https://www.udemy.com/course/learn-unix-from-zero-to-hero-for-beginner/
+https://www.udemy.com/course/unix-ibm-aix/
+https://www.udemy.com/course/digital-transformation-for-hr/
+https://www.udemy.com/course/building-ai-powered-business-model/
+https://www.udemy.com/course/powercli/
+https://www.udemy.com/course/creacion-de-beats-con-chatgpt/
+https://www.udemy.com/course/kick-off-your-gaming-qa-career-basics-of-qa-for-games/
+https://www.udemy.com/course/safe-general-overview-course-aece/
