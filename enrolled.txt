@@ -5979,3 +5979,8 @@ https://www.udemy.com/course/google-cloud-digital-leader-beginner-course-cloud-g
 https://www.udemy.com/course/qlik-sense-data-analytics-dashboard-visualization/
 https://www.udemy.com/course/simula-y-certificate-como-pmp-v-70-v2/
 https://www.udemy.com/course/salud-mental-y-motivacion-en-el-trabajo/
+https://www.udemy.com/course/angularjs-essentials-from-beginner-to-advanced-developer/
+https://www.udemy.com/course/ctfl-software-tester-practice-test/
+https://www.udemy.com/course/rapid-business-improvement/
+https://www.udemy.com/course/certificate-in-acupressure-aromatherapy-fully-accredited/
+https://www.udemy.com/course/develop-programming-skills-with-java/
