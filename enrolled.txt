@@ -6015,3 +6015,6 @@ https://www.udemy.com/course/the-ultimate-website-creation-course-design-develop
 https://www.udemy.com/course/icf-pcc-professional-certified-coach-practice-tests-2025/
 https://www.udemy.com/course/mastering-business-card-design-with-photoshop/
 https://www.udemy.com/course/nagios-xi-monitoring-setup-overview-for-beginners/
+https://www.udemy.com/course/2022-the-master-in-web-development-backend-frontend/
+https://www.udemy.com/course/become-a-better-person-in-7-days/
+https://www.udemy.com/course/arduino-long-distance-serial-communication-between-arduinos-rf/
