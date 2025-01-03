@@ -6075,3 +6075,7 @@ https://www.udemy.com/course/sql-for-data-analytics-or-business-analytics/
 https://www.udemy.com/course/sap-fiori-s4hana/
 https://www.udemy.com/course/learn-italian-language-italian-for-intermediate/
 https://www.udemy.com/course/learn-italian-language-italian-for-beginners/
+https://www.udemy.com/course/password-hacking-malware-security/
+https://www.udemy.com/course/web-application-security-sql-injection/
+https://www.udemy.com/course/vapt-owasp/
+https://www.udemy.com/course/llm-hindi/
