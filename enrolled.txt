@@ -6110,3 +6110,4 @@ https://www.udemy.com/course/aws-certified-devops-engineer-professional-complete
 https://www.udemy.com/course/learn-terraform/
 https://www.udemy.com/course/fusion-360-crash-course/
 https://www.udemy.com/course/electronic-electronics-maintenance-electronic-devices-maintenance/
+https://www.udemy.com/course/microsoft-exam-dp-700/
