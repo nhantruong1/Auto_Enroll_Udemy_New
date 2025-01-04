@@ -6106,3 +6106,7 @@ https://www.udemy.com/course/mastering-audio-automation-with-python-programming/
 https://www.udemy.com/course/amazon-bedrock-aws-generative-ai-course/
 https://www.udemy.com/course/servicenow-mock-interviews-interview-questions/
 https://www.udemy.com/course/generative-ai-for-leaders-ha/
+https://www.udemy.com/course/aws-certified-devops-engineer-professional-complete-guide/
+https://www.udemy.com/course/learn-terraform/
+https://www.udemy.com/course/fusion-360-crash-course/
+https://www.udemy.com/course/electronic-electronics-maintenance-electronic-devices-maintenance/
