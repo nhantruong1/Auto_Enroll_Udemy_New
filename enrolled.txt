@@ -6101,3 +6101,8 @@ https://www.udemy.com/course/css-moderno/
 https://www.udemy.com/course/in-depth-digital-marketing-course-seo-paid-ads-ga4-gtm/
 https://www.udemy.com/course/a-to-z-digital-marketing-course-paid-ads-seo-ga4-gtm/
 https://www.udemy.com/course/automatiza-tareas-en-tu-ordenador-con-uipath-studio-volumen1/
+https://www.udemy.com/course/html-like-never-before/
+https://www.udemy.com/course/mastering-audio-automation-with-python-programming/
+https://www.udemy.com/course/amazon-bedrock-aws-generative-ai-course/
+https://www.udemy.com/course/servicenow-mock-interviews-interview-questions/
+https://www.udemy.com/course/generative-ai-for-leaders-ha/
