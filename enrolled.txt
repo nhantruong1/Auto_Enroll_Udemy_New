@@ -6155,3 +6155,4 @@ https://www.udemy.com/course/angular-recommender-system/
 https://www.udemy.com/course/how-to-solder-electronic-components-like-a-professional/
 https://www.udemy.com/course/learn-nosql-databases-complete-mongodb-bootcamp-2019/
 https://www.udemy.com/course/generative-ai-for-business-transformationfull-practice-test/
+https://www.udemy.com/course/crowdstrike-certified-falcon-hunter-ccfh-exams/
