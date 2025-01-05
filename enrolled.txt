@@ -6136,3 +6136,4 @@ https://www.udemy.com/course/testing-in-agile-from-basics-to-best-practices/
 https://www.udemy.com/course/certificate-in-acupressure-massage-fully-accredited/
 https://www.udemy.com/course/certificate-in-acupressure-cupping-fully-accredited/
 https://www.udemy.com/course/certificate-in-acupressure-for-pain-relief-accredited/
+https://www.udemy.com/course/prepare-for-aws-sysops-administrator-soa-c02-exam/
