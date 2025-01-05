@@ -6120,3 +6120,9 @@ https://www.udemy.com/course/materialproduction/
 https://www.udemy.com/course/chronic-illness-fatigue/
 https://www.udemy.com/course/build-blog-website-in-laravel-11-for-beginners/
 https://www.udemy.com/course/angularjs-interview-questions/
+https://www.udemy.com/course/crea-tu-propio-blog-profesional-mvc-con-php-poo-mysql/
+https://www.udemy.com/course/servicenow-integrations-explained-in-detail/
+https://www.udemy.com/course/become-your-best-a-30-day-challenge/
+https://www.udemy.com/course/essentials-of-power-bi-get-started-with-data-analysis/
+https://www.udemy.com/course/interviewboost/
+https://www.udemy.com/course/build-e-commerce-cash-on-delivery-in-laravel-11-for-beginner/
