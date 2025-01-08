@@ -6276,3 +6276,6 @@ https://www.udemy.com/course/python-pygame-game-development-with-coding-exercise
 https://www.udemy.com/course/ai-driven-market-analysis-prediction-av/
 https://www.udemy.com/course/30-days-of-genai-mastery-elevate-your-work-life-with-ai/
 https://www.udemy.com/course/ai-tools-as-coding-assistance-for-developers/
+https://www.udemy.com/course/hacker-vs-defender-linux-servers/
+https://www.udemy.com/course/windows-malware-analysis/
+https://www.udemy.com/course/algorithm-mastery-a-practice-test-for-aspiring-programmers/
