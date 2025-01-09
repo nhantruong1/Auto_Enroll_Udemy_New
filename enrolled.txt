@@ -6305,3 +6305,8 @@ https://www.udemy.com/course/microsoft-dp-203-certified-azure-data-engineer-asso
 https://www.udemy.com/course/arduino-pt/
 https://www.udemy.com/course/chatgpt-for-soc-analysts-ai-powered-cybersecurity-test/
 https://www.udemy.com/course/selenium-testing-mastery-practice-questions-2025/
+https://www.udemy.com/course/dataanalyticsa-zwithpython/
+https://www.udemy.com/course/flutter-sqlite-database-full-project/
+https://www.udemy.com/course/learn-flutter-getx/
+https://www.udemy.com/course/flutter-bloc-atoz/
+https://www.udemy.com/course/placementenglish/
