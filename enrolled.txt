@@ -6301,3 +6301,7 @@ https://www.udemy.com/course/advanced-it-troubleshooting-for-helpdesk-support-te
 https://www.udemy.com/course/curso-de-python3-2019/
 https://www.udemy.com/course/pcb-design-altium-designer-make-arduino-nano-using-altium-designer/
 https://www.udemy.com/course/own-your-life-coaching-in-3-acts/
+https://www.udemy.com/course/microsoft-dp-203-certified-azure-data-engineer-associate/
+https://www.udemy.com/course/arduino-pt/
+https://www.udemy.com/course/chatgpt-for-soc-analysts-ai-powered-cybersecurity-test/
+https://www.udemy.com/course/selenium-testing-mastery-practice-questions-2025/
