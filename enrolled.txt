@@ -6285,3 +6285,7 @@ https://www.udemy.com/course/arduino-fr/
 https://www.udemy.com/course/debug-arduino-programs-codes-while-coding-programming-arduino/
 https://www.udemy.com/course/classic-architecture-using-revit-family/
 https://www.udemy.com/course/primavera-p6-project-planning-for-civil-engineers-from-zero/
+https://www.udemy.com/course/html-css-web-development/
+https://www.udemy.com/course/mastering-office-software-microsoft-google-and-beyond/
+https://www.udemy.com/course/financial-freedom-for-personal-trainers-your-success-plan/
+https://www.udemy.com/course/learning-development-with-generative-ai/
