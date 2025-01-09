@@ -6284,3 +6284,4 @@ https://www.udemy.com/course/17-in-1-complete-personal-transformation-masterclas
 https://www.udemy.com/course/arduino-fr/
 https://www.udemy.com/course/debug-arduino-programs-codes-while-coding-programming-arduino/
 https://www.udemy.com/course/classic-architecture-using-revit-family/
+https://www.udemy.com/course/primavera-p6-project-planning-for-civil-engineers-from-zero/
