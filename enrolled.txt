@@ -6474,3 +6474,7 @@ https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/
 https://www.udemy.com/course/strategic-planning-from-theory-to-action-for-leaders/
 https://www.udemy.com/course/javascript-sans-limites-creez-des-applications-web-moderne/
 https://www.udemy.com/course/fundamentals-of-zero-based-budgeting/
+https://www.udemy.com/course/property-insurance-pre-licensing-course/
+https://www.udemy.com/course/power-bi-dax-mastery-advanced-formulas-and-data-analysis/
+https://www.udemy.com/course/arduino-it/
+https://www.udemy.com/course/maitrisez-les-bases-de-sql-avec-mysql-et-workbench/
