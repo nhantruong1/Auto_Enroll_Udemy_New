@@ -6451,3 +6451,4 @@ https://www.udemy.com/course/togaf-10-enterprise-architecture-agile-specialist-b
 https://www.udemy.com/course/training-togaf-enterprise-architecture-digital-specialist/
 https://www.udemy.com/course/excel-101-for-beginners/
 https://www.udemy.com/course/javascript-fundamentals-a-course-for-absolute-beginners/
+https://www.udemy.com/course/learn-obsidian-from-scratch-ar/
