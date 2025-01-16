@@ -6508,3 +6508,6 @@ https://www.udemy.com/course/haskell-exercises-for-beginners/
 https://www.udemy.com/course/ethical-hacking-vulnerability-research/
 https://www.udemy.com/course/project-management-for-development-pmd/
 https://www.udemy.com/course/solidworks-course-3d-modeling/
+https://www.udemy.com/course/security-awareness-training-cyber-security-for-everyone/
+https://www.udemy.com/course/digital-marketing-fundamentals-chatgpt/
+https://www.udemy.com/course/building-a-risc-v-soc-from-scratch/
