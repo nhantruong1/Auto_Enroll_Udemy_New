@@ -6565,3 +6565,5 @@ https://www.udemy.com/course/boost-productivity/
 https://www.udemy.com/course/conscious-listening/
 https://www.udemy.com/course/rabbitmq-with-net-6-from-zero-to-hero/
 https://www.udemy.com/course/raspberry-pi-with-arduino-connect-and-interface-/
+https://www.udemy.com/course/storytelling-with-photoghraphs/
+https://www.udemy.com/course/build-a-portfolio-that-drives-success/
