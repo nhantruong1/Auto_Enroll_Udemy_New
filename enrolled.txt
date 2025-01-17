@@ -6563,3 +6563,5 @@ https://www.udemy.com/course/food-delivery-business/
 https://www.udemy.com/course/power-query-m-language-programming-part-1/
 https://www.udemy.com/course/boost-productivity/
 https://www.udemy.com/course/conscious-listening/
+https://www.udemy.com/course/rabbitmq-with-net-6-from-zero-to-hero/
+https://www.udemy.com/course/raspberry-pi-with-arduino-connect-and-interface-/
