@@ -6580,3 +6580,10 @@ https://www.udemy.com/course/hpe6-a47-designing-aruba-solutions-professional/
 https://www.udemy.com/course/master-course-in-aws-well-architected-framework-101-level/
 https://www.udemy.com/course/certified-energy-manager-cem-certification/
 https://www.udemy.com/course/intermediate-accounting/
+https://www.udemy.com/course/master-modern-javascript-es6-features-certification/
+https://www.udemy.com/course/understanding-medical-research-methods/
+https://www.udemy.com/course/the-complete-dark-psychology-masterclass-certificate/
+https://www.udemy.com/course/snowflake-snowpro-advanced-data-engineer-exams/
+https://www.udemy.com/course/openai-sora/
+https://www.udemy.com/course/java-core-in-practice-iter-academy/
+https://www.udemy.com/course/pmp-certification-training-exam-preparation-course-35-pdus/
