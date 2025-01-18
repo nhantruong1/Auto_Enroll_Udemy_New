@@ -6587,3 +6587,5 @@ https://www.udemy.com/course/snowflake-snowpro-advanced-data-engineer-exams/
 https://www.udemy.com/course/openai-sora/
 https://www.udemy.com/course/java-core-in-practice-iter-academy/
 https://www.udemy.com/course/pmp-certification-training-exam-preparation-course-35-pdus/
+https://www.udemy.com/course/complete-python-training/
+https://www.udemy.com/course/advanced-certificate-in-customer-experience-management/
