@@ -6644,3 +6644,4 @@ https://www.udemy.com/course/dsar-made-simple/
 https://www.udemy.com/course/privacy-regulations/
 https://www.udemy.com/course/hpe2-t36-using-hpe-oneview-professional/
 https://www.udemy.com/course/machine-learning-based-apis-using-nestjs/
+https://www.udemy.com/course/the-journey-of-procurement-strategy/
