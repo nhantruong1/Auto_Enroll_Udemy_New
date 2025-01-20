@@ -6658,3 +6658,6 @@ https://www.udemy.com/course/vsphere-zero-hero/
 https://www.udemy.com/course/business-consulting-management-consulting/
 https://www.udemy.com/course/human-resource-management-course-udemy/
 https://www.udemy.com/course/retrieval-augmented-generation-rag-fine-tuning-explained/
+https://www.udemy.com/course/agile-retrospectives-kaizen-lean/
+https://www.udemy.com/course/powershell-for-windows-security/
+https://www.udemy.com/course/advanced-python-programming-mastering-key-concepts/
