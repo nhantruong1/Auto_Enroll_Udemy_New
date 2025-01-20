@@ -6650,3 +6650,11 @@ https://www.udemy.com/course/conflictmanagementdiploma/
 https://www.udemy.com/course/complete-facial-recognition-system-using-deep-face-model/
 https://www.udemy.com/course/generativeai-for-leaders/
 https://www.udemy.com/course/master-ethical-ai-trusted-systems/
+https://www.udemy.com/course/learn-windows-server-2022-in-an-easy-way-basics-to-advanced/
+https://www.udemy.com/course/computing-fundamentals-it-networking-os-virtualization/
+https://www.udemy.com/course/mastering-active-directory-manage-and-optimize-the-network/
+https://www.udemy.com/course/aws-ec2-aws-certified-solutions-architect-associate/
+https://www.udemy.com/course/vsphere-zero-hero/
+https://www.udemy.com/course/business-consulting-management-consulting/
+https://www.udemy.com/course/human-resource-management-course-udemy/
+https://www.udemy.com/course/retrieval-augmented-generation-rag-fine-tuning-explained/
