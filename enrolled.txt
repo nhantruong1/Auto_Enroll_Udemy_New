@@ -6661,3 +6661,4 @@ https://www.udemy.com/course/retrieval-augmented-generation-rag-fine-tuning-expl
 https://www.udemy.com/course/agile-retrospectives-kaizen-lean/
 https://www.udemy.com/course/powershell-for-windows-security/
 https://www.udemy.com/course/advanced-python-programming-mastering-key-concepts/
+https://www.udemy.com/course/database-course/
