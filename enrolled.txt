@@ -6645,3 +6645,8 @@ https://www.udemy.com/course/privacy-regulations/
 https://www.udemy.com/course/hpe2-t36-using-hpe-oneview-professional/
 https://www.udemy.com/course/machine-learning-based-apis-using-nestjs/
 https://www.udemy.com/course/the-journey-of-procurement-strategy/
+https://www.udemy.com/course/unlock-iso-19011-management-system-auditor-essentials/
+https://www.udemy.com/course/conflictmanagementdiploma/
+https://www.udemy.com/course/complete-facial-recognition-system-using-deep-face-model/
+https://www.udemy.com/course/generativeai-for-leaders/
+https://www.udemy.com/course/master-ethical-ai-trusted-systems/
