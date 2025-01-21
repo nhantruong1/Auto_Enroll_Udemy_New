@@ -6664,3 +6664,4 @@ https://www.udemy.com/course/advanced-python-programming-mastering-key-concepts/
 https://www.udemy.com/course/database-course/
 https://www.udemy.com/course/it-security-101-protecting-and-securing-computer-networks/
 https://www.udemy.com/course/typescript-para-principiantes-desde-0/
+https://www.udemy.com/course/the-pandas-bootcamp-data-analysis-with-pandas-python3/
