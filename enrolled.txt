@@ -6682,3 +6682,4 @@ https://www.udemy.com/course/innovating-with-biomathematics/
 https://www.udemy.com/course/r-ultimate-learn-r-for-data-science-and-machine-learning/
 https://www.udemy.com/course/complete-google-certified-educator-level-1-masterclass/
 https://www.udemy.com/course/finra-series-7-exam-270-questions/
+https://www.udemy.com/course/des-6322-implementation-engineer-vxrail-skills/
