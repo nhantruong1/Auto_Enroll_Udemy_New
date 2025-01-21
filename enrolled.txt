@@ -6688,3 +6688,5 @@ https://www.udemy.com/course/governmental-accounting-300-proprietary-fiduciary-f
 https://www.udemy.com/course/quickbooks-desktop-job-costing/
 https://www.udemy.com/course/s-corporation-income-tax/
 https://www.udemy.com/course/xero-accounting-software-2020/
+https://www.udemy.com/course/automate-with-python/
+https://www.udemy.com/course/bash-scripting-for-security/
