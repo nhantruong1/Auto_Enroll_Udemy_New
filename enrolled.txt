@@ -6678,3 +6678,7 @@ https://www.udemy.com/course/appium-mobile-testing-complete-guide/
 https://www.udemy.com/course/pgmp-program-management-professional-exam-prep-training/
 https://www.udemy.com/course/argo-cd-for-the-absolute-beginners-hands-on-devops/
 https://www.udemy.com/course/business-analysis-aecg/
+https://www.udemy.com/course/innovating-with-biomathematics/
+https://www.udemy.com/course/r-ultimate-learn-r-for-data-science-and-machine-learning/
+https://www.udemy.com/course/complete-google-certified-educator-level-1-masterclass/
+https://www.udemy.com/course/finra-series-7-exam-270-questions/
