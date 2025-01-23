@@ -6763,3 +6763,6 @@ https://www.udemy.com/course/golden-strategies/
 https://www.udemy.com/course/ns0-162-netapp-data-administrator-professional/
 https://www.udemy.com/course/revit-industrial-office-interior-design-structural-and-mep/
 https://www.udemy.com/course/mastering-timeboxing-boosting-productivity-and-efficiency-b/
+https://www.udemy.com/course/internet-cloud-computing-foundations/
+https://www.udemy.com/course/aws-elastic-load-balancing-with-auto-scaling-groups/
+https://www.udemy.com/course/aws-javascript-react-deploy-web-apps-on-the-cloud/
