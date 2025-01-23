@@ -6748,3 +6748,5 @@ https://www.udemy.com/course/customer-service-management-diploma/
 https://www.udemy.com/course/relatorios-profissionais-com-spring-boot-jasperreports-e-apache-poi/
 https://www.udemy.com/course/how-to-impress-in-consulting/
 https://www.udemy.com/course/improving-mental-health/
+https://www.udemy.com/course/complete-java-web-service-bootcamp-from-beginner-to-pro/
+https://www.udemy.com/course/ai-driven-hr-automation-recruitment-talent-compliance/
