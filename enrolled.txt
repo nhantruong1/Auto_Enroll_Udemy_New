@@ -6801,3 +6801,4 @@ https://www.udemy.com/course/agile-project-management-scrum/
 https://www.udemy.com/course/learn-toeic/
 https://www.udemy.com/course/learn-progressive-die-design-in-nx-from-scratch/
 https://www.udemy.com/course/strategic-public-relations-and-communication-management/
+https://www.udemy.com/course/mastering-django/
