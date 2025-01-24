@@ -6786,3 +6786,6 @@ https://www.udemy.com/course/how-to-study-think-and-grow-rich/
 https://www.udemy.com/course/inversiones-internacionales/
 https://www.udemy.com/course/writers-and-designers-ai-masterclass-for-content-creators/
 https://www.udemy.com/course/pmp-exam-prep-made-easy/
+https://www.udemy.com/course/master-data-science-with-sql-and-python/
+https://www.udemy.com/course/outstanding-python-programming-with-examples-in-one-day/
+https://www.udemy.com/course/learn-c-sharp-programming-with-examples-in-one-day/
