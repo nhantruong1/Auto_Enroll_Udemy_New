@@ -6810,3 +6810,6 @@ https://www.udemy.com/course/esri-arcgispro/
 https://www.udemy.com/course/essentiels-du-coo/
 https://www.udemy.com/course/become-certified-hr-director-and-get-200-hr-tools/
 https://www.udemy.com/course/director-de-rrhh-curso-en-linea-en-espanol/
+https://www.udemy.com/course/open-source-intelligence-osint/
+https://www.udemy.com/course/yara-malware-detection-for-windows/
+https://www.udemy.com/course/yara-linux-malware/
