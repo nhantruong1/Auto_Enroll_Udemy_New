@@ -6803,3 +6803,8 @@ https://www.udemy.com/course/learn-progressive-die-design-in-nx-from-scratch/
 https://www.udemy.com/course/strategic-public-relations-and-communication-management/
 https://www.udemy.com/course/mastering-django/
 https://www.udemy.com/course/essenciais-coo/
+https://www.udemy.com/course/discursos-de-odio-nas-redes-sociais/
+https://www.udemy.com/course/01-day-c-code-learn-c-programming-with-examples-in-one-day/
+https://www.udemy.com/course/devenez-un-expert-sig-avec-le-logiciel-qgis/
+https://www.udemy.com/course/esri-arcgispro/
+https://www.udemy.com/course/essentiels-du-coo/
