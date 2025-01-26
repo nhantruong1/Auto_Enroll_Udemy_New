@@ -6845,3 +6845,5 @@ https://www.udemy.com/course/iso-bcms-22301-lead-auditor-professional/
 https://www.udemy.com/course/advanced-kitchen-modeling-cabinet-design-sketchup-lumion/
 https://www.udemy.com/course/the-3cs-to-become-an-ai-ready-project-manager/
 https://www.udemy.com/course/dea-1tt4-information-storage-management-professional/
+https://www.udemy.com/course/regression-in-angular-using-tensorflowjs/
+https://www.udemy.com/course/e20-393-unity-solutions-specialist-professional/
