@@ -6881,3 +6881,6 @@ https://www.udemy.com/course/ansible-for-network-engineers-hands-on-capstone-pro
 https://www.udemy.com/course/spring-framework-and-spring-boot/
 https://www.udemy.com/course/python-tutorials-for-by-navinreddy/
 https://www.udemy.com/course/java-for-beginners-telusko/
+https://www.udemy.com/course/blog-marketing-guide-how-to-grow-a-blog-for-beginners-tareq-hajj/
+https://www.udemy.com/course/day-trading-for-beginners-learn-basic-trading-strategies-tareq-hajj/
+https://www.udemy.com/course/digital-marketing-guide-email-marketing-for-beginners-tareq-hajj/
