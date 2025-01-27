@@ -6875,3 +6875,9 @@ https://www.udemy.com/course/architectural-shop-drawing-plans-in-autocad-2020/
 https://www.udemy.com/course/prokon-analysis-and-design-of-3-stories-rcc-building/
 https://www.udemy.com/course/cdmp-metadata/
 https://www.udemy.com/course/mastering-redis-with-net6/
+https://www.udemy.com/course/spring-5-with-spring-boot-2/
+https://www.udemy.com/course/git-for-beginners-h/
+https://www.udemy.com/course/ansible-for-network-engineers-hands-on-capstone-projects/
+https://www.udemy.com/course/spring-framework-and-spring-boot/
+https://www.udemy.com/course/python-tutorials-for-by-navinreddy/
+https://www.udemy.com/course/java-for-beginners-telusko/
