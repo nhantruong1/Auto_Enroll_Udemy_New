@@ -6913,3 +6913,13 @@ https://www.udemy.com/course/cdip-documentation-integrity-practitioner-skills/
 https://www.udemy.com/course/master-operating-systems-with-500-exam-style-mcqs/
 https://www.udemy.com/course/intership-on-pratical-aspects-of-building-construction/
 https://www.udemy.com/course/unlock-variable-frequency-drive-vfd-essential-training/
+https://www.udemy.com/course/hematology-theory-and-practice-for-medical-students/
+https://www.udemy.com/course/shrm-senior-certified-professional-shrm-scp-training/
+https://www.udemy.com/course/improve-python-programming-knowledge-practice-questions/
+https://www.udemy.com/course/new-javascript-interview-questions-practice-tests/
+https://www.udemy.com/course/java-programming-interview-questions-practice-tests/
+https://www.udemy.com/course/docker-interview-questions-and-practice-tests-bundle/
+https://www.udemy.com/course/new-php-interview-questions-and-practice-tests-bundle/
+https://www.udemy.com/course/frontend-interview-questions-and-practice-tests-bundle/
+https://www.udemy.com/course/new-kubernetes-interview-questions-practice-tests/
+https://www.udemy.com/course/mastering-machine-learning-interview-questions-tests/
