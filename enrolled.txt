@@ -6962,3 +6962,7 @@ https://www.udemy.com/course/pre-algebra-made-easy-the-complete-beginners-guide/
 https://www.udemy.com/course/101-f5-application-delivery-fundamentals-skills/
 https://www.udemy.com/course/hpe2-t37-using-hpe-oneview-professional/
 https://www.udemy.com/course/hpe2-w11-selling-hpe-aruba-solutions-professional/
+https://www.udemy.com/course/tableau-for-beginners-2023-visualize-and-analyze-your-data/
+https://www.udemy.com/course/generative-ai-hacks-prompt-engineering-chatgpt/
+https://www.udemy.com/course/csm-001-scrum-master-skills/
+https://www.udemy.com/course/databricks-professional-data-engineer-skills/
