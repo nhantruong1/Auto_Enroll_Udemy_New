@@ -6923,3 +6923,9 @@ https://www.udemy.com/course/new-php-interview-questions-and-practice-tests-bund
 https://www.udemy.com/course/frontend-interview-questions-and-practice-tests-bundle/
 https://www.udemy.com/course/new-kubernetes-interview-questions-practice-tests/
 https://www.udemy.com/course/mastering-machine-learning-interview-questions-tests/
+https://www.udemy.com/course/new-devops-interview-questions-practice-tests-pack/
+https://www.udemy.com/course/new-sql-interview-questions-practice-tests/
+https://www.udemy.com/course/new-blockchain-interview-questions-practice-tests/
+https://www.udemy.com/course/new-computer-vision-interview-practice-questions/
+https://www.udemy.com/course/deep-learning-interview-questions-and-practice-tests/
+https://www.udemy.com/course/nextjs-interview-questions-and-practice-tests/
