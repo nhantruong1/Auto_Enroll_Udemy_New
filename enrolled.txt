@@ -6986,3 +6986,9 @@ https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-america
 https://www.udemy.com/course/master-microsoft-power-query/
 https://www.udemy.com/course/artificial-intelligence-practice-tests-i-500-questions/
 https://www.udemy.com/course/pmp-project-management-professional-skills/
+https://www.udemy.com/course/windows-command-line-cmd-batch-script-management/
+https://www.udemy.com/course/networking-networking/
+https://www.udemy.com/course/mastering-spiratest-planning-to-execution-test-management/
+https://www.udemy.com/course/cassandra-architecture-deployment-performance-monitoring/
+https://www.udemy.com/course/cassandra-architecture-data-modeling-cql/
+https://www.udemy.com/course/sscp-system-security-practitioner-professional/
