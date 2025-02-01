@@ -7058,3 +7058,7 @@ https://www.udemy.com/course/master-branding/
 https://www.udemy.com/course/microsoft-project-complete-course-all-in-one-ms-project/
 https://www.udemy.com/course/autocad-2d-3d-autocad-civil-architectural/
 https://www.udemy.com/course/business-case-writing-from-analysis-to-impactful-reports/
+https://www.udemy.com/course/deepseek-learn-by-practicing-complete-practice-tests/
+https://www.udemy.com/course/flutter-mastery-beginner-to-advanced-practice-tests/
+https://www.udemy.com/course/vue-mastery-fundamentals-to-advanced-practice-tests/
+https://www.udemy.com/course/nuxt-mastery-fundamentals-to-advanced-practice-tests/
