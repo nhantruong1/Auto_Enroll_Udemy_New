@@ -7081,3 +7081,4 @@ https://www.udemy.com/course/internet-of-things-mcq/
 https://www.udemy.com/course/mastering-xhtml-and-web-development/
 https://www.udemy.com/course/financial-restructuring-and-corporate-actions/
 https://www.udemy.com/course/health-coach-training-nutricion-y-asesorias-personalizadas/
+https://www.udemy.com/course/portfolio-blog-e-commerce-in-laravel-11-for-beginners/
