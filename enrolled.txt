@@ -7103,3 +7103,5 @@ https://www.udemy.com/course/how-to-transform-your-life-practical-ways/
 https://www.udemy.com/course/complete-wordpress-elementor-guide-design-build-earn/
 https://www.udemy.com/course/100-days-of-google-ads-microsoft-ads-ultimate-bootcamp/
 https://www.udemy.com/course/email-security/
+https://www.udemy.com/course/arduino-morse-code-generator-morsecodearduino-mors-code-arduino/
+https://www.udemy.com/course/binance-futures-trading-with-python-build-a-market-maker/
