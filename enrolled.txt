@@ -7092,3 +7092,6 @@ https://www.udemy.com/course/css-mastery-from-basics-to-tailwind-pro/
 https://www.udemy.com/course/creating-a-project-management-tracker-in-excel/
 https://www.udemy.com/course/istqb-certified-tester-advanced-level-test-analyst-exams/
 https://www.udemy.com/course/full-stack-python-development-building-realworld-application/
+https://www.udemy.com/course/future-proofing-your-career-in-a-digital-first-world/
+https://www.udemy.com/course/understanding-deepseek-concepts-principles-and-impact/
+https://www.udemy.com/course/deepseek-vs-chatgpt-gemini-disrupting-generative-ai/
