@@ -7107,3 +7107,6 @@ https://www.udemy.com/course/arduino-morse-code-generator-morsecodearduino-mors-
 https://www.udemy.com/course/binance-futures-trading-with-python-build-a-market-maker/
 https://www.udemy.com/course/excel-practice-test-2024-from-basics-to-ai-tools/
 https://www.udemy.com/course/100-frm-part-1-interview-questions-practice-test-2024/
+https://www.udemy.com/course/pro-frontend-engineer-reactjs-typescript-redux-nextjs-api-tailwindcss/
+https://www.udemy.com/course/html5-css3-and-javascript-the-right-way/
+https://www.udemy.com/course/mastering-nodejs-ts-mongodb-mvc-apis-graphql-arabic/
