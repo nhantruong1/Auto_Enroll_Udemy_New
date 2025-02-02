@@ -7095,3 +7095,4 @@ https://www.udemy.com/course/full-stack-python-development-building-realworld-ap
 https://www.udemy.com/course/future-proofing-your-career-in-a-digital-first-world/
 https://www.udemy.com/course/understanding-deepseek-concepts-principles-and-impact/
 https://www.udemy.com/course/deepseek-vs-chatgpt-gemini-disrupting-generative-ai/
+https://www.udemy.com/course/nodejs-basic-to-advance/
