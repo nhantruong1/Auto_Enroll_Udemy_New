@@ -7117,3 +7117,4 @@ https://www.udemy.com/course/the-art-of-war-for-managers-a-masterclass/
 https://www.udemy.com/course/complete-portfolio-website-in-livewire-3-for-beginners/
 https://www.udemy.com/course/splunk-core-user-certification-guide-get-certified-fast/
 https://www.udemy.com/course/python-interview-questions-answers-coding/
+https://www.udemy.com/course/redhat-system-administration-and-troubleshooting-rhcsa/
