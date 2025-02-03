@@ -7121,3 +7121,6 @@ https://www.udemy.com/course/redhat-system-administration-and-troubleshooting-rh
 https://www.udemy.com/course/chinese-tea-art-junior/
 https://www.udemy.com/course/python-project-building-complex-calculator/
 https://www.udemy.com/course/bonds-trading-etfs-bond-accounting-bond-market/
+https://www.udemy.com/course/real-innovation-for-real-industries/
+https://www.udemy.com/course/python-programming-mastery-from-beginner-to-pro/
+https://www.udemy.com/course/the-complete-it-mega-course-linux-ansible-docker-more/
