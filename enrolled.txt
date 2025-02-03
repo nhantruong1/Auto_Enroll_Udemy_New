@@ -7119,3 +7119,5 @@ https://www.udemy.com/course/splunk-core-user-certification-guide-get-certified-
 https://www.udemy.com/course/python-interview-questions-answers-coding/
 https://www.udemy.com/course/redhat-system-administration-and-troubleshooting-rhcsa/
 https://www.udemy.com/course/chinese-tea-art-junior/
+https://www.udemy.com/course/python-project-building-complex-calculator/
+https://www.udemy.com/course/bonds-trading-etfs-bond-accounting-bond-market/
