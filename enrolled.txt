@@ -7113,3 +7113,5 @@ https://www.udemy.com/course/mastering-nodejs-ts-mongodb-mvc-apis-graphql-arabic
 https://www.udemy.com/course/it-desktop-computer-support-real-world-troubleshooting/
 https://www.udemy.com/course/the-complete-social-media-growth-mastery-with-ai-2024/
 https://www.udemy.com/course/diploma-in-sales-and-business-development-2025/
+https://www.udemy.com/course/the-art-of-war-for-managers-a-masterclass/
+https://www.udemy.com/course/complete-portfolio-website-in-livewire-3-for-beginners/
