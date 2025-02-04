@@ -7151,3 +7151,5 @@ https://www.udemy.com/course/deepseek-r1-real-world-projects/
 https://www.udemy.com/course/maitriser-la-gestion-de-la-qualite-en-projet/
 https://www.udemy.com/course/data-architecture-for-data-engineers/
 https://www.udemy.com/course/troubleshooting-interview-questions/
+https://www.udemy.com/course/wastewater-treatment-explained/
+https://www.udemy.com/course/python-for-absolute-beginners-pass-the-pcep-exam/
