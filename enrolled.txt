@@ -7147,3 +7147,4 @@ https://www.udemy.com/course/master-mysql-guide-to-database-management-and-proje
 https://www.udemy.com/course/kvm-virtualization-from-basics-to-advanced/
 https://www.udemy.com/course/problem-solving-using-python/
 https://www.udemy.com/course/api-testing-with-postman-microservices-step-by-step-guide/
+https://www.udemy.com/course/deepseek-r1-real-world-projects/
