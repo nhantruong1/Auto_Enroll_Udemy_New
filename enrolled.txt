@@ -7142,3 +7142,8 @@ https://www.udemy.com/course/emotional-intelligence-life-psychology-end-procrast
 https://www.udemy.com/course/the-remote-work-blueprint-build-your-anywhere-office/
 https://www.udemy.com/course/neuroplasticity-ultimate-cerification-course/
 https://www.udemy.com/course/meme-coin-mastery-how-to-trade-solana-memecoin-for-profit-q/
+https://www.udemy.com/course/mastering-json-with-real-world-projects-and-aws-lambda/
+https://www.udemy.com/course/master-mysql-guide-to-database-management-and-projects/
+https://www.udemy.com/course/kvm-virtualization-from-basics-to-advanced/
+https://www.udemy.com/course/problem-solving-using-python/
+https://www.udemy.com/course/api-testing-with-postman-microservices-step-by-step-guide/
