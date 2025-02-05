@@ -7161,3 +7161,13 @@ https://www.udemy.com/course/confidence-intervals/
 https://www.udemy.com/course/contabilidad-de-asociaciones/
 https://www.udemy.com/course/contabilidad-bonos-por-pagar-documentos-por-pagar-pasivos/
 https://www.udemy.com/course/creating-super-immunity/
+https://www.udemy.com/course/rohitbasistgurjar-data-analysis-project-on-electoral-bond/
+https://www.udemy.com/course/elk-stack-logstash-docker-compose-case-studies/
+https://www.udemy.com/course/mastering-vmware-vcenter-esxi-virtualization/
+https://www.udemy.com/course/jira-incident-management-workflows-agile-projects/
+https://www.udemy.com/course/conducting-risk-and-opportunity-identification-and-assessments/
+https://www.udemy.com/course/apply-principles-of-risk-management/
+https://www.udemy.com/course/next-js-project-bootcamp-build-12-production-ready-projects/
+https://www.udemy.com/course/outstanding-learn-python-programming-after-c-c/
+https://www.udemy.com/course/7-days-bootcamp-learn-python-programming-in-just-7-days/
+https://www.udemy.com/course/python-numpy-programming-with-coding-exercises/
