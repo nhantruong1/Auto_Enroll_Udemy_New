@@ -7171,3 +7171,4 @@ https://www.udemy.com/course/next-js-project-bootcamp-build-12-production-ready-
 https://www.udemy.com/course/outstanding-learn-python-programming-after-c-c/
 https://www.udemy.com/course/7-days-bootcamp-learn-python-programming-in-just-7-days/
 https://www.udemy.com/course/python-numpy-programming-with-coding-exercises/
+https://www.udemy.com/course/create-notificationalert-solution-in-7-days/
