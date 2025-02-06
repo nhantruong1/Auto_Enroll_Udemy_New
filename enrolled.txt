@@ -7200,3 +7200,7 @@ https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/
 https://www.udemy.com/course/the-complete-ethical-hacking/
 https://www.udemy.com/course/professional-certificate-in-project-and-process-management/
 https://www.udemy.com/course/gsm-gprs-edge-from-a-to-z/
+https://www.udemy.com/course/disaster-recovery-101-business-continuity-planning-bcp/
+https://www.udemy.com/course/consigue-trabajo-entrevista-exitosa-alvaro-chirou-gaston-galarza/
+https://www.udemy.com/course/business-communication-mastery-in-meetings/
+https://www.udemy.com/course/retoqueconia/
