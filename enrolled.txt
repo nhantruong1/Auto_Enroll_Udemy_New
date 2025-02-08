@@ -7227,3 +7227,6 @@ https://www.udemy.com/course/it-support-troubleshooting-tips-for-clinical-enviro
 https://www.udemy.com/course/personal-finance-for-beginners-building-financial-goals/
 https://www.udemy.com/course/practical-ways-to-make-money-with-generative-ai-tools/
 https://www.udemy.com/course/medicare-masterclass/
+https://www.udemy.com/course/oracle-plsql-from-beginner-to-master/
+https://www.udemy.com/course/sql-query-interview-questions/
+https://www.udemy.com/course/learn-delegation-for-non-direct-reports/
