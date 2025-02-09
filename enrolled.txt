@@ -7251,3 +7251,5 @@ https://www.udemy.com/course/soapui-interview-questions/
 https://www.udemy.com/course/grief-is-love-unspoken-a-journey-toward-healing/
 https://www.udemy.com/course/ccfr-201-crowdstrike-falcon-responder-professional/
 https://www.udemy.com/course/nvivo-2025-the-complete-qualitative-data-analysis-course/
+https://www.udemy.com/course/ccdak-confluent-developer-for-apache-kafka-skills/
+https://www.udemy.com/course/complete-html-and-css-with-scss-course-2-projects/
