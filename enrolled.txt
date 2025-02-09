@@ -7259,3 +7259,5 @@ https://www.udemy.com/course/advanced-python-programming-language-professional/
 https://www.udemy.com/course/40-days-to-python-success-master-python-programming/
 https://www.udemy.com/course/splk-1001-splunk-core-user-professional/
 https://www.udemy.com/course/ai-recruitment/
+https://www.udemy.com/course/agile-scrum-certifications-coachgreg/
+https://www.udemy.com/course/como-manejar-correctamente-la-deuda/
