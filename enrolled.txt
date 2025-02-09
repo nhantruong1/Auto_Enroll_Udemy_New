@@ -7253,3 +7253,9 @@ https://www.udemy.com/course/ccfr-201-crowdstrike-falcon-responder-professional/
 https://www.udemy.com/course/nvivo-2025-the-complete-qualitative-data-analysis-course/
 https://www.udemy.com/course/ccdak-confluent-developer-for-apache-kafka-skills/
 https://www.udemy.com/course/complete-html-and-css-with-scss-course-2-projects/
+https://www.udemy.com/course/oci-autonomous-database-serverless-with-terraform/
+https://www.udemy.com/course/data-structures-concepts-algorithms-implementation/
+https://www.udemy.com/course/advanced-python-programming-language-professional/
+https://www.udemy.com/course/40-days-to-python-success-master-python-programming/
+https://www.udemy.com/course/splk-1001-splunk-core-user-professional/
+https://www.udemy.com/course/ai-recruitment/
