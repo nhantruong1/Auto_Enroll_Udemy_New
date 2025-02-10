@@ -7283,3 +7283,5 @@ https://www.udemy.com/course/db-performance-engineering/
 https://www.udemy.com/course/threat-hunting-with-data-science-and-splunk-for-beginners/
 https://www.udemy.com/course/attachment-styles-theory-everything-you-need-to-know/
 https://www.udemy.com/course/digital-wellbeing-a-starter-guide-to-effective-techniques/
+https://www.udemy.com/course/interior-design-course-basics/
+https://www.udemy.com/course/linux-security-prevent-cryptojacking-with-yara/
