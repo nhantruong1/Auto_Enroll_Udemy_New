@@ -7344,3 +7344,6 @@ https://www.udemy.com/course/pandas-python-quiz-with-answer-explanation/
 https://www.udemy.com/course/openpyxl-python-quiz-with-answer-explanation/
 https://www.udemy.com/course/flask-python-quiz-with-answer-explanation/
 https://www.udemy.com/course/django-python-quiz-with-answer-explanation/
+https://www.udemy.com/course/advanced-certificate-in-financial-analysis-and-management/
+https://www.udemy.com/course/sap-security-interview-questions/
+https://www.udemy.com/course/cwna-107-wireless-network-administrator-professional/
