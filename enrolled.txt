@@ -7425,3 +7425,11 @@ https://www.udemy.com/course/10-days-of-css-flexbox/
 https://www.udemy.com/course/the-python-programmer/
 https://www.udemy.com/course/data-analyst-top-interview-exams-questions-answers/
 https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/
+https://www.udemy.com/course/building-a-laravel-and-react-platform-for-selling-pictures/
+https://www.udemy.com/course/windows-security-mastering-the-hosts-file/
+https://www.udemy.com/course/from-zero-to-ai-how-to-master-deepseek-ai-as-a-beginner/
+https://www.udemy.com/course/mastering-email-deliverability-the-comprehensive-guide/
+https://www.udemy.com/course/ultimate-clean-code-masterclass/
+https://www.udemy.com/course/change-management-for-generative-ai-a-step-by-step-guide/
+https://www.udemy.com/course/handwriting-improvement-in-few-hours/
+https://www.udemy.com/course/master-course-developing-business-partnerships/
