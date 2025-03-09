@@ -7422,3 +7422,6 @@ https://www.udemy.com/course/10-days-of-css-grid/
 https://www.udemy.com/course/value-based-selling-a-step-by-step-guide/
 https://www.udemy.com/course/modelling-and-optimization-of-processes/
 https://www.udemy.com/course/10-days-of-css-flexbox/
+https://www.udemy.com/course/the-python-programmer/
+https://www.udemy.com/course/data-analyst-top-interview-exams-questions-answers/
+https://www.udemy.com/course/facebook-ads-for-small-business-from-very-basic-to-advance/
