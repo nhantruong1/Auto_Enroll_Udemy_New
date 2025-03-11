@@ -7520,3 +7520,7 @@ https://www.udemy.com/course/sifirdan_ileri_seviyeye_php_egitimi/
 https://www.udemy.com/course/complete-camtasia-9-masterclass-from-beginner-to-pro-creator/
 https://www.udemy.com/course/secretsfromabroker/
 https://www.udemy.com/course/masterclass-train-the-trainer-bootcamp-fur-trainer/
+https://www.udemy.com/course/ai-chatbots-247-appointment-booking-made-easy/
+https://www.udemy.com/course/master-notion-build-your-all-in-one-productivity-system/
+https://www.udemy.com/course/google-sheets-at-work-impress-your-boss-with-smart-works/
+https://www.udemy.com/course/penetration-testing-bootcamp-beginner-to-advanced-hacker/
