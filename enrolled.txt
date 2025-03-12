@@ -7555,3 +7555,6 @@ https://www.udemy.com/course/java-concurrency-iter-academy/
 https://www.udemy.com/course/mastering-google-notebooklm-an-ai-powered-research-tool/
 https://www.udemy.com/course/ai-coding-projects/
 https://www.udemy.com/course/shrm-cp-exam/
+https://www.udemy.com/course/the-power-of-ai-avatars-with-heygen/
+https://www.udemy.com/course/unlocking-grok-ai-for-business-and-marketing/
+https://www.udemy.com/course/craft-marketing-strategy-with-your-ai-copilot/
