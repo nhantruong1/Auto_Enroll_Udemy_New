@@ -7583,3 +7583,6 @@ https://www.udemy.com/course/generative-ai-for-leaders-and-managers-a-strategic-
 https://www.udemy.com/course/master-linux-admin-for-devops-sre-become-job-ready/
 https://www.udemy.com/course/splk-2002-splunk-enterprise-architect-professional/
 https://www.udemy.com/course/jmeter-interview-questions/
+https://www.udemy.com/course/master-technical-analysis/
+https://www.udemy.com/course/master-listening-to-transform-your-relationships/
+https://www.udemy.com/course/employee-attrition-prediction-in-apache-spark-ml/
