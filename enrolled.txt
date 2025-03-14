@@ -7625,3 +7625,4 @@ https://www.udemy.com/course/react-js-practice-test-for-interviews-certification
 https://www.udemy.com/course/evaluating-generative-models/
 https://www.udemy.com/course/generative-ai-all-in-one-fast-track/
 https://www.udemy.com/course/java-programming-interview-questions/
+https://www.udemy.com/course/sap-production-planning-pp-module/
