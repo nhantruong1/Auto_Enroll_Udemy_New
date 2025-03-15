@@ -7630,3 +7630,4 @@ https://www.udemy.com/course/mastering-deepseek-r1-the-ultimate-guide-for-beginn
 https://www.udemy.com/course/the-complete-microsoft-outlook-masterclass-mastering-outlook/
 https://www.udemy.com/course/scenario-planning-visualizing-alternative-futures/
 https://www.udemy.com/course/abc-of-ear-nose-and-throat-ent-disorders/
+https://www.udemy.com/course/blueprint-for-successful-microservices-api-implementation/
