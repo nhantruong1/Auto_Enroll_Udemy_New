@@ -7637,3 +7637,8 @@ https://www.udemy.com/course/clonage-vocal-avec-lintelligence-artificielle/
 https://www.udemy.com/course/stimmenklonen-mit-kunstlicher-intelligenz/
 https://www.udemy.com/course/virtual-executive-assistant/
 https://www.udemy.com/course/creer-une-application-web-rentable-avec-lia-et-no-code/
+https://www.udemy.com/course/owasp-security-learnit-es/
+https://www.udemy.com/course/mejores-practicas-seguridad-learnit/
+https://www.udemy.com/course/codificacion-segura-learnit/
+https://www.udemy.com/course/owasp-learnit-es/
+https://www.udemy.com/course/jdbc-learnit/
