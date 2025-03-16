@@ -7644,3 +7644,6 @@ https://www.udemy.com/course/owasp-learnit-es/
 https://www.udemy.com/course/jdbc-learnit/
 https://www.udemy.com/course/databases-learnit/
 https://www.udemy.com/course/functional-testing-interview-questions/
+https://www.udemy.com/course/practice-test-comptia-a-plus-core-1-220-1101-2024/
+https://www.udemy.com/course/cco-chief-customer-officer/
+https://www.udemy.com/course/shrm-scp-senior-certified-professional-society/
