@@ -7658,3 +7658,4 @@ https://www.udemy.com/course/zero-hr-management/
 https://www.udemy.com/course/rancvtmn/
 https://www.udemy.com/course/python-django-web-applications-dev-with-coding-exercises/
 https://www.udemy.com/course/learn-python-in-7-days-with-exercises-and-assignments/
+https://www.udemy.com/course/python-programming-build-and-deploy-your-own-applications/
