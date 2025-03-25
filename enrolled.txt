@@ -7689,3 +7689,9 @@ https://www.udemy.com/course/learn-canva-from-basic-to-advanced-and-earn-money-i
 https://www.udemy.com/course/mastering-c-learn-building-games-application-softwares/
 https://www.udemy.com/course/advanced-instagram-marketing-blueprint-complete-guide/
 https://www.udemy.com/course/leadership-potholes/
+https://www.udemy.com/course/semantic-search-api-with-s-bert-and-search-api-with-ragllm/
+https://www.udemy.com/course/typescript-interview-questions-test/
+https://www.udemy.com/course/wcf-interview-questions/
+https://www.udemy.com/course/web-developer-interview-questions/
+https://www.udemy.com/course/mastering-dns-configuration-and-email-deliverability/
+https://www.udemy.com/course/offensive-security-pathway/
