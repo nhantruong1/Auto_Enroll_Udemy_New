@@ -7695,3 +7695,6 @@ https://www.udemy.com/course/wcf-interview-questions/
 https://www.udemy.com/course/web-developer-interview-questions/
 https://www.udemy.com/course/mastering-dns-configuration-and-email-deliverability/
 https://www.udemy.com/course/offensive-security-pathway/
+https://www.udemy.com/course/hacking-network/
+https://www.udemy.com/course/c-programming-for-microcontrollers-es/
+https://www.udemy.com/course/liberate-del-estres-herramientas-para-la-ansiedad/
