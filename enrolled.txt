@@ -7782,3 +7782,8 @@ https://www.udemy.com/course/clustering-unsupervised-learning-in-python/
 https://www.udemy.com/course/deploy-ml-model-in-production-with-fastapi-and-docker/
 https://www.udemy.com/course/data-centric-machine-learning-with-python-hands-on-guide/
 https://www.udemy.com/course/figma-to-wordpress-convert-figma-to-elementor/
+https://www.udemy.com/course/software-creation-and-development-using-ai/
+https://www.udemy.com/course/produccion-de-videos-con-trabajadores-en-miniatura/
+https://www.udemy.com/course/production-video-dun-travailleur-miniature/
+https://www.udemy.com/course/videoproduktion-von-miniaturarbeitern/
+https://www.udemy.com/course/miniature-workers-video-production/
