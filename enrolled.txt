@@ -7781,3 +7781,4 @@ https://www.udemy.com/course/python-microservices-build-scale-and-deploy-like-a-
 https://www.udemy.com/course/clustering-unsupervised-learning-in-python/
 https://www.udemy.com/course/deploy-ml-model-in-production-with-fastapi-and-docker/
 https://www.udemy.com/course/data-centric-machine-learning-with-python-hands-on-guide/
+https://www.udemy.com/course/figma-to-wordpress-convert-figma-to-elementor/
