@@ -7775,3 +7775,9 @@ https://www.udemy.com/course/the-lazy-students-guide-to-ai-using-chatgpt-and-20-
 https://www.udemy.com/course/hospitality-masterclass-intro-to-food-beverage-service/
 https://www.udemy.com/course/masterclass-hotel-front-office-training/
 https://www.udemy.com/course/data-center-design-it-infrastructure-it-fundamentals/
+https://www.udemy.com/course/integration-and-deployment-of-genai-models/
+https://www.udemy.com/course/ai-driven-market-analysis-predict-profit/
+https://www.udemy.com/course/python-microservices-build-scale-and-deploy-like-a-pro-z/
+https://www.udemy.com/course/clustering-unsupervised-learning-in-python/
+https://www.udemy.com/course/deploy-ml-model-in-production-with-fastapi-and-docker/
+https://www.udemy.com/course/data-centric-machine-learning-with-python-hands-on-guide/
