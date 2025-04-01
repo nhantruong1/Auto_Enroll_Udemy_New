@@ -7813,3 +7813,7 @@ https://www.udemy.com/course/excellence-in-management-case-analysis/
 https://www.udemy.com/course/brain-computer-interface-with-deep-learning/
 https://www.udemy.com/course/the-phd-toolkit/
 https://www.udemy.com/course/bunjs-interview-prepration-javascript-developers/
+https://www.udemy.com/course/job-grading/
+https://www.udemy.com/course/mastering-internal-communication/
+https://www.udemy.com/course/coo-essentials-xuat-sac-van-hanh-lanh-ao/
+https://www.udemy.com/course/deep-reinforcement-learning-using-python/
