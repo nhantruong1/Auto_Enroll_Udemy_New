@@ -7810,3 +7810,6 @@ https://www.udemy.com/course/drill-down-tool/
 https://www.udemy.com/course/learn-spanish-now/
 https://www.udemy.com/course/master-in-construction-management/
 https://www.udemy.com/course/excellence-in-management-case-analysis/
+https://www.udemy.com/course/brain-computer-interface-with-deep-learning/
+https://www.udemy.com/course/the-phd-toolkit/
+https://www.udemy.com/course/bunjs-interview-prepration-javascript-developers/
