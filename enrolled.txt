@@ -7877,3 +7877,7 @@ https://www.udemy.com/course/le-guide-complet-n8n-ia-cree-tes-propres-agents-aut
 https://www.udemy.com/course/sales-mastery-proven-techniques-to-sell-more/
 https://www.udemy.com/course/performance-management-with-generative-ai-for-hr-managers/
 https://www.udemy.com/course/no-more-lucky-models-the-art-science-of-model-validation/
+https://www.udemy.com/course/python-matplotlib-programming-with-coding-exercises/
+https://www.udemy.com/course/python-pandas-programming-with-coding-exercises/
+https://www.udemy.com/course/python-keras-programming-with-coding-exercises/
+https://www.udemy.com/course/python-beautifulsoup-programming-with-coding-exercises/
