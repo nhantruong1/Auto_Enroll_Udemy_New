@@ -7885,3 +7885,5 @@ https://www.udemy.com/course/wedding-consultant-masterclass/
 https://www.udemy.com/course/python-2000-beyond-the-basics/
 https://www.udemy.com/course/python-from-the-university/
 https://www.udemy.com/course/learn-python-programming-quick-beginner/
+https://www.udemy.com/course/python-4000-gnu-devops/
+https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/
