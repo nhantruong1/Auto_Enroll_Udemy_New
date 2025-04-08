@@ -7881,3 +7881,4 @@ https://www.udemy.com/course/python-matplotlib-programming-with-coding-exercises
 https://www.udemy.com/course/python-pandas-programming-with-coding-exercises/
 https://www.udemy.com/course/python-keras-programming-with-coding-exercises/
 https://www.udemy.com/course/python-beautifulsoup-programming-with-coding-exercises/
+https://www.udemy.com/course/wedding-consultant-masterclass/
