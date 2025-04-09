@@ -7901,3 +7901,4 @@ https://www.udemy.com/course/executive-self-talk-for-high-achievers-overcome-imp
 https://www.udemy.com/course/python-scipy-programming-with-coding-exercises/
 https://www.udemy.com/course/python-pytorch-programming-with-coding-exercises/
 https://www.udemy.com/course/python-scikit-learn-programming-with-coding-exercises/
+https://www.udemy.com/course/substantive-deep-editing/
