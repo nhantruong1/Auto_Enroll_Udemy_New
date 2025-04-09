@@ -7887,3 +7887,14 @@ https://www.udemy.com/course/python-from-the-university/
 https://www.udemy.com/course/learn-python-programming-quick-beginner/
 https://www.udemy.com/course/python-4000-gnu-devops/
 https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/
+https://www.udemy.com/course/learn-to-play-flutebansuri-from-scratch/
+https://www.udemy.com/course/mastering-react-and-nodejs-firebase-authentication/
+https://www.udemy.com/course/master-elasticsearch/
+https://www.udemy.com/course/multi-cloud-from-foundations-to-advanced-deployments/
+https://www.udemy.com/course/business-process-management-bpm-design-map-workflows/
+https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/
+https://www.udemy.com/course/learning-development-with-generative-ai-in-human-resources/
+https://www.udemy.com/course/iso-27001-data-classification-step-by-step/
+https://www.udemy.com/course/closing-the-distance-a-practical-guide-to-gap-analysis/
+https://www.udemy.com/course/the-nist-ai-risk-management-framework-ai-rmf/
+https://www.udemy.com/course/executive-self-talk-for-high-achievers-overcome-imposter-syndrome/
