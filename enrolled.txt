@@ -7898,3 +7898,6 @@ https://www.udemy.com/course/iso-27001-data-classification-step-by-step/
 https://www.udemy.com/course/closing-the-distance-a-practical-guide-to-gap-analysis/
 https://www.udemy.com/course/the-nist-ai-risk-management-framework-ai-rmf/
 https://www.udemy.com/course/executive-self-talk-for-high-achievers-overcome-imposter-syndrome/
+https://www.udemy.com/course/python-scipy-programming-with-coding-exercises/
+https://www.udemy.com/course/python-pytorch-programming-with-coding-exercises/
+https://www.udemy.com/course/python-scikit-learn-programming-with-coding-exercises/
