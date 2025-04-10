@@ -7902,3 +7902,4 @@ https://www.udemy.com/course/python-scipy-programming-with-coding-exercises/
 https://www.udemy.com/course/python-pytorch-programming-with-coding-exercises/
 https://www.udemy.com/course/python-scikit-learn-programming-with-coding-exercises/
 https://www.udemy.com/course/substantive-deep-editing/
+https://www.udemy.com/course/disease-prediction-2-mini-projects-in-apache-sparkml/
