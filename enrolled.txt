@@ -7904,3 +7904,4 @@ https://www.udemy.com/course/python-scikit-learn-programming-with-coding-exercis
 https://www.udemy.com/course/substantive-deep-editing/
 https://www.udemy.com/course/disease-prediction-2-mini-projects-in-apache-sparkml/
 https://www.udemy.com/course/the-quick-start-guide-to-business-analysis/
+https://www.udemy.com/course/agile-scrum-for-beginners-en/
