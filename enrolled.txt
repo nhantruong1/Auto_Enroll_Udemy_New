@@ -7918,3 +7918,5 @@ https://www.udemy.com/course/sap-successfactors-introduction-et-prise-en-main/
 https://www.udemy.com/course/retail-digital-banking-green-banking-sustainable-banking/
 https://www.udemy.com/course/becoming-an-ai-first-product-leader/
 https://www.udemy.com/course/sustainable-technologies-datafication/
+https://www.udemy.com/course/professional-certificate-in-devops/
+https://www.udemy.com/course/data-quality-data-management-data-governance-certificate/
