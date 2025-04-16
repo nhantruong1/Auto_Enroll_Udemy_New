@@ -7944,3 +7944,4 @@ https://www.udemy.com/course/implement-vulnerability-management-step-by-step-c/
 https://www.udemy.com/course/ethical-hacking-malware-secrets/
 https://www.udemy.com/course/linux-antivirus-essentials/
 https://www.udemy.com/course/html-interview-questions/
+https://www.udemy.com/course/chatgpt-for-product-owners/
