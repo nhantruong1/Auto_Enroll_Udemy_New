@@ -7945,3 +7945,5 @@ https://www.udemy.com/course/ethical-hacking-malware-secrets/
 https://www.udemy.com/course/linux-antivirus-essentials/
 https://www.udemy.com/course/html-interview-questions/
 https://www.udemy.com/course/chatgpt-for-product-owners/
+https://www.udemy.com/course/java-coding-interview-questions/
+https://www.udemy.com/course/iso-90012015-internal-audit-step-by-step/
