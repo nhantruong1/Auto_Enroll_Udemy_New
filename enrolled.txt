@@ -7964,3 +7964,4 @@ https://www.udemy.com/course/zero-to-hero-with-gpt-3-python-building-cutting-edg
 https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/
 https://www.udemy.com/course/python-generative-ai-apps/
 https://www.udemy.com/course/master-100-new-ai-tools/
+https://www.udemy.com/course/build-your-own-ai-clonetwin/
