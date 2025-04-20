@@ -7965,3 +7965,5 @@ https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/
 https://www.udemy.com/course/python-generative-ai-apps/
 https://www.udemy.com/course/master-100-new-ai-tools/
 https://www.udemy.com/course/build-your-own-ai-clonetwin/
+https://www.udemy.com/course/embedded-c-interview-questions/
+https://www.udemy.com/course/smart-traders-success-with-candlesticks-chart-patterns/
