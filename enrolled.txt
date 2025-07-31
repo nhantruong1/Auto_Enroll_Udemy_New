@@ -8022,3 +8022,4 @@ https://www.udemy.com/course/web-scraping-requests-scrapy-selenium-ai
 https://www.udemy.com/course/crack-linux-technical-interviews-certifications-like-a-pro
 https://www.udemy.com/course/practice-questions-for-itil4-plan-implement-and-control
 https://www.udemy.com/course/practice-questions-for-itil-4-monitor-support-and-fulfil
+https://www.udemy.com/course/chatgpt-for-product-management-business-and-innovation/
