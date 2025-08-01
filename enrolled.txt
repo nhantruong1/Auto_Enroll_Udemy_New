@@ -8074,3 +8074,9 @@ https://www.udemy.com/course/python-for-generative-ai-practice-certification/
 https://www.udemy.com/course/prompt-engineering-certification-preparation-practice-test/
 https://www.udemy.com/course/generative-ai-for-leaders-certification-course/
 https://www.udemy.com/course/beginner-ui-ux-youtube-design-course-from-scratch-in-figma/
+https://www.udemy.com/course/full-stack-web-developer-from-html-to-laravel-for-beginners/
+https://www.udemy.com/course/build-your-first-website-in-django-5/
+https://www.udemy.com/course/python-language-for-everyone/
+https://www.udemy.com/course/easy-generative-ai-chatgpt-deepseek-and-100-ai-tools/
+https://www.udemy.com/course/pizza-e-commerce-in-python-django5-from-scratch/
+https://www.udemy.com/course/pmi-professional-in-business-analysis-pmi-pba-simulator/
