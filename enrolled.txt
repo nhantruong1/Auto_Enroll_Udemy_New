@@ -8080,3 +8080,5 @@ https://www.udemy.com/course/python-language-for-everyone/
 https://www.udemy.com/course/easy-generative-ai-chatgpt-deepseek-and-100-ai-tools/
 https://www.udemy.com/course/pizza-e-commerce-in-python-django5-from-scratch/
 https://www.udemy.com/course/pmi-professional-in-business-analysis-pmi-pba-simulator/
+https://www.udemy.com/course/learn-powerpoint-now/
+https://www.udemy.com/course/bestseller-udemy-course-creation-masterclass-unofficial/
