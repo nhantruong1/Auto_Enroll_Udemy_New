@@ -8096,3 +8096,6 @@ https://www.udemy.com/course/the-complete-java-programming-mastery-developers-bo
 https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/
 https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/
 https://www.udemy.com/course/checkpoint-ccse-r81
+https://www.udemy.com/course/financial-accounting-bookkeeping-beginners-to-advanced/
+https://www.udemy.com/course/1500-ccnp-encor-350-401-interview-questions-with-answers
+https://www.udemy.com/course/ccna-200-301-mega-pack-1500-qa-for-2026
