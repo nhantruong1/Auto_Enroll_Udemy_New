@@ -8095,3 +8095,4 @@ https://www.udemy.com/course/fastpixel-mejora-la-velocidad-de-carga-en-wordpress
 https://www.udemy.com/course/the-complete-java-programming-mastery-developers-bootcamp/
 https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/
 https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/
+https://www.udemy.com/course/checkpoint-ccse-r81
