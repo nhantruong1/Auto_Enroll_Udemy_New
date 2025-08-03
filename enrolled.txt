@@ -8110,3 +8110,6 @@ https://www.udemy.com/course/build-niantic-lightship-vps/
 https://www.udemy.com/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/
 https://www.udemy.com/course/capcut-video-edit-with-ai-chatgpt-and-motion-cinematography/
 https://www.udemy.com/course/motivation-in-education-understanding-inspiring-learning/
+https://www.udemy.com/course/academic-reading/
+https://www.udemy.com/course/fast-restful-api-in-asp-net-core-for-absolute-beginners/
+https://www.udemy.com/course/smartsheet-masterclass-the-complete-guide/
