@@ -8113,3 +8113,5 @@ https://www.udemy.com/course/motivation-in-education-understanding-inspiring-lea
 https://www.udemy.com/course/academic-reading/
 https://www.udemy.com/course/fast-restful-api-in-asp-net-core-for-absolute-beginners/
 https://www.udemy.com/course/smartsheet-masterclass-the-complete-guide/
+https://www.udemy.com/course/mastering-electricity-and-magnetism-physics/
+https://www.udemy.com/course/foundations-of-mental-wellness/
