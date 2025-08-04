@@ -8115,3 +8115,6 @@ https://www.udemy.com/course/fast-restful-api-in-asp-net-core-for-absolute-begin
 https://www.udemy.com/course/smartsheet-masterclass-the-complete-guide/
 https://www.udemy.com/course/mastering-electricity-and-magnetism-physics/
 https://www.udemy.com/course/foundations-of-mental-wellness/
+https://www.udemy.com/course/agentic-ai-bootcamp-build-ai-agents/
+https://www.udemy.com/course/google-professional-cloud-security-engineer-practice-exams-b/
+https://www.udemy.com/course/codewithharry-web-development-course
