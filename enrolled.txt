@@ -8132,3 +8132,7 @@ https://www.udemy.com/course/101-ai-tools-to-improve-productivity-save-time/
 https://www.udemy.com/course/linear-algebra-with-applications-d/
 https://www.udemy.com/course/master-structural-engineering-structural-analysis/
 https://www.udemy.com/course/create-profitable-course-4-step-guide-with-generative-ai
+https://www.udemy.com/course/python-django-full-stack-development-build-modern-web-app/
+https://www.udemy.com/course/ai-governance-professional-aigp-practice-test/
+https://www.udemy.com/course/n8n-ai-agent-creation-guide/
+https://www.udemy.com/course/understanding-life
