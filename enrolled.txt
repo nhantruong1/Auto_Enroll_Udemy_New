@@ -8140,3 +8140,9 @@ https://www.udemy.com/course/spark-machine-learning-project-house-sale-price-pre
 https://www.udemy.com/course/crea-il-tuo-sito-web-con-html-e-css/
 https://www.udemy.com/course/azurecloud/
 https://www.udemy.com/course/urban-tree-planting/
+https://www.udemy.com/course/stop-procrastinating-build-motivation/
+https://www.udemy.com/course/ansible-certification-basics-to-professional/
+https://www.udemy.com/course/hr-leadership-how-to-build-your-power-and-impact-in-hr/
+https://www.udemy.com/course/mastering-social-media-marketing-management/
+https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-and-pivot-tables/
+https://www.udemy.com/course/ai-inventory-management-with-nextjs-mern-stack-saas-app/
