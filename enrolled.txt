@@ -8171,3 +8171,16 @@ https://www.udemy.com/course/cost-accounting-from-fundamentals-to-advanced-analy
 https://www.udemy.com/course/ai-tools-for-non-tech-creators/
 https://www.udemy.com/course/deep-learning-interview-preparation-course-50-qas/
 https://www.udemy.com/course/ai-mastery-challenge-achieve-financial-freedom-course
+https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/
+https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/
+https://www.udemy.com/course/complete-guide-to-numpy-pandas-scipy-matplotlib-seaborn/
+https://www.udemy.com/course/mastering-puppet-the-devops-way/
+https://www.udemy.com/course/zero-to-docker/
+https://www.udemy.com/course/agentic-ai-playbook-for-tech-leaders/
+https://www.udemy.com/course/ai-driven-infrastructure-as-code-iac-and-cloud-automation/
+https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/
+https://www.udemy.com/course/ultimate-jenkins-bootcamp-by-school-of-devops/
+https://www.udemy.com/course/continuous-integration-with-azure-devops-and-docker/
+https://www.udemy.com/course/aws-devops-bootcamp/
+https://www.udemy.com/course/midjourney-for-architects-2025-project-based-ai-design-a-z
+https://www.udemy.com/course/build-social-media-app-with-aspnet-core
