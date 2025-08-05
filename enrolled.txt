@@ -8191,3 +8191,7 @@ https://www.udemy.com/course/chatgpt-for-data-engineers/
 https://www.udemy.com/course/sap-s4hana-erp/
 https://www.udemy.com/course/sap-analytics-cloud-sac/
 https://www.udemy.com/course/sap-bi-bo/
+https://www.udemy.com/course/learn-silambam/
+https://www.udemy.com/course/ia-full-stack-avec-ollama-llama-deepseek-mistral-qwq
+https://www.udemy.com/course/maitrise-de-python-100-jours-100-projets
+https://www.udemy.com/course/construction-project-management-complete-guide
