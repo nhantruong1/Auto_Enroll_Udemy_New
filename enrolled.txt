@@ -8184,3 +8184,6 @@ https://www.udemy.com/course/continuous-integration-with-azure-devops-and-docker
 https://www.udemy.com/course/aws-devops-bootcamp/
 https://www.udemy.com/course/midjourney-for-architects-2025-project-based-ai-design-a-z
 https://www.udemy.com/course/build-social-media-app-with-aspnet-core
+https://www.udemy.com/course/business-and-life-skills-all-you-need-to-succeed/
+https://www.udemy.com/course/learn-practical-website-hacking-for-beginner/
+https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/
