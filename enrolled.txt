@@ -8187,3 +8187,7 @@ https://www.udemy.com/course/build-social-media-app-with-aspnet-core
 https://www.udemy.com/course/business-and-life-skills-all-you-need-to-succeed/
 https://www.udemy.com/course/learn-practical-website-hacking-for-beginner/
 https://www.udemy.com/course/microsoft-excel-basic-to-advanced-ultimate-excel-mastery/
+https://www.udemy.com/course/chatgpt-for-data-engineers/
+https://www.udemy.com/course/sap-s4hana-erp/
+https://www.udemy.com/course/sap-analytics-cloud-sac/
+https://www.udemy.com/course/sap-bi-bo/
