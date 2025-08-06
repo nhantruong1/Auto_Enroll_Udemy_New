@@ -8228,3 +8228,6 @@ https://www.udemy.com/course/deepseek-r1-ia-25-proyectos-de-ia-para-principiante
 https://www.udemy.com/course/masterclass-de-engenharia-de-ia-do-zero-ao-heroi-da-ia/
 https://www.udemy.com/course/auditing-iso-270012022-organizational-controls/
 https://www.udemy.com/course/digital-marketing-interview-questions-course-2025/
+https://www.udemy.com/course/changement-climatique/
+https://www.udemy.com/course/crash-course-copulas-theory-hands-on-project-with-r/
+https://www.udemy.com/course/langchain-llms-genai-app/
