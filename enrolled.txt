@@ -8289,3 +8289,8 @@ https://www.udemy.com/course/dp-203-azure-data-engineer-practice-tests-unofficia
 https://www.udemy.com/course/pcnsa-palo-alto-firewall-practice-tests-unofficial/
 https://www.udemy.com/course/como-migrar-un-sitio-web-wordpress-a-cloudways/
 https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-cloudways/
+https://www.udemy.com/course/aws-certified-data-engineer-associate-practice-exams-2025/
+https://www.udemy.com/course/isaca-cdpse-practice-exams-2025/
+https://www.udemy.com/course/cdmp-data-management-fundamentals-dmf-practice-exams-2025/
+https://www.udemy.com/course/aws-certified-advanced-networking-specialty-practice-exams-nb/
+https://www.udemy.com/course/aws-certified-ai-practitioner-aif-c01-practice-exams-2025-k/
