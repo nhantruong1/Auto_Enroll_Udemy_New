@@ -8264,3 +8264,7 @@ https://www.udemy.com/course/jenkins-the-perfect-match-for-ci-cd-pipeline/
 https://www.udemy.com/course/architecting-software-modeling-viewpoints-c4/
 https://www.udemy.com/course/creating-connection/
 https://www.udemy.com/course/datingmasterclass/
+https://www.udemy.com/course/iso-90012015-implementation-step-by-step-with-templates/
+https://www.udemy.com/course/master-viral-shorts-editing-chatgpt-capcut-elevenlabs/
+https://www.udemy.com/course/internal-auditing-principles-practices-and-applications/
+https://www.udemy.com/course/google-analytics-4-fundamentals/
