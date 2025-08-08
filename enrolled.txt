@@ -8302,3 +8302,5 @@ https://www.udemy.com/course/deep-dive-into-openai-models-master-o3-o4-mini-beyo
 https://www.udemy.com/course/ai-voice-creation-for-every-industry-with-elevenlabs/
 https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-2025-c/
 https://www.udemy.com/course/iso-14001-implementation-step-by-step-with-templates/
+https://www.udemy.com/course/ai-engineer-professional-certificate-course/
+https://www.udemy.com/course/ethical-hacking-daniel-graham-video-companion/
