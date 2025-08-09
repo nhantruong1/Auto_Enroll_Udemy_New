@@ -8341,3 +8341,4 @@ https://www.udemy.com/course/geometric-dimensioning-and-tolerancing-gdt-mastery/
 https://www.udemy.com/course/solidworks-course-for-beginners/
 https://www.udemy.com/course/solidworks-particle-study-documentation/
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-i/
+https://www.udemy.com/course/advanced-google-sheets-automate-analyze-build-dashboards/
