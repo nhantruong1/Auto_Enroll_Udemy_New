@@ -8353,3 +8353,4 @@ https://www.udemy.com/course/python-en-3-horas/
 https://www.udemy.com/course/vision-board-blueprint-unlock-the-law-of-attraction/
 https://www.udemy.com/course/gestion-des-risques/
 https://www.udemy.com/course/complete-road-map-for-data-science-ml-for-begineers
+https://www.udemy.com/course/practical-sql-query-and-manage-databases/
