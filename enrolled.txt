@@ -8385,3 +8385,9 @@ https://www.udemy.com/course/fuzzy-logic-and-fuzzy-artificial-intelligence-tutor
 https://www.udemy.com/course/aws-certified-ai-practitioner-practice-questions-2025-s
 https://www.udemy.com/course/istqb-ct-ai-cert-practice-exam
 https://www.udemy.com/course/100-advanced-power-bi-dax-questions-solutions
+https://www.udemy.com/course/data-analysis-and-data-visualization-with-microsoft-copilot/
+https://www.udemy.com/course/geo-generating-engine-optimization-how-to-rank-in-chatgpt/
+https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-ai/
+https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/
+https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/
+https://www.udemy.com/course/ai-powered-customer-experience/
