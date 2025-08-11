@@ -8391,3 +8391,7 @@ https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-
 https://www.udemy.com/course/docker-deep-dive-build-ship-and-run-containers/
 https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/
 https://www.udemy.com/course/ai-powered-customer-experience/
+https://www.udemy.com/course/executive-program-in-advanced-feminine-leadership/
+https://www.udemy.com/course/how-to-transform-your-life/
+https://www.udemy.com/course/data-analytic-from-beginner-to-advance/
+https://www.udemy.com/course/mern-stack-authentication-with-oauthjwt-email-verification
