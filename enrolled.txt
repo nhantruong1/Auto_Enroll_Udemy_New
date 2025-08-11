@@ -8377,3 +8377,5 @@ https://www.udemy.com/course/kubernetes-cloud-native-security-associate-practice
 https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-exams-2025-e/
 https://www.udemy.com/course/docker-certified-associate-practice-exams-2025-dca/
 https://www.udemy.com/course/gcp-professional-cloud-security-engineer-practice-exams-2025/
+https://www.udemy.com/course/advance-logo-design-course-bear-mascot-shape-design/
+https://www.udemy.com/course/strategic-thinking-for-leaders-managers/
