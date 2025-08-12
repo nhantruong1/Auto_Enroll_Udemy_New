@@ -8423,3 +8423,5 @@ https://www.udemy.com/course/artificial-intelligence-certificated/
 https://www.udemy.com/course/crea-una-calculadora-de-precios-con-pasarela-de-pagos/
 https://www.udemy.com/course/iso-31000-implementation-step-by-step/
 https://www.udemy.com/course/hoc-cach-hoc
+https://www.udemy.com/course/discrete-mathematics-with-computer-science-applications/
+https://www.udemy.com/course/google-professional-cloud-developer-gcp-practice-test-exam/
