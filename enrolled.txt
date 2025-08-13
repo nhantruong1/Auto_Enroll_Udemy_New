@@ -8435,3 +8435,4 @@ https://www.udemy.com/course/introduccion-a-git-y-github
 https://www.udemy.com/course/apple-ui-motion-graphics-adobe-after-effects
 https://www.udemy.com/course/learn-terraform-and-prepare-for-job-interview
 https://www.udemy.com/course/ccat-test-prep-6-full-practice-exams/
+https://www.udemy.com/course/data-science-ai-masters-from-python-to-gen-ai/
