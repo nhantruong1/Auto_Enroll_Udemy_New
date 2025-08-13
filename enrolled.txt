@@ -8436,3 +8436,6 @@ https://www.udemy.com/course/apple-ui-motion-graphics-adobe-after-effects
 https://www.udemy.com/course/learn-terraform-and-prepare-for-job-interview
 https://www.udemy.com/course/ccat-test-prep-6-full-practice-exams/
 https://www.udemy.com/course/data-science-ai-masters-from-python-to-gen-ai/
+https://www.udemy.com/course/microsoft-excel-data-analysis-become-a-data-analysis-expert/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02real-exam-2/
+https://www.udemy.com/course/fraud-analytics-internal-control-audit-risk-management/
