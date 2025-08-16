@@ -8505,3 +8505,4 @@ https://www.udemy.com/course/practice-test-oracle-database-sql-associate-1z0-071
 https://www.udemy.com/course/nca-genl-nvidia-certified-generative-ai-llms-specialization
 https://www.udemy.com/course/nebosh-igc1-nebosh-igc2-safety-training-fire-hazards/
 https://www.udemy.com/course/cisco-350-401-encor-practice-exams-2025/
+https://www.udemy.com/course/introduction-to-software-testing-concepts
