@@ -8502,3 +8502,4 @@ https://www.udemy.com/course/manual-testing-2025/
 https://www.udemy.com/course/mhnahid-it-practice-test-aws-cloud-practitioner-clf-c02-updated-2025/
 https://www.udemy.com/course/practice-test-aws-solutions-architect-associate-saa-c03-r/
 https://www.udemy.com/course/practice-test-oracle-database-sql-associate-1z0-071/
+https://www.udemy.com/course/nca-genl-nvidia-certified-generative-ai-llms-specialization
