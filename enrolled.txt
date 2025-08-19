@@ -8566,3 +8566,6 @@ https://www.udemy.com/course/nebosh-igc1-element-2-health-safety-management-syst
 https://www.udemy.com/course/outsystems-frontend-developer-specialist-exam-prep/
 https://www.udemy.com/course/dp-300-azure-sql-database-administrator-exam-unofficial/
 https://www.udemy.com/course/freelancing-in-arabic-learn-freelance-arabic
+https://www.udemy.com/course/powerpoint-automation-instantly-convert-word-to-slides
+https://www.udemy.com/course/securing-voip-systems/
+https://www.udemy.com/course/agile-hr-implementation/
