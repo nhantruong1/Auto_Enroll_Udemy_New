@@ -8589,3 +8589,7 @@ https://www.udemy.com/course/ultimate-cissp-practice-exams-domain-wise-400-quest
 https://www.udemy.com/course/microsoft-ai-900-azure-ai-fundamentals-practice-exams-2025/
 https://www.udemy.com/course/microsoft-excel-associate-mo-200-certification-test/
 https://www.udemy.com/course/hizli-okuma-kursu-1-ve-2-seviye
+https://www.udemy.com/course/az-104-azure-administrator-associate-practice-tests-2025/
+https://www.udemy.com/course/az-400-practice-tests-master-azure-devops/
+https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/
+https://www.udemy.com/course/building-basic-ai-agents-and-custom-gpts/
