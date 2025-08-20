@@ -8574,3 +8574,5 @@ https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice
 https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-2025/
 https://www.udemy.com/course/cisco-cybersecurity-operations-fundamentals-practice-exams/
 https://www.udemy.com/course/az-305-1500-practice-questions-for-azure-architect/
+https://www.udemy.com/course/microsoft-ai-102-azure-ai-engineer-associate-practice-exams/
+https://www.udemy.com/course/the-complete-google-drive-course-mastering-google-drive/
