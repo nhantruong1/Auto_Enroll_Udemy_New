@@ -8640,3 +8640,7 @@ https://www.udemy.com/course/implement-grc-governance-risk-compliance-step-by-st
 https://www.udemy.com/course/how-to-turn-your-idea-into-a-wordpress-plugin-develop-it
 https://www.udemy.com/course/introduction-to-occupational-health-and-safety-professional/
 https://www.udemy.com/course/az-700-azure-network-engineer-associate-practice-tests-2025/
+https://www.udemy.com/course/google-cloud-generative-ai-leader-practice-exams-2025/
+https://www.udemy.com/course/az-800-windows-server-hybrid-infrastructure-practice-tests/
+https://www.udemy.com/course/gcp-associate-google-workspace-administrator-practice-exam/
+https://www.udemy.com/course/duty-of-care-in-nursing-and-caregiving-aid-patient-safety/
