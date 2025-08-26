@@ -8665,3 +8665,5 @@ https://www.udemy.com/course/bach-flower-therapy
 https://www.udemy.com/course/sie-practice-questions/
 https://www.udemy.com/course/certified-data-engineering-foundation-course/
 https://www.udemy.com/course/machine-learning-ai-foundations-course/
+https://www.udemy.com/course/power-bi-beginner-to-intermediate/
+https://www.udemy.com/course/dp-300-azure-database-administrator-associate-practice-tests/
