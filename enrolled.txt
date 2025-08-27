@@ -8744,3 +8744,5 @@ https://www.udemy.com/course/google-ads-hindi-masterclass-2023-all-campaigns-fea
 https://www.udemy.com/course/mastering-the-skill-of-fleet-management/
 https://www.udemy.com/course/the-complete-python-developer-from-zero-to-mastery/
 https://www.udemy.com/course/the-ultimate-c-bootcamp-build-modern-web-api-apps/
+https://www.udemy.com/course/nextjs-crash-course-build-a-full-stack-app-in-a-weekend/
+https://www.udemy.com/course/intro-annual-account-analysis-for-kyccdd-professionals/
