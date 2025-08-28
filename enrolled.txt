@@ -8757,3 +8757,5 @@ https://www.udemy.com/course/ai-rekrytering-automatisera-optimera-anstallning-sv
 https://www.udemy.com/course/aws-dynamodb-mastery-2025/
 https://www.udemy.com/course/learn-kannada-ssd-academy/
 https://www.udemy.com/course/cloud-computing-vs-on-premise-infrastructure-solutions/
+https://www.udemy.com/course/figma-uiux-design-a-food-ordering-app-complete-project
+https://www.udemy.com/course/pcnse-palo-alto-certified-network-security-engineer
