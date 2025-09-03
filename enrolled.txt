@@ -8804,3 +8804,4 @@ https://www.udemy.com/course/revit-2025_-detailing-sheets-documentation_project-
 https://www.udemy.com/course/ultimate-istio-bootcamp/
 https://www.udemy.com/course/ultimate-terraform-bootcamp/
 https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/
+https://www.udemy.com/course/sql-coding-challenge-bootcamp-50-challenges-solved-complete/
