@@ -8805,3 +8805,7 @@ https://www.udemy.com/course/ultimate-istio-bootcamp/
 https://www.udemy.com/course/ultimate-terraform-bootcamp/
 https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/
 https://www.udemy.com/course/sql-coding-challenge-bootcamp-50-challenges-solved-complete/
+https://www.udemy.com/course/learn-product-management-to-grow-as-an-engineer/
+https://www.udemy.com/course/pl-200-ms-power-platform-functional-consultant-prep-exams/
+https://www.udemy.com/course/master-generative-ai-with-adobe-firefly-genai/
+https://www.udemy.com/course/iso-27001-2022-sustaining-the-isms-post-certification/
