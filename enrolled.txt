@@ -8844,3 +8844,10 @@ https://www.udemy.com/course/aws-certified-ai-practitioner-latest-practice-exam/
 https://www.udemy.com/course/practice-exam-aws-certified-cloud-practitioner-clf-c01/
 https://www.udemy.com/course/practice-exam-for-az-900-microsoft-azure-fundamentals/
 https://www.udemy.com/course/practice-exam-azure-administrator-associate-az-104/
+https://www.udemy.com/course/comptia-linux-xk0-005-practice-exams-2025/
+https://www.udemy.com/course/comptia-security-sy0-701-practice-exams-2025-f/
+https://www.udemy.com/course/comptia-server-sk0-005-practice-exams-2025/
+https://www.udemy.com/course/comptia-pentest-pt0-003-practice-exams-2025/
+https://www.udemy.com/course/comptia-project-pk0-005-practice-exams-2025-i/
+https://www.udemy.com/course/comptia-network-n10-009-practice-exams-2025/
+https://www.udemy.com/course/comptia-cloudcv0-004-practice-exams-2025/
