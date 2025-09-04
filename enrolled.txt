@@ -8811,3 +8811,4 @@ https://www.udemy.com/course/master-generative-ai-with-adobe-firefly-genai/
 https://www.udemy.com/course/iso-27001-2022-sustaining-the-isms-post-certification/
 https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-practice-exams-dj/
 https://www.udemy.com/course/pl-600-ms-power-platform-solution-architect-practice-exams-a/
+https://www.udemy.com/course/grafana-masterclass-observability-monitoring-alerts/
