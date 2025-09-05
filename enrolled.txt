@@ -8855,3 +8855,5 @@ https://www.udemy.com/course/ai-wesbite-building-bootcamp
 https://www.udemy.com/course/breaking-free-overcoming-alcohol-drug-addiction/
 https://www.udemy.com/course/master-completo-java-de-cero-a-experto/
 https://www.udemy.com/course/complete-drawing-megacourse-beginner-to-expert/
+https://www.udemy.com/course/sap-public-cloud-implementation-and-cbc-setup/
+https://www.udemy.com/course/sap-mm-public-cloud-e2e/
