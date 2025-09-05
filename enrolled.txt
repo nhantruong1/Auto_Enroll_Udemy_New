@@ -8887,3 +8887,9 @@ https://www.udemy.com/course/iso-190112018-mastering-management-system-auditing-
 https://www.udemy.com/course/awscloudpractitionerpracticetest/
 https://www.udemy.com/course/the-modern-javascript-course-build-interactive-websites/
 https://www.udemy.com/course/postgresql-for-developers-design-query-scale-databases/
+https://www.udemy.com/course/data-science-ai-agent-pyth-project-llm-finetuning-ollama-gpt-apps/
+https://www.udemy.com/course/exploring-bentley-staad-pro-connect-edition/
+https://www.udemy.com/course/1v0-2120-associate-vmware-data-center-virtualization-exam-b/
+https://www.udemy.com/course/blockchain-developer-interview-questions-test/
+https://www.udemy.com/course/new-salesforce-certified-ai-associate-practice-exams/
+https://www.udemy.com/course/practice-exams-salesforce-certified-platform-app-builder/
