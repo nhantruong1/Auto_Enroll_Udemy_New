@@ -8898,3 +8898,9 @@ https://www.udemy.com/course/clinical-pharmacology-therapeutics-online-course/
 https://www.udemy.com/course/hazard-analysis-and-critical-control-points/
 https://www.udemy.com/course/programmable-logic-controllers/
 https://www.udemy.com/course/master-machine-learning-ds-600-real-interview-questions
+https://www.udemy.com/course/vmware-vsphere-with-tanzu-specialist-practice-exams/
+https://www.udemy.com/course/vmware-horizon-8x-professional-practice-exams/
+https://www.udemy.com/course/vmware-vsphere-8x-advanced-design-practice-exams/
+https://www.udemy.com/course/vmware-cloud-foundation-52-architect-practice-exams-2025/
+https://www.udemy.com/course/vmware-cloud-foundation-52-administrator-practice-exams/
+https://www.udemy.com/course/vmware-vsan-specialist-v2-practice-exams/
