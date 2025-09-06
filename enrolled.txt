@@ -8918,3 +8918,6 @@ https://www.udemy.com/course/react-js-developer-interview-questions/
 https://www.udemy.com/course/building-and-designing-food-delivery-app-with-dart-flutter/
 https://www.udemy.com/course/adobe-firefly-basic-to-advance-training/
 https://www.udemy.com/course/github-foundations-practice-exams-certification/
+https://www.udemy.com/course/landingpage-wordpress/
+https://www.udemy.com/course/az-305-azure-solutions-architect-design-practice-tests-2025/
+https://www.udemy.com/course/az-801-windows-server-hybrid-advanced-services-prep-tests/
