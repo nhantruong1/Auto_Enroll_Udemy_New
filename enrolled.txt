@@ -8916,3 +8916,5 @@ https://www.udemy.com/course/master-en-eficiencia-de-principiante-a-experto
 https://www.udemy.com/course/master-mongodb-cloud-based-nosql-database-management/
 https://www.udemy.com/course/react-js-developer-interview-questions/
 https://www.udemy.com/course/building-and-designing-food-delivery-app-with-dart-flutter/
+https://www.udemy.com/course/adobe-firefly-basic-to-advance-training/
+https://www.udemy.com/course/github-foundations-practice-exams-certification/
