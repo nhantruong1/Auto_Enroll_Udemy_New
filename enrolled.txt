@@ -8922,3 +8922,7 @@ https://www.udemy.com/course/landingpage-wordpress/
 https://www.udemy.com/course/az-305-azure-solutions-architect-design-practice-tests-2025/
 https://www.udemy.com/course/az-801-windows-server-hybrid-advanced-services-prep-tests/
 https://www.udemy.com/course/the-detailed-and-interactive-quran-arabic-reading-course/
+https://www.udemy.com/course/nextjs-build-dynamic-fast-scalable-web-applications/
+https://www.udemy.com/course/operating-system-mcq/
+https://www.udemy.com/course/software-engineering-mcq/
+https://www.udemy.com/course/python-mcq/
