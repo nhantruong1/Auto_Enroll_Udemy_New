@@ -8926,3 +8926,5 @@ https://www.udemy.com/course/nextjs-build-dynamic-fast-scalable-web-applications
 https://www.udemy.com/course/operating-system-mcq/
 https://www.udemy.com/course/software-engineering-mcq/
 https://www.udemy.com/course/python-mcq/
+https://www.udemy.com/course/naplex-guru
+https://www.udemy.com/course/fundamentals-of-data-visualization
