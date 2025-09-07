@@ -8943,3 +8943,6 @@ https://www.udemy.com/course/ec-council-certified-network-defender-cnd-practice-
 https://www.udemy.com/course/ec-council-certified-incident-handler-ecih-practice-exams/
 https://www.udemy.com/course/ec-council-certified-cybersecurity-technician-practice-exams/
 https://www.udemy.com/course/desarrolla-la-logica-de-programacion-con-flujogramas
+https://www.udemy.com/course/arcgis-pro-for-smart-gis/
+https://www.udemy.com/course/nist-risk-management-framework-rmf-for-small-enterprise/
+https://www.udemy.com/course/owasp-top-10-2025/
