@@ -8976,3 +8976,5 @@ https://www.udemy.com/course/mb-800-dynamics-365-business-central-consultant-pre
 https://www.udemy.com/course/md-102-endpoint-administrator-associate-practice-exams-2025/
 https://www.udemy.com/course/ms-102-microsoft-365-administrator-practice-exams-2025/
 https://www.udemy.com/course/ms-700-microsoft-teams-administrator-associate-prep-exams/
+https://www.udemy.com/course/social-engineering-with-generative-ai-genai/
+https://www.udemy.com/course/django-mastery-build-ai-powered-apps-like-a-pro
