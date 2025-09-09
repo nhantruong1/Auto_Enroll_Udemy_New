@@ -8981,3 +8981,6 @@ https://www.udemy.com/course/django-mastery-build-ai-powered-apps-like-a-pro
 https://www.udemy.com/course/transform-your-self-confidence-v/
 https://www.udemy.com/course/automacao-de-tabelas-no-excel-para-engenheiros/
 https://www.udemy.com/course/accounting-basics-k
+https://www.udemy.com/course/thecompleteloacourse/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-complete-course
+https://www.udemy.com/course/fcp-azure-cloud-security-74-administrator-practice-exams/
