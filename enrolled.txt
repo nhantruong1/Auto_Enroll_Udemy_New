@@ -9023,3 +9023,4 @@ https://www.udemy.com/course/foundations-of-emotional-regulation/
 https://www.udemy.com/course/master-google-gemini-a-generative-ai-certification-course
 https://www.udemy.com/course/google-flow-masterclass-make-ai-videos-from-prompts-and-images
 https://www.udemy.com/course/learn-google-opal-building-ai-mini-apps-no-code-required
+https://www.udemy.com/course/python-for-gis-automation/
