@@ -9016,3 +9016,10 @@ https://www.udemy.com/course/playwriting-mastery-playwright-typescript-with-ease
 https://www.udemy.com/course/futures-trading-masterclass/
 https://www.udemy.com/course/revit-made-easy-your-first-single-storey-house-project/
 https://www.udemy.com/course/scrum-escalado-a-multiples-equipos-certificacion/
+https://www.udemy.com/course/nano-banana-veo-3-masterclass-ai-creation-like-a-pro/
+https://www.udemy.com/course/nodejs-crash-course-build-a-rest-api-in-a-weekend/
+https://www.udemy.com/course/terraform-cloud/
+https://www.udemy.com/course/foundations-of-emotional-regulation/
+https://www.udemy.com/course/master-google-gemini-a-generative-ai-certification-course
+https://www.udemy.com/course/google-flow-masterclass-make-ai-videos-from-prompts-and-images
+https://www.udemy.com/course/learn-google-opal-building-ai-mini-apps-no-code-required
