@@ -9008,3 +9008,6 @@ https://www.udemy.com/course/armv8-m-trust-zone-on-cortex-m33-embedded-security/
 https://www.udemy.com/course/youtube-ai-video-how-to-create-ai-story-video-generation/
 https://www.udemy.com/course/aprende-a-programar-desde-cero-pseudocodico-con-psint/
 https://www.udemy.com/course/ux-research-es/
+https://www.udemy.com/course/the-complete-google-vids-course-ai-video-creation/
+https://www.udemy.com/course/strategic-scm/
+https://www.udemy.com/course/chatgpt-ai-tools-from-beginner-to-pro-unlimited-prompts/
