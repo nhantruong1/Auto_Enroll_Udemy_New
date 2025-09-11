@@ -9043,3 +9043,10 @@ https://www.udemy.com/course/servicenow-cis-vulnerability-cis-vr-practice-exams/
 https://www.udemy.com/course/servicenow-project-portfolio-management-cis-ppm-prep-exams/
 https://www.udemy.com/course/servicenow-customer-service-management-cis-csm-prep-exams/
 https://www.udemy.com/course/servicenow-cis-human-resource-cis-hr-practice-exams/
+https://www.udemy.com/course/aws-sap-on-aws-specialty-195-practice-questions/
+https://www.udemy.com/course/palo-alto-networks-pse-strata-system-engineer-practice-exams/
+https://www.udemy.com/course/palo-alto-networks-sse-engineer-practice-exams/
+https://www.udemy.com/course/palo-alto-networks-ngfw-engineer-practice-exams/
+https://www.udemy.com/course/palo-alto-networks-pse-prisma-system-engineer-practice-exams/
+https://www.udemy.com/course/palo-alto-networks-pccse-cloud-security-practice-exams/
+https://www.udemy.com/course/palo-alto-networks-pcnse-network-security-practice-exams/
