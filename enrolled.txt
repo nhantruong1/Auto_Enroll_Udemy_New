@@ -9079,3 +9079,5 @@ https://www.udemy.com/course/containerization-with-docker-and-kubernetes-mastery
 https://www.udemy.com/course/mastering-english-pronunciation-speak-like-a-native/
 https://www.udemy.com/course/generative-ai-for-sales/
 https://www.udemy.com/course/vibe-coding-for-digital-marketing/
+https://www.udemy.com/course/the-qualitative-research-toolkit-concepts-to-practice/
+https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini/
