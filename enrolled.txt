@@ -9095,3 +9095,5 @@ https://www.udemy.com/course/ec-council-certified-ethical-hacker-v13-ceh-practic
 https://www.udemy.com/course/ec-council-certified-threat-intelligence-analyst-prep-exams/
 https://www.udemy.com/course/mastering-speech-language-models-from-asr-to-emotion-ai/
 https://www.udemy.com/course/mixedreality-unreal-walhar/
+https://www.udemy.com/course/iso-27001-nist-integration-unified-information-security/
+https://www.udemy.com/course/iso-42001-lead-auditor-auditing-ai-management-systems/
