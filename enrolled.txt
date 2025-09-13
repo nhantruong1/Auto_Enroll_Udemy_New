@@ -9103,3 +9103,5 @@ https://www.udemy.com/course/clinical-embryology-techniques/
 https://www.udemy.com/course/pharmacovigilance-course/
 https://www.udemy.com/course/gas-chromatography-course/
 https://www.udemy.com/course/recombinant-dna-technology-genetic-engineering/
+https://www.udemy.com/course/aws-data-engineer-associate-dea-c01-1500-questions/
+https://www.udemy.com/course/aws-advanced-security-specialty-300-practice-questions/
