@@ -9105,3 +9105,9 @@ https://www.udemy.com/course/gas-chromatography-course/
 https://www.udemy.com/course/recombinant-dna-technology-genetic-engineering/
 https://www.udemy.com/course/aws-data-engineer-associate-dea-c01-1500-questions/
 https://www.udemy.com/course/aws-advanced-security-specialty-300-practice-questions/
+https://www.udemy.com/course/advanced-metasploit-proficiency-exam/
+https://www.udemy.com/course/hack-like-a-pro-kali-linux-and-system-vulnerabilities-quiz/
+https://www.udemy.com/course/windows-linux-a-cybersecurity-deep-dive/
+https://www.udemy.com/course/network-security-protocols-architecture-and-defense/
+https://www.udemy.com/course/stay-hidden-anonymity-and-privacy-fundamentals-quiz/
+https://www.udemy.com/course/cybersecurity-essentials-quiz-are-you-ready-to-defend/
