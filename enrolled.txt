@@ -9119,3 +9119,10 @@ https://www.udemy.com/course/material-code-in-interior-design-complete-guide-to-
 https://www.udemy.com/course/prompt-engineering-chatgpt-gemini/
 https://www.udemy.com/course/master-nodejs-from-beginner-to-full-stack-developer/
 https://www.udemy.com/course/data-science-ai-mastery-100-days-to-career-success/
+https://www.udemy.com/course/certified-cloud-security-professional-ccsp-practice-exams-v/
+https://www.udemy.com/course/isc-cissp-practice-exams/
+https://www.udemy.com/course/isc-cissp-issap-practice-exams/
+https://www.udemy.com/course/isc-cissp-issmp-practice-exams/
+https://www.udemy.com/course/isc-csslp-practice-exams/
+https://www.udemy.com/course/system-security-certified-practitioner-sscp-practice-exams/
+https://www.udemy.com/course/comptia-security-syo-701-mock-exams/
