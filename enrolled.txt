@@ -9111,3 +9111,5 @@ https://www.udemy.com/course/windows-linux-a-cybersecurity-deep-dive/
 https://www.udemy.com/course/network-security-protocols-architecture-and-defense/
 https://www.udemy.com/course/stay-hidden-anonymity-and-privacy-fundamentals-quiz/
 https://www.udemy.com/course/cybersecurity-essentials-quiz-are-you-ready-to-defend/
+https://www.udemy.com/course/llms-foundations-tokenization-and-word-embeddings-models/
+https://www.udemy.com/course/high-impact-sales-management-strategy-and-sales-operations/
