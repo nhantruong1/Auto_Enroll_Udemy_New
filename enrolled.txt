@@ -9115,3 +9115,5 @@ https://www.udemy.com/course/llms-foundations-tokenization-and-word-embeddings-m
 https://www.udemy.com/course/high-impact-sales-management-strategy-and-sales-operations/
 https://www.udemy.com/course/ms-721-manage-teams-collaboration-associate-practice-exams/
 https://www.udemy.com/course/pl-300-microsoft-power-bi-data-analyst-associate-prep-exams/
+https://www.udemy.com/course/material-code-in-interior-design-complete-guide-to-material/
+https://www.udemy.com/course/prompt-engineering-chatgpt-gemini/
