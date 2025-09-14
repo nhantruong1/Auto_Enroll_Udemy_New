@@ -9117,3 +9117,5 @@ https://www.udemy.com/course/ms-721-manage-teams-collaboration-associate-practic
 https://www.udemy.com/course/pl-300-microsoft-power-bi-data-analyst-associate-prep-exams/
 https://www.udemy.com/course/material-code-in-interior-design-complete-guide-to-material/
 https://www.udemy.com/course/prompt-engineering-chatgpt-gemini/
+https://www.udemy.com/course/master-nodejs-from-beginner-to-full-stack-developer/
+https://www.udemy.com/course/data-science-ai-mastery-100-days-to-career-success/
