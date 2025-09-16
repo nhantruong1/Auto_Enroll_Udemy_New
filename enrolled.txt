@@ -9178,3 +9178,7 @@ https://www.udemy.com/course/the-day-trading-masterclass/
 https://www.udemy.com/course/splunk-enterprise-certified-architect-practice-exams/
 https://www.udemy.com/course/6-tests-aws-certified-cloud-practitioner-clf-c02-2025/
 https://www.udemy.com/course/splunk-core-certified-advanced-power-user-practice-exams/
+https://www.udemy.com/course/decision-making-psychology-emotional-intelligence/
+https://www.udemy.com/course/nutanix-professional-unified-storage-practice-exams/
+https://www.udemy.com/course/digital-transformation-in-hr-leveraging-ai-analytics/
+https://www.udemy.com/course/nutanix-professional-multicloud-automation-practice-exams/
