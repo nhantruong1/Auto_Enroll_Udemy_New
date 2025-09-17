@@ -9185,3 +9185,5 @@ https://www.udemy.com/course/nutanix-professional-multicloud-automation-practice
 https://www.udemy.com/course/veeam-certified-engineer-vmce-v123-backup-replicat-exam/
 https://www.udemy.com/course/python-programming-for-beginners-z/
 https://www.udemy.com/course/machine-learning-bootcamp-genai/
+https://www.udemy.com/course/presenting-present-with-confidence/
+https://www.udemy.com/course/bug-bounty-de-novato-a-experto-con-poc-reales-y-live-hunt/
