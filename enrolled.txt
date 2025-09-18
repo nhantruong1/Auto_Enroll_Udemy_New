@@ -9188,3 +9188,5 @@ https://www.udemy.com/course/machine-learning-bootcamp-genai/
 https://www.udemy.com/course/presenting-present-with-confidence/
 https://www.udemy.com/course/bug-bounty-de-novato-a-experto-con-poc-reales-y-live-hunt/
 https://www.udemy.com/course/job-ready-skills-ai-email-writing-excel-essentials/
+https://www.udemy.com/course/cloudnetx-v1-practice-exam/
+https://www.udemy.com/course/databricks-certified-data-analyst-associate-practice-exams-jw/
