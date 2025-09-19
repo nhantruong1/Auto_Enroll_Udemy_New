@@ -9238,3 +9238,4 @@ https://www.udemy.com/course/ai-for-business-analysts/
 https://www.udemy.com/course/ms-office-with-canva-word-excel-powerpoint-canva-all-in-one/
 https://www.udemy.com/course/microsoft-copilot-for-project-managers-hands-on-guide/
 https://www.udemy.com/course/aws-certified-saa/
+https://www.udemy.com/course/cyberark-defender-access-practice-exams/
