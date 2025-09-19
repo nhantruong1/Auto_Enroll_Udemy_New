@@ -9242,3 +9242,4 @@ https://www.udemy.com/course/cyberark-defender-access-practice-exams/
 https://www.udemy.com/course/cyberark-defender-practice-exams/
 https://www.udemy.com/course/iso-270012022-explication-des-controles-de-lannexe-a/
 https://www.udemy.com/course/pcep-python-certification/
+https://www.udemy.com/course/send-crea-campanas-de-correo-electronico-desde-wordpress/
