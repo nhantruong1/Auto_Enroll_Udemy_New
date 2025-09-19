@@ -9216,3 +9216,7 @@ https://www.udemy.com/course/certified-tester-test-automation-engineer-practice-
 https://www.udemy.com/course/certified-tester-foundation-level-ctfl-v40-practice-exams/
 https://www.udemy.com/course/diffusez-vos-huiles-essentielles-en-toute-securite/
 https://www.udemy.com/course/la-nature-qui-soigne-lessentiel-des-huiles-essentielles/
+https://www.udemy.com/course/active-directory-pentesting-with-kali-linux-practical-lab/
+https://www.udemy.com/course/ai-powered-it-digital-project-manager-from-zero-to-hero/
+https://www.udemy.com/course/analyse-suites-numeriques-cpge-ensa-ensam-fst-fs/
+https://www.udemy.com/course/automatiser-la-creation-de-pubs-virales-avec-n8n-et-lia/
