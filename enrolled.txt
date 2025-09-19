@@ -9220,3 +9220,16 @@ https://www.udemy.com/course/active-directory-pentesting-with-kali-linux-practic
 https://www.udemy.com/course/ai-powered-it-digital-project-manager-from-zero-to-hero/
 https://www.udemy.com/course/analyse-suites-numeriques-cpge-ensa-ensam-fst-fs/
 https://www.udemy.com/course/automatiser-la-creation-de-pubs-virales-avec-n8n-et-lia/
+https://www.udemy.com/course/face-recognition-using-tensorflow-and-keras-from-scratch/
+https://www.udemy.com/course/project-manager-skillpath/
+https://www.udemy.com/course/testgenai/
+https://www.udemy.com/course/partyrock/
+https://www.udemy.com/course/gen-ai-governance/
+https://www.udemy.com/course/build-on-device-ai/
+https://www.udemy.com/course/presentations-using-gen-ai/
+https://www.udemy.com/course/quantum-computing-hi/
+https://www.udemy.com/course/computacion-cuantica/
+https://www.udemy.com/course/devopsmlopsml/
+https://www.udemy.com/course/devops-to-mlops-bootcamp/
+https://www.udemy.com/course/ai-900-microsoft-azure-ai-fundamentals-practice-exams-e/
+https://www.udemy.com/course/from-burn-out-to-dream-life/
