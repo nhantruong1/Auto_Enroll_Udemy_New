@@ -9233,3 +9233,8 @@ https://www.udemy.com/course/devopsmlopsml/
 https://www.udemy.com/course/devops-to-mlops-bootcamp/
 https://www.udemy.com/course/ai-900-microsoft-azure-ai-fundamentals-practice-exams-e/
 https://www.udemy.com/course/from-burn-out-to-dream-life/
+https://www.udemy.com/course/solid-manager-certification/
+https://www.udemy.com/course/ai-for-business-analysts/
+https://www.udemy.com/course/ms-office-with-canva-word-excel-powerpoint-canva-all-in-one/
+https://www.udemy.com/course/microsoft-copilot-for-project-managers-hands-on-guide/
+https://www.udemy.com/course/aws-certified-saa/
