@@ -9243,3 +9243,5 @@ https://www.udemy.com/course/cyberark-defender-practice-exams/
 https://www.udemy.com/course/iso-270012022-explication-des-controles-de-lannexe-a/
 https://www.udemy.com/course/pcep-python-certification/
 https://www.udemy.com/course/send-crea-campanas-de-correo-electronico-desde-wordpress/
+https://www.udemy.com/course/new-using-ibm-maximo-to-visualization-maintenance-business/
+https://www.udemy.com/course/data-science-ai-mastery-from-basics-to-deployment/
