@@ -9245,3 +9245,9 @@ https://www.udemy.com/course/pcep-python-certification/
 https://www.udemy.com/course/send-crea-campanas-de-correo-electronico-desde-wordpress/
 https://www.udemy.com/course/new-using-ibm-maximo-to-visualization-maintenance-business/
 https://www.udemy.com/course/data-science-ai-mastery-from-basics-to-deployment/
+https://www.udemy.com/course/build-with-google-ai-apps-videos-stunning-visuals/
+https://www.udemy.com/course/kubernetes-ckad-practice-test-ckad-102-1500-questions/
+https://www.udemy.com/course/az-500-practice-exams-secure-azure-environments/
+https://www.udemy.com/course/az-700-practice-tests-azure-networking-solutions/
+https://www.udemy.com/course/mastering-azure-devops-from-beginner-to-advanced/
+https://www.udemy.com/course/aws-alexa-skill-builder-exam-axs-c01-1500-questions/
