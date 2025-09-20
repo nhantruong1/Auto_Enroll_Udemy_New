@@ -9298,3 +9298,4 @@ https://www.udemy.com/course/hpe-storage-solutions-practice-exams/
 https://www.udemy.com/course/rfp-mastery-for-performance-testers-win-more-projects/
 https://www.udemy.com/course/jmeter-with-appd-beanshell-jenkins-blazemeter-grafana/
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exam-lh/
+https://www.udemy.com/course/modern-csharp-masterclass/
