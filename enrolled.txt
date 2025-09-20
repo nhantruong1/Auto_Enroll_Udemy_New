@@ -9251,3 +9251,4 @@ https://www.udemy.com/course/az-500-practice-exams-secure-azure-environments/
 https://www.udemy.com/course/az-700-practice-tests-azure-networking-solutions/
 https://www.udemy.com/course/mastering-azure-devops-from-beginner-to-advanced/
 https://www.udemy.com/course/aws-alexa-skill-builder-exam-axs-c01-1500-questions/
+https://www.udemy.com/course/machine-learning-in-php/
