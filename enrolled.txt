@@ -9252,3 +9252,12 @@ https://www.udemy.com/course/az-700-practice-tests-azure-networking-solutions/
 https://www.udemy.com/course/mastering-azure-devops-from-beginner-to-advanced/
 https://www.udemy.com/course/aws-alexa-skill-builder-exam-axs-c01-1500-questions/
 https://www.udemy.com/course/machine-learning-in-php/
+https://www.udemy.com/course/h2o-wave-starter-course/
+https://www.udemy.com/course/h2o-driverless-ai-starter-course/
+https://www.udemy.com/course/h2o-label-genie-starter-track/
+https://www.udemy.com/course/h2o-gpte-foundational-to-advanced-techniques/
+https://www.udemy.com/course/large-language-models-level-3/
+https://www.udemy.com/course/large-language-models-level-2/
+https://www.udemy.com/course/large-language-models-level-1/
+https://www.udemy.com/course/ecosystem-overview-level-2/
+https://www.udemy.com/course/h2o-generative-ai-starter-track/
