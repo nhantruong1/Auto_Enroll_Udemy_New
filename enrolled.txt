@@ -9328,3 +9328,4 @@ https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/
 https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/
 https://www.udemy.com/course/splunk-core-certified-consultant-practice-exams/
 https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-prep-exams/
+https://www.udemy.com/course/pgd-in-scom/
