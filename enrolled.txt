@@ -9299,3 +9299,4 @@ https://www.udemy.com/course/rfp-mastery-for-performance-testers-win-more-projec
 https://www.udemy.com/course/jmeter-with-appd-beanshell-jenkins-blazemeter-grafana/
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exam-lh/
 https://www.udemy.com/course/modern-csharp-masterclass/
+https://www.udemy.com/course/designing-hpe-hybrid-it-solutions-practice-exams/
