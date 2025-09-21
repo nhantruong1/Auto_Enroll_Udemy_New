@@ -9300,3 +9300,9 @@ https://www.udemy.com/course/jmeter-with-appd-beanshell-jenkins-blazemeter-grafa
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exam-lh/
 https://www.udemy.com/course/modern-csharp-masterclass/
 https://www.udemy.com/course/designing-hpe-hybrid-it-solutions-practice-exams/
+https://www.udemy.com/course/sc-100-microsoft-cybersecurity-architect-prep/
+https://www.udemy.com/course/employment-law-and-labour-law-masterclass/
+https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-prep/
+https://www.udemy.com/course/pl-600-microsoft-solution-architect-prep/
+https://www.udemy.com/course/pl-400-microsoft-power-platform-developer-prep/
+https://www.udemy.com/course/pl-300-microsoft-power-bi-data-analyst-prep/
