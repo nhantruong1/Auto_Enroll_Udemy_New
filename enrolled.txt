@@ -9320,3 +9320,11 @@ https://www.udemy.com/course/hr-soft-skills-mastery-communication-leadership-str
 https://www.udemy.com/course/aruba-certified-mobility-professional-practice-exams/
 https://www.udemy.com/course/aruba-certified-mobility-associate-practice-exams/
 https://www.udemy.com/course/mastering-google-advance-search-techniques/
+https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-practice-exams-r/
+https://www.udemy.com/course/giac-certified-incident-handler-gcih-practice-exams-n/
+https://www.udemy.com/course/giac-security-essentials-gsec-practice-exams/
+https://www.udemy.com/course/splunk-core-certified-user-practice-exams/
+https://www.udemy.com/course/splunk-core-certified-power-user-practice-exams-d/
+https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/
+https://www.udemy.com/course/splunk-core-certified-consultant-practice-exams/
+https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-prep-exams/
