@@ -9329,3 +9329,8 @@ https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-exams/
 https://www.udemy.com/course/splunk-core-certified-consultant-practice-exams/
 https://www.udemy.com/course/splunk-certified-cybersecurity-defense-analyst-prep-exams/
 https://www.udemy.com/course/pgd-in-scom/
+https://www.udemy.com/course/mastering-llm-evaluation-build-reliable-scalable-ai-systems/
+https://www.udemy.com/course/data-science-career-path-100-days-of-data-science-bootcamp/
+https://www.udemy.com/course/data-analytics-career-track/
+https://www.udemy.com/course/ekbtfcmd/
+https://www.udemy.com/course/machine-learning-deep-learning-masterclass-for-beginners/
