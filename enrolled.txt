@@ -9334,3 +9334,4 @@ https://www.udemy.com/course/data-science-career-path-100-days-of-data-science-b
 https://www.udemy.com/course/data-analytics-career-track/
 https://www.udemy.com/course/ekbtfcmd/
 https://www.udemy.com/course/machine-learning-deep-learning-masterclass-for-beginners/
+https://www.udemy.com/course/building-effective-agentic-systems-with-generative-ai/
