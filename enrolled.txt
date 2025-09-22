@@ -9348,3 +9348,5 @@ https://www.udemy.com/course/cypress-automation-from-scratch-to-advanced-framewo
 https://www.udemy.com/course/postman-api-testing-the-complete-guide/
 https://www.udemy.com/course/sencha-touch/
 https://www.udemy.com/course/linux-foundation-certified-system-administrator-prep-exams/
+https://www.udemy.com/course/microsoft-365-tricks-to-give-you-back-10-hours-a-week/
+https://www.udemy.com/course/google-ads-mastery-from-beginner-to-advanced/
