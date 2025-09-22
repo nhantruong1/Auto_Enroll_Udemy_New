@@ -9335,3 +9335,6 @@ https://www.udemy.com/course/data-analytics-career-track/
 https://www.udemy.com/course/ekbtfcmd/
 https://www.udemy.com/course/machine-learning-deep-learning-masterclass-for-beginners/
 https://www.udemy.com/course/building-effective-agentic-systems-with-generative-ai/
+https://www.udemy.com/course/csharp-for-beginner/
+https://www.udemy.com/course/cyber-security-101-aditya/
+https://www.udemy.com/course/academicresearch/
