@@ -9372,3 +9372,8 @@ https://www.udemy.com/course/citrix-virtual-apps-desktops-assessment-design-conf
 https://www.udemy.com/course/citrix-adc-advanced-topics-practice-exams/
 https://www.udemy.com/course/citrix-virtual-apps-desktops-advanced-administration-exams/
 https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/
+https://www.udemy.com/course/togaf-enterprise-architecture-combined-part-1-and-part-2/
+https://www.udemy.com/course/togaf-enterprise-architecture-part-1-practice-exams/
+https://www.udemy.com/course/togaf-9-combined-part-1-and-part-2-practice-exams/
+https://www.udemy.com/course/togaf-9-part-2-certified-practice-exams/
+https://www.udemy.com/course/togaf-9-part-1-foundation-practice-exams/
