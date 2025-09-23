@@ -9371,3 +9371,4 @@ https://www.udemy.com/course/iso-270012022-advanced-isms-auditing-techniques-wor
 https://www.udemy.com/course/citrix-virtual-apps-desktops-assessment-design-config/
 https://www.udemy.com/course/citrix-adc-advanced-topics-practice-exams/
 https://www.udemy.com/course/citrix-virtual-apps-desktops-advanced-administration-exams/
+https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/
