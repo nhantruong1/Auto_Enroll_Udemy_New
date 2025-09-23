@@ -9384,3 +9384,5 @@ https://www.udemy.com/course/git-github-full-russian-course/
 https://www.udemy.com/course/python-fullstack-mastery-build-modern-web-apps-with-django/
 https://www.udemy.com/course/python_certification_exam/
 https://www.udemy.com/course/icf-professional-certified-coach-pcc-practice-tests-2025-l/
+https://www.udemy.com/course/procurementdiploma/
+https://www.udemy.com/course/genesys-cloud-cx-certified-professional-consolidated-exams/
