@@ -9406,3 +9406,11 @@ https://www.udemy.com/course/aws-certified-solutions-architect-professional-prep
 https://www.udemy.com/course/corporate-trainer-instructional-design-for-adult-education/
 https://www.udemy.com/course/implementacion-de-iso-22301-paso-a-paso/
 https://www.udemy.com/course/sap-exam-pack-certified-associate-c_ts4co-serie-q1q2/
+https://www.udemy.com/course/iso-270012022-in-1h-b/
+https://www.udemy.com/course/salesforce-certified-cpq-specialist-exams/
+https://www.udemy.com/course/salesforce-certified-business-analyst-exams/
+https://www.udemy.com/course/supplychainmanagement/
+https://www.udemy.com/course/salesforce-certified-associate-exams/
+https://www.udemy.com/course/salesforce-certified-ai-associate-exams/
+https://www.udemy.com/course/salesforce-certified-administrator-practice-exams-z/
+https://www.udemy.com/course/python-pcep-30-02-certified-entry-level-python-programmer/
