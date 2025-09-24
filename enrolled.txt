@@ -9414,3 +9414,7 @@ https://www.udemy.com/course/salesforce-certified-associate-exams/
 https://www.udemy.com/course/salesforce-certified-ai-associate-exams/
 https://www.udemy.com/course/salesforce-certified-administrator-practice-exams-z/
 https://www.udemy.com/course/python-pcep-30-02-certified-entry-level-python-programmer/
+https://www.udemy.com/course/salesforce-certified-data-architect-exams/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-d/
+https://www.udemy.com/course/terraform-for-beginners-handson/
+https://www.udemy.com/course/como-hacer-tu-tesis-y-no-morir-en-el-intento/
