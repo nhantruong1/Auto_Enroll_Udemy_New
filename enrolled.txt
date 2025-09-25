@@ -9418,3 +9418,6 @@ https://www.udemy.com/course/salesforce-certified-data-architect-exams/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-d/
 https://www.udemy.com/course/terraform-for-beginners-handson/
 https://www.udemy.com/course/como-hacer-tu-tesis-y-no-morir-en-el-intento/
+https://www.udemy.com/course/mastering-audacity-complete-guide-to-audio-editing-produc/
+https://www.udemy.com/course/entrepreneurship-mastery/
+https://www.udemy.com/course/developing-data-science-projects-with-google-colab/
