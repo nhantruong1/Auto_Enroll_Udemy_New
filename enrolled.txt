@@ -9449,3 +9449,6 @@ https://www.udemy.com/course/vmware-workspace-one-22x-professional-exams/
 https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-tt/
 https://www.udemy.com/course/vmware-nsx-4x-professional-v2-exams/
 https://www.udemy.com/course/databricks-certified-data-analyst-associate-practice-tests-mock-exam/
+https://www.udemy.com/course/vmware-workspace-one-21x-advanced-integration-specialist-s/
+https://www.udemy.com/course/vmware-vrealize-operations-specialist-exams/
+https://www.udemy.com/course/vmware-cloud-foundation-deployment-specialist-exams/
