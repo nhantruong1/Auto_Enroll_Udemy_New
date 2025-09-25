@@ -9448,3 +9448,4 @@ https://www.udemy.com/course/prompt-engineering-for-everyone-tool-agnostic/
 https://www.udemy.com/course/vmware-workspace-one-22x-professional-exams/
 https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-tt/
 https://www.udemy.com/course/vmware-nsx-4x-professional-v2-exams/
+https://www.udemy.com/course/databricks-certified-data-analyst-associate-practice-tests-mock-exam/
