@@ -9422,3 +9422,6 @@ https://www.udemy.com/course/mastering-audacity-complete-guide-to-audio-editing-
 https://www.udemy.com/course/entrepreneurship-mastery/
 https://www.udemy.com/course/developing-data-science-projects-with-google-colab/
 https://www.udemy.com/course/githubfoundationexampractice/
+https://www.udemy.com/course/landslide-stability-analysis/
+https://www.udemy.com/course/python-programming-mastery-from-beginner-to-expert/
+https://www.udemy.com/course/master-ai-cognitive-superpowers-with-chatgpt-masterclass/
