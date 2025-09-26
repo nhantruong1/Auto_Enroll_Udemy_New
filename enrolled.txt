@@ -9456,3 +9456,5 @@ https://www.udemy.com/course/ec-council-certified-soc-analyst-exams/
 https://www.udemy.com/course/automate/
 https://www.udemy.com/course/python-automation-and-data-science-bootcamp-zero-to-hero/
 https://www.udemy.com/course/project-based-python-create-8-powerful-tools-step-by-step/
+https://www.udemy.com/course/certified-information-privacy-manager-practice-exams/
+https://www.udemy.com/course/artificial-intelligence-governance-professional-exam-prep/
