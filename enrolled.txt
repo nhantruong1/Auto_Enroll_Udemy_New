@@ -9458,3 +9458,8 @@ https://www.udemy.com/course/python-automation-and-data-science-bootcamp-zero-to
 https://www.udemy.com/course/project-based-python-create-8-powerful-tools-step-by-step/
 https://www.udemy.com/course/certified-information-privacy-manager-practice-exams/
 https://www.udemy.com/course/artificial-intelligence-governance-professional-exam-prep/
+https://www.udemy.com/course/certified-information-privacy-technologist-cipt-exam-prep/
+https://www.udemy.com/course/certified-information-privacy-professionalunited-states/
+https://www.udemy.com/course/prompt-engineering-mastery-from-basics-to-advanced/
+https://www.udemy.com/course/cippe-certified-information-privacy-professionaleurope/
+https://www.udemy.com/course/cippa-certified-information-privacy-professionalasia-prep/
