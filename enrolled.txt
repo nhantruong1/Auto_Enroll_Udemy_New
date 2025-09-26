@@ -9453,3 +9453,4 @@ https://www.udemy.com/course/vmware-workspace-one-21x-advanced-integration-speci
 https://www.udemy.com/course/vmware-vrealize-operations-specialist-exams/
 https://www.udemy.com/course/vmware-cloud-foundation-deployment-specialist-exams/
 https://www.udemy.com/course/ec-council-certified-soc-analyst-exams/
+https://www.udemy.com/course/automate/
