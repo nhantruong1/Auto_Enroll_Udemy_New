@@ -9469,3 +9469,6 @@ https://www.udemy.com/course/agentic-design-patterns/
 https://www.udemy.com/course/fortinet-azure-cloud-security-administrator-practice-exams/
 https://www.udemy.com/course/fortinet-aws-cloud-security-administrator-practice-exams/
 https://www.udemy.com/course/fortinet-fortianalyzer-74-administrator-practice-exams/
+https://www.udemy.com/course/lidera-la-transformacion-ia/
+https://www.udemy.com/course/interview-resume-mastery-from-resume-to-job-offer/
+https://www.udemy.com/course/isc2-cissp-issap-practice-exams/
