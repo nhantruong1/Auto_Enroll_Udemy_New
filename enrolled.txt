@@ -9489,3 +9489,6 @@ https://www.udemy.com/course/contract-management-step-by-step/
 https://www.udemy.com/course/iiba-entry-certificate-in-business-analysis-practice-exams/
 https://www.udemy.com/course/iiba-certification-of-competency-in-business-analysis-prep/
 https://www.udemy.com/course/iiba-certified-business-analysis-professional-practice-exams-t/
+https://www.udemy.com/course/burp-suite-hands-on-testing-on-real-sites-with-bug-bounty/
+https://www.udemy.com/course/iiba-cbda-certification-in-business-data-analytics-exam-prep/
+https://www.udemy.com/course/iiba-aac-agile-analyst-practice-exams/
