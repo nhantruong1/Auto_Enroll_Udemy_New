@@ -9499,3 +9499,9 @@ https://www.udemy.com/course/aws-certified-solutions-architect-associate-practic
 https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-z/
 https://www.udemy.com/course/aws-certified-data-engineer-associate-practice-exams-i/
 https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-z/
+https://www.udemy.com/course/auditing-iso-42001-annex-a-controls/
+https://www.udemy.com/course/ms-900-microsoft-365-fundamentals-prep/
+https://www.udemy.com/course/ms-721-communications-systems-engineer/
+https://www.udemy.com/course/pl-200-microsoft-power-platform-consultant-prep/
+https://www.udemy.com/course/dp-300-microsoft-azure-databases-practice-exams/
+https://www.udemy.com/course/dp-100-azure-data-scientist-associate-practice-exams/
