@@ -9492,3 +9492,10 @@ https://www.udemy.com/course/iiba-certified-business-analysis-professional-pract
 https://www.udemy.com/course/burp-suite-hands-on-testing-on-real-sites-with-bug-bounty/
 https://www.udemy.com/course/iiba-cbda-certification-in-business-data-analytics-exam-prep/
 https://www.udemy.com/course/iiba-aac-agile-analyst-practice-exams/
+https://www.udemy.com/course/az-140-configuring-operating-windows-virtual-desktop-exam-h/
+https://www.udemy.com/course/az-104-microsoft-azure-administrator-practice-exams-bt/
+https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-prep-exams/
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exams-s/
+https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-z/
+https://www.udemy.com/course/aws-certified-data-engineer-associate-practice-exams-i/
+https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-z/
