@@ -9561,3 +9561,11 @@ https://www.udemy.com/course/servicenow-cis-discovery-practice-exams-n/
 https://www.udemy.com/course/servicenow-risk-and-compliance-cis-rc-practice-exams/
 https://www.udemy.com/course/servicenow-project-portfolio-management-cis-ppm-exam-prep/
 https://www.udemy.com/course/mastering-reaper-complete-guide-to-recording-editing-mix/
+https://www.udemy.com/course/ai-900-microsoft-azure-ai-fundamentals-course/
+https://www.udemy.com/course/flutter-the-guide-to-build-android-ios-and-web-apps/
+https://www.udemy.com/course/ai-for-cybersecurity-bug-bounty-hunting/
+https://www.udemy.com/course/mastertech-pro/
+https://www.udemy.com/course/servicenow-certified-system-administrator-practice-exams-u/
+https://www.udemy.com/course/servicenow-vendor-risk-management-cis-vrm-practice-exams/
+https://www.udemy.com/course/servicenow-security-incident-response-cis-sir-practice-exams/
+https://www.udemy.com/course/servicenow-software-asset-management-cis-sam-practice-exams/
