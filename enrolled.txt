@@ -9581,3 +9581,8 @@ https://www.udemy.com/course/palo-alto-networks-certified-xsiam-analyst-exams-p/
 https://www.udemy.com/course/servicenow-it-service-management-cis-itsm-practice-exams-h/
 https://www.udemy.com/course/palo-alto-networks-security-service-edge-engineer-exams/
 https://www.udemy.com/course/pse-prisma-cloud-exams/
+https://www.udemy.com/course/cbsa-bta-certified-blockchain-solution-architect-exam-prep-o/
+https://www.udemy.com/course/ultra-enfoque-mejora-tu-productividad-y-concentracion/
+https://www.udemy.com/course/kubernetes-helm-charts-helm-201-1500-questions/
+https://www.udemy.com/course/deploy-and-manage-citrix-adc-with-citrix-gateway-prep-exams/
+https://www.udemy.com/course/manage-citrix-adc-with-traffic-management-practice-exams/
