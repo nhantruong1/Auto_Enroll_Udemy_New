@@ -9569,3 +9569,9 @@ https://www.udemy.com/course/servicenow-certified-system-administrator-practice-
 https://www.udemy.com/course/servicenow-vendor-risk-management-cis-vrm-practice-exams/
 https://www.udemy.com/course/servicenow-security-incident-response-cis-sir-practice-exams/
 https://www.udemy.com/course/servicenow-software-asset-management-cis-sam-practice-exams/
+https://www.udemy.com/course/palo-alto-networks-system-engineer-professional-cortex/
+https://www.udemy.com/course/palo-alto-networks-certified-software-firewall-engineer-exam/
+https://www.udemy.com/course/palo-alto-networks-certified-security-automation-engineer/
+https://www.udemy.com/course/palo-alto-networks-certified-network-security-engineer-exams-u/
+https://www.udemy.com/course/certified-associate-in-python-programming-practice-exams/
+https://www.udemy.com/course/pcep-certified-entry-level-python-programmer-practice-exams/
