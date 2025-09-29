@@ -9575,3 +9575,9 @@ https://www.udemy.com/course/palo-alto-networks-certified-security-automation-en
 https://www.udemy.com/course/palo-alto-networks-certified-network-security-engineer-exams-u/
 https://www.udemy.com/course/certified-associate-in-python-programming-practice-exams/
 https://www.udemy.com/course/pcep-certified-entry-level-python-programmer-practice-exams/
+https://www.udemy.com/course/4-practice-tests-for-any-c-certification/
+https://www.udemy.com/course/advanced-brand-theory/
+https://www.udemy.com/course/palo-alto-networks-certified-xsiam-analyst-exams-p/
+https://www.udemy.com/course/servicenow-it-service-management-cis-itsm-practice-exams-h/
+https://www.udemy.com/course/palo-alto-networks-security-service-edge-engineer-exams/
+https://www.udemy.com/course/pse-prisma-cloud-exams/
