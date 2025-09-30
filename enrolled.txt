@@ -9594,3 +9594,6 @@ https://www.udemy.com/course/az-700-microsoft-azure-networking-solutions-practic
 https://www.udemy.com/course/dp-700-data-engineering-solutions-using-fabric-exams/
 https://www.udemy.com/course/dp-900-microsoft-azure-data-fundamentals-exams/
 https://www.udemy.com/course/gcp-professional-machine-learning-engineer-practice-exams/
+https://www.udemy.com/course/cdl-cloud-digital-leader-prep/
+https://www.udemy.com/course/pca-professional-cloud-architect-prep/
+https://www.udemy.com/course/pcde-professional-cloud-database-engineer-prep/
