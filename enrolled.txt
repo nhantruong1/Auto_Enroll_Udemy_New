@@ -9586,3 +9586,11 @@ https://www.udemy.com/course/ultra-enfoque-mejora-tu-productividad-y-concentraci
 https://www.udemy.com/course/kubernetes-helm-charts-helm-201-1500-questions/
 https://www.udemy.com/course/deploy-and-manage-citrix-adc-with-citrix-gateway-prep-exams/
 https://www.udemy.com/course/manage-citrix-adc-with-traffic-management-practice-exams/
+https://www.udemy.com/course/prometheus-grafana-bootcamp/
+https://www.udemy.com/course/build-ai-projects-without-code/
+https://www.udemy.com/course/aws-certified-ai-practitioner-practice-exams-j/
+https://www.udemy.com/course/az800administering-windows-server-hybrid-core-infrastructure/
+https://www.udemy.com/course/az-700-microsoft-azure-networking-solutions-practice-exams/
+https://www.udemy.com/course/dp-700-data-engineering-solutions-using-fabric-exams/
+https://www.udemy.com/course/dp-900-microsoft-azure-data-fundamentals-exams/
+https://www.udemy.com/course/gcp-professional-machine-learning-engineer-practice-exams/
