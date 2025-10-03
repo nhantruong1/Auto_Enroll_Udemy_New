@@ -9706,3 +9706,5 @@ https://www.udemy.com/course/the-complete-microsoft-word-course-learn-word-step-
 https://www.udemy.com/course/excel-data-visualization-and-dashboard-design-masterclass/
 https://www.udemy.com/course/japanese-masterclass/
 https://www.udemy.com/course/mental-de-champion/
+https://www.udemy.com/course/designing-cisco-enterprise-wireless-networks-exams/
+https://www.udemy.com/course/kubernetes-troubleshooting-k8s-tb-204-1500-questions/
