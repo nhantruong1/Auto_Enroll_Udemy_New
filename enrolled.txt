@@ -9677,3 +9677,5 @@ https://www.udemy.com/course/the-leadership-accelerator/
 https://www.udemy.com/course/python-crash-course-for-absolute-beginners-2024/
 https://www.udemy.com/course/freelancing-mastery-earn-work-remotely-scale/
 https://www.udemy.com/course/designing-cisco-enterprise-networks-practice-exams-ensld/
+https://www.udemy.com/course/azure-functions-c-sharp-serverless-development-from-zero-to-hero/
+https://www.udemy.com/course/comunicacion-efectiva-en-iniciativas-de-ia/
