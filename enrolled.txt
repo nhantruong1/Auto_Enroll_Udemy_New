@@ -9720,3 +9720,9 @@ https://www.udemy.com/course/crowdstrike-certified-falcon-hunter-practice-exams/
 https://www.udemy.com/course/cisco-customer-success-manager-csm-exams/
 https://www.udemy.com/course/cisco-developing-applications-devcor-exams/
 https://www.udemy.com/course/implementing-cisco-collaboration-core-technologies-clcor-d/
+https://www.udemy.com/course/cisco-meraki-solutions-specialist-ecms-practice-exams/
+https://www.udemy.com/course/implementing-cisco-security-core-technologies-scor-exams/
+https://www.udemy.com/course/implementing-cisco-data-center-core-technologies-dccor/
+https://www.udemy.com/course/performing-cyberops-using-core-security-technologiescbrcor/
+https://www.udemy.com/course/cisco-service-provider-network-core-technologies-spcor/
+https://www.udemy.com/course/cisco-enterprise-network-core-technologies-encor-exams/
