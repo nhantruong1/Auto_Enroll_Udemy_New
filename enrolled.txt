@@ -9719,3 +9719,4 @@ https://www.udemy.com/course/dialux-evo-for-beginners/
 https://www.udemy.com/course/crowdstrike-certified-falcon-hunter-practice-exams/
 https://www.udemy.com/course/cisco-customer-success-manager-csm-exams/
 https://www.udemy.com/course/cisco-developing-applications-devcor-exams/
+https://www.udemy.com/course/implementing-cisco-collaboration-core-technologies-clcor-d/
