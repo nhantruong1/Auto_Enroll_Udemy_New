@@ -9735,3 +9735,10 @@ https://www.udemy.com/course/cybersecurity-stories-learn-from-real-world-experie
 https://www.udemy.com/course/api-571-corrosion-and-materials-practice-exams/
 https://www.udemy.com/course/registered-communications-distribution-designer-exam-prep-x/
 https://www.udemy.com/course/citrix-adc-13-with-citrix-gateway-deployment-and-management/
+https://www.udemy.com/course/citrix-virtual-apps-and-desktops-7-1y0-403-practice-exams/
+https://www.udemy.com/course/citrix-xenapp-and-xendesktop-715-1y0-402-exams/
+https://www.udemy.com/course/citrix-adc-advanced-security-management-and-optimization/
+https://www.udemy.com/course/citrix-virtual-apps-and-desktops-7-advanced-administration-z/
+https://www.udemy.com/course/citrix-xenapp-and-xendesktop-715-advanced-administration/
+https://www.udemy.com/course/citrix-netscaler-12-essentials-and-traffic-management-exams/
+https://www.udemy.com/course/citrix-netscaler-12-essentials-and-unified-gateway-exams/
