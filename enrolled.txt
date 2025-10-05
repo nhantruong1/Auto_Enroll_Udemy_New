@@ -9745,3 +9745,6 @@ https://www.udemy.com/course/citrix-netscaler-12-essentials-and-unified-gateway-
 https://www.udemy.com/course/genesys-cloud-cx-certified-professional-consolidated-exams-j/
 https://www.udemy.com/course/youtube_automation_capcut_nanobanana/
 https://www.udemy.com/course/huawei-certified-ict-associate-hcia-storage-exams/
+https://www.udemy.com/course/huawei-certified-ict-professional-hcip-storage-v50-exams/
+https://www.udemy.com/course/huawei-certified-ict-associate-hcia-datacom-v10-exams/
+https://www.udemy.com/course/huawei-certified-ict-associate-hcia-routing-switching-h/
