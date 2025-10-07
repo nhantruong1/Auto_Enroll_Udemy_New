@@ -9762,3 +9762,4 @@ https://www.udemy.com/course/ai-102-microsoft-azure-ai-engineer-associate-practi
 https://www.udemy.com/course/az-204-developing-solutions-for-microsoft-azure-exams-d/
 https://www.udemy.com/course/physics-for-beginners/
 https://www.udemy.com/course/life-reimagined-bring-your-vision-into-reality/
+https://www.udemy.com/course/check-point-certified-security-administrator-ccsa-r81-exam/
