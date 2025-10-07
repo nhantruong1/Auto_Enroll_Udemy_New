@@ -9795,3 +9795,5 @@ https://www.udemy.com/course/generative-ai-full-stack-web-developer-bootcamp-nex
 https://www.udemy.com/course/alibaba-cloud-associate-aca-cloud-computing-practice-exams/
 https://www.udemy.com/course/copytrading-inteligente-domina-bybit-con-gestion-de-riesgos/
 https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-exams/
+https://www.udemy.com/course/tmux-fundamentals/
+https://www.udemy.com/course/organisch-statt-ads-sichtbarkeit-ohne-werbebudget-mit-ki/
