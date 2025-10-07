@@ -9790,3 +9790,6 @@ https://www.udemy.com/course/400-operating-system-interview-questions-practice-t
 https://www.udemy.com/course/400-git-interview-questions-practice-test/
 https://www.udemy.com/course/vim-fundamentals/
 https://www.udemy.com/course/signals-in-angular-v19/
+https://www.udemy.com/course/garp-sustainability-and-climate-risk-scr-practice-exams/
+https://www.udemy.com/course/generative-ai-full-stack-web-developer-bootcamp-nextjs-react-app/
+https://www.udemy.com/course/alibaba-cloud-associate-aca-cloud-computing-practice-exams/
