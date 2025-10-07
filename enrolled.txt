@@ -9788,3 +9788,5 @@ https://www.udemy.com/course/600-salesforce-lightning-interview-questions-practi
 https://www.udemy.com/course/600-mobile-testing-interview-questions-practice-test/
 https://www.udemy.com/course/400-operating-system-interview-questions-practice-test/
 https://www.udemy.com/course/400-git-interview-questions-practice-test/
+https://www.udemy.com/course/vim-fundamentals/
+https://www.udemy.com/course/signals-in-angular-v19/
