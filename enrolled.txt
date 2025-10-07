@@ -9793,3 +9793,5 @@ https://www.udemy.com/course/signals-in-angular-v19/
 https://www.udemy.com/course/garp-sustainability-and-climate-risk-scr-practice-exams/
 https://www.udemy.com/course/generative-ai-full-stack-web-developer-bootcamp-nextjs-react-app/
 https://www.udemy.com/course/alibaba-cloud-associate-aca-cloud-computing-practice-exams/
+https://www.udemy.com/course/copytrading-inteligente-domina-bybit-con-gestion-de-riesgos/
+https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-exams/
