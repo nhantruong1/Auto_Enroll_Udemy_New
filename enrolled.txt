@@ -9804,3 +9804,4 @@ https://www.udemy.com/course/certified-professional-in-accessibility-core-compet
 https://www.udemy.com/course/aprende-python-desde-0-con-ia-en-12-dias-con-1-hora-al-dia/
 https://www.udemy.com/course/machine-learning-for-embedded-systems-with-arm-ethos-u-npu/
 https://www.udemy.com/course/mastering-katalon-studio-complete-guide-to-test-automation/
+https://www.udemy.com/course/check-point-certified-maestro-expert-practice-exams/
