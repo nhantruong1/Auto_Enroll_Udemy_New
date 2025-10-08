@@ -9798,3 +9798,4 @@ https://www.udemy.com/course/giac-certified-forensic-analyst-gcfa-exams/
 https://www.udemy.com/course/tmux-fundamentals/
 https://www.udemy.com/course/organisch-statt-ads-sichtbarkeit-ohne-werbebudget-mit-ki/
 https://www.udemy.com/course/redisena-tu-futuro/
+https://www.udemy.com/course/data-lake-fundamentals/
