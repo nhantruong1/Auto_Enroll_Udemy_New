@@ -9823,3 +9823,6 @@ https://www.udemy.com/course/presentation-skills-master-presenting-to-executives
 https://www.udemy.com/course/ai-102-practice-exams-azure-ai-solution-design/
 https://www.udemy.com/course/dp-203-practice-tests-azure-data-engineering/
 https://www.udemy.com/course/az-140-practice-exams-azure-virtual-desktop-configuration/
+https://www.udemy.com/course/splunk-certified-developer-practice-exams/
+https://www.udemy.com/course/hr-people-analytics-e/
+https://www.udemy.com/course/splunk-core-certified-advanced-power-user-practice-exams-q/
