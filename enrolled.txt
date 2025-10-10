@@ -9829,3 +9829,4 @@ https://www.udemy.com/course/splunk-core-certified-advanced-power-user-practice-
 https://www.udemy.com/course/atlassian-project-administration-in-jira-server-exam-prep/
 https://www.udemy.com/course/cybersec-first-responder-practice-exams/
 https://www.udemy.com/course/certified-fraud-examiner-investigation-practice-exams/
+https://www.udemy.com/course/c_mdg_1909-sap-mdg-master-data-governance-exam/
