@@ -9830,3 +9830,5 @@ https://www.udemy.com/course/atlassian-project-administration-in-jira-server-exa
 https://www.udemy.com/course/cybersec-first-responder-practice-exams/
 https://www.udemy.com/course/certified-fraud-examiner-investigation-practice-exams/
 https://www.udemy.com/course/c_mdg_1909-sap-mdg-master-data-governance-exam/
+https://www.udemy.com/course/elevenlabs-ai-voice-masterclass-create-realistic-ai-audio/
+https://www.udemy.com/course/nutanix-certified-professional-unified-storage-practice-exam/
