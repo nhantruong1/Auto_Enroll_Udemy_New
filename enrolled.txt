@@ -9850,3 +9850,8 @@ https://www.udemy.com/course/everything-you-need-to-know-about-chess-fundamental
 https://www.udemy.com/course/transformacion-digital-de-rrhh-hris-lms-ai-chatgpt-es/
 https://www.udemy.com/course/ace-essays-foundation-academic-writing-ethical-ai-prompts/
 https://www.udemy.com/course/intro-to-ai-emotional-intelligence-a-future-proof-career/
+https://www.udemy.com/course/the-complete-nuxt-js-course-welcome-to-the-server-side/
+https://www.udemy.com/course/from-feeds-to-hired-swiftui-patterns-that-pass-interviews/
+https://www.udemy.com/course/build-a-robust-finops-azure-cost-reporting-in-1-day/
+https://www.udemy.com/course/microsoft-certification-guide/
+https://www.udemy.com/course/prisma-orm-fundamentals/
