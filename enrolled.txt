@@ -9855,3 +9855,7 @@ https://www.udemy.com/course/from-feeds-to-hired-swiftui-patterns-that-pass-inte
 https://www.udemy.com/course/build-a-robust-finops-azure-cost-reporting-in-1-day/
 https://www.udemy.com/course/microsoft-certification-guide/
 https://www.udemy.com/course/prisma-orm-fundamentals/
+https://www.udemy.com/course/google-drive-hindi-masterclass-2023-all-features/
+https://www.udemy.com/course/git-vsc-essentials/
+https://www.udemy.com/course/complete-javascript-course-2023-from-basic-to-advance-level/
+https://www.udemy.com/course/bootstrap-5-with-5-projects-in-hindi-urdu/
