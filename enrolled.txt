@@ -9871,3 +9871,7 @@ https://www.udemy.com/course/curso-de-excel-para-la-empresa/
 https://www.udemy.com/course/mb-800-microsoft-dynamics-365-business-central-practice-exam-a/
 https://www.udemy.com/course/nokia-nsp-ip-network-automation-professional-composite-exam-z/
 https://www.udemy.com/course/icf-acc-associate-certified-coach-practice-questions-2025-b/
+https://www.udemy.com/course/ai-powered-personal-branding-build-your-future-brand-with-ai/
+https://www.udemy.com/course/timescaledb-for-time-series-data-management/
+https://www.udemy.com/course/google-cloud-generative-ai-leader-certification-course/
+https://www.udemy.com/course/architecting-hp-flexnetwork-solutions-practice-test/
