@@ -9888,3 +9888,4 @@ https://www.udemy.com/course/certified-unsupervised-learning-clustering/
 https://www.udemy.com/course/data-analysis-with-pandas-numpy/
 https://www.udemy.com/course/how-to-tell-stories/
 https://www.udemy.com/course/google-maps-for-developers/
+https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/
