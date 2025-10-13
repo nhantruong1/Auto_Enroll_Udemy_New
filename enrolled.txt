@@ -9902,3 +9902,9 @@ https://www.udemy.com/course/django-angular-python-mysql-chatgpt-ia-generativa-a
 https://www.udemy.com/course/designing-aruba-solutions-practice-tests/
 https://www.udemy.com/course/implementing-aruba-campus-switching-solutions-practice-exams-r/
 https://www.udemy.com/course/hpe-hybrid-cloud-solutions-practice-exams-a/
+https://www.udemy.com/course/aws-cloud-computing-beginner-to-industry-ready/
+https://www.udemy.com/course/formation-ia-intelligence-artificielle-generative/
+https://www.udemy.com/course/learn-gnu-nano/
+https://www.udemy.com/course/how-to-redesign-your-job-and-business-with-chatgpt/
+https://www.udemy.com/course/certification-in-data-science-using-python/
+https://www.udemy.com/course/dp-900-azure-data-fundamentals-codaming/
