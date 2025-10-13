@@ -9875,3 +9875,4 @@ https://www.udemy.com/course/ai-powered-personal-branding-build-your-future-bran
 https://www.udemy.com/course/timescaledb-for-time-series-data-management/
 https://www.udemy.com/course/google-cloud-generative-ai-leader-certification-course/
 https://www.udemy.com/course/architecting-hp-flexnetwork-solutions-practice-test/
+https://www.udemy.com/course/google-gke-kubernetes-gke-302-1500-questions/
