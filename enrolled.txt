@@ -9889,3 +9889,9 @@ https://www.udemy.com/course/data-analysis-with-pandas-numpy/
 https://www.udemy.com/course/how-to-tell-stories/
 https://www.udemy.com/course/google-maps-for-developers/
 https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/
+https://www.udemy.com/course/1400-data-analyst-interview-questions/
+https://www.udemy.com/course/social-media-content-creation-with-chatgpt-generative-ai/
+https://www.udemy.com/course/hpe-storage-solutions-practice-exams-z/
+https://www.udemy.com/course/data-analytics-for-project-management-c/
+https://www.udemy.com/course/applying-hp-flexnetwork-fundamentals-practice-exams/
+https://www.udemy.com/course/bookkeeping-ai-bookkeeping-using-chatgpt-ai-accounting/
