@@ -9913,3 +9913,6 @@ https://www.udemy.com/course/google-ads-mastery-for-beginners-2024/
 https://www.udemy.com/course/how-to-create-automated-faceless-shorts-and-reels-with-n8n/
 https://www.udemy.com/course/crea-tu-primer-video-juego-con-unreal-engine-5-de-0-a-jugar/
 https://www.udemy.com/course/crea-tus-aplicaciones-sin-codigo-no-code-con-flutterflow/
+https://www.udemy.com/course/chatgpt-for-developers-ai-coding-crash-course/
+https://www.udemy.com/course/kotlin-practice-tests-200-questions-from-basics-to-advance/
+https://www.udemy.com/course/c-sharp-practice-tests-370-questions-basic-to-advance/
