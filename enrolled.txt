@@ -9916,3 +9916,4 @@ https://www.udemy.com/course/crea-tus-aplicaciones-sin-codigo-no-code-con-flutte
 https://www.udemy.com/course/chatgpt-for-developers-ai-coding-crash-course/
 https://www.udemy.com/course/kotlin-practice-tests-200-questions-from-basics-to-advance/
 https://www.udemy.com/course/c-sharp-practice-tests-370-questions-basic-to-advance/
+https://www.udemy.com/course/rdbms-mcq/
