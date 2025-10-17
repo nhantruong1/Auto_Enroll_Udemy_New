@@ -9978,3 +9978,9 @@ https://www.udemy.com/course/excel-automation-with-python-from-basics-to-advance
 https://www.udemy.com/course/project-based-microsoft-office-with-chatgpt-and-gemini/
 https://www.udemy.com/course/programacion-en-base-de-datos-oracle-sql-introduccion/
 https://www.udemy.com/course/introduction-to-risk-management-and-security-controls/
+https://www.udemy.com/course/prompt-engineering-certification-master-ai/
+https://www.udemy.com/course/x86-assembly-programing-stack-overflow-hacking/
+https://www.udemy.com/course/postgresql-databases-python/
+https://www.udemy.com/course/learn-fpga-design-with-vhdl-simulation/
+https://www.udemy.com/course/computer-vision-with-python3/
+https://www.udemy.com/course/data-literacy-domina-el-uso-de-datos-con-ayuda-de-la-ia/
