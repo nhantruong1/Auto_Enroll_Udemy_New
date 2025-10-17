@@ -9974,3 +9974,7 @@ https://www.udemy.com/course/ia-generativa-ventas/
 https://www.udemy.com/course/sayarabic12weeks/
 https://www.udemy.com/course/brand_equity/
 https://www.udemy.com/course/emotional-intelligence-for-project-managers-i/
+https://www.udemy.com/course/excel-automation-with-python-from-basics-to-advanced-tasks/
+https://www.udemy.com/course/project-based-microsoft-office-with-chatgpt-and-gemini/
+https://www.udemy.com/course/programacion-en-base-de-datos-oracle-sql-introduccion/
+https://www.udemy.com/course/introduction-to-risk-management-and-security-controls/
