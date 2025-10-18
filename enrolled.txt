@@ -9987,3 +9987,7 @@ https://www.udemy.com/course/data-literacy-domina-el-uso-de-datos-con-ayuda-de-l
 https://www.udemy.com/course/scientific-python-deep-learning-masterclass/
 https://www.udemy.com/course/complete-guide-to-python-data-analysis-with-real-datasets/
 https://www.udemy.com/course/the-logo-design-mastery-course-in-adobe-illustrator-cc/
+https://www.udemy.com/course/complete-java-megacourse-beginner-to-expert/
+https://www.udemy.com/course/php-for-beginners-the-complete-php-intermediate-course-2026/
+https://www.udemy.com/course/decision-making-leadership-development-course/
+https://www.udemy.com/course/autocad-electrical-2026-tutorials-exercises-and-projects/
