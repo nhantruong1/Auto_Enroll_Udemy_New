@@ -9984,3 +9984,5 @@ https://www.udemy.com/course/postgresql-databases-python/
 https://www.udemy.com/course/learn-fpga-design-with-vhdl-simulation/
 https://www.udemy.com/course/computer-vision-with-python3/
 https://www.udemy.com/course/data-literacy-domina-el-uso-de-datos-con-ayuda-de-la-ia/
+https://www.udemy.com/course/scientific-python-deep-learning-masterclass/
+https://www.udemy.com/course/complete-guide-to-python-data-analysis-with-real-datasets/
