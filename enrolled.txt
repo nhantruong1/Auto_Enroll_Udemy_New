@@ -10039,3 +10039,6 @@ https://www.udemy.com/course/reskilling-your-organization-step-by-step/
 https://www.udemy.com/course/aplicaciones-reales-de-la-inteligencia-artificial/
 https://www.udemy.com/course/10-proyectos-de-javascript-para-tu-portafolio-y-entrevistas/
 https://www.udemy.com/course/proven-ways-to-make-money-online-to-get-passive-income/
+https://www.udemy.com/course/crear-un-sistema-de-control-escolar-con-el-patron-mvc/
+https://www.udemy.com/course/microsoft-copilot-outlook/
+https://www.udemy.com/course/ai-for-digital-health-and-wellbeing/
