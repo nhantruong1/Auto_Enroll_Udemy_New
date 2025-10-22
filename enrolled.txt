@@ -10043,3 +10043,11 @@ https://www.udemy.com/course/crear-un-sistema-de-control-escolar-con-el-patron-m
 https://www.udemy.com/course/microsoft-copilot-outlook/
 https://www.udemy.com/course/ai-for-digital-health-and-wellbeing/
 https://www.udemy.com/course/commercial-contract-management-for-business-legal/
+https://www.udemy.com/course/how-to-make-simple-talking-head-video/
+https://www.udemy.com/course/azure-devops-for-ci-cd-pipelines-and-automation/
+https://www.udemy.com/course/ipv6-mastery/
+https://www.udemy.com/course/products_services/
+https://www.udemy.com/course/python-certification-practice-exam/
+https://www.udemy.com/course/java-fundamentals-practice-test-series/
+https://www.udemy.com/course/exploratory-data-analysis-visualization-with-python/
+https://www.udemy.com/course/certified-data-science-professional/
