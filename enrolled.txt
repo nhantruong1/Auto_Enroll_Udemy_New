@@ -10077,3 +10077,5 @@ https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/
 https://www.udemy.com/course/cloud-ki-einfach-erklart/
 https://www.udemy.com/course/ai-seo-geo/
 https://www.udemy.com/course/geo-e-llm-seo/
+https://www.udemy.com/course/ai-agents-with-openai-agentkit-hands-on-guide/
+https://www.udemy.com/course/geo-llm-seo-ki/
