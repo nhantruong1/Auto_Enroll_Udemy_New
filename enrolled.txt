@@ -10090,3 +10090,10 @@ https://www.udemy.com/course/introduction-to-business-foundations-and-practices/
 https://www.udemy.com/course/using-the-jobs-to-be-done-jtbd-methodology-q/
 https://www.udemy.com/course/iso-37001anti-bribery-management-system-abmsstep-by-step/
 https://www.udemy.com/course/shrm-scp-practice-exams-i-shrm-scp-certification-l-2025-g/
+https://www.udemy.com/course/desarrolla-un-sistema-de-control-de-una-biblioteca-con-mvc/
+https://www.udemy.com/course/ai-for-time-management-excellence/
+https://www.udemy.com/course/cloud-native-kubernetes-with-knative-1500-questions/
+https://www.udemy.com/course/azure-aks-kubernetes-aks-303-1500-questions/
+https://www.udemy.com/course/kubernetes-multi-cluster-k8s-mc-203-1500-questions/
+https://www.udemy.com/course/kubernetes-monitoring-k8s-mon-108-1500-questions/
+https://www.udemy.com/course/updated-ceh-official-eccouncil-ethical-hacker-practice-exams-ceh/
