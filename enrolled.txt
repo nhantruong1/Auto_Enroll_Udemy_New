@@ -10097,3 +10097,5 @@ https://www.udemy.com/course/azure-aks-kubernetes-aks-303-1500-questions/
 https://www.udemy.com/course/kubernetes-multi-cluster-k8s-mc-203-1500-questions/
 https://www.udemy.com/course/kubernetes-monitoring-k8s-mon-108-1500-questions/
 https://www.udemy.com/course/updated-ceh-official-eccouncil-ethical-hacker-practice-exams-ceh/
+https://www.udemy.com/course/linkedin-ads-hindi-masterclass-2023-campaigns-features/
+https://www.udemy.com/course/ai-for-creative-leaders/
