@@ -10113,3 +10113,4 @@ https://www.udemy.com/course/applied-optimization-linear-nonlinear-ml-focus/
 https://www.udemy.com/course/manifesting-abundance-master-a-more-mindset/
 https://www.udemy.com/course/linux-for-absolute-beginners-/
 https://www.udemy.com/course/microsoft-365-fundamentals-ms-900-practice-exam-new/
+https://www.udemy.com/course/kubernetes-devops-cost-management-1500-certified-questions/
