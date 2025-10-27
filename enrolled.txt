@@ -10151,3 +10151,5 @@ https://www.udemy.com/course/mastering-http-the-ultimate-guide-to-web-communicat
 https://www.udemy.com/course/django-react-python-mysql-chatgpt-ia-generativa-app-full-stack-web-api/
 https://www.udemy.com/course/authentication-authorization-security-the-complete-guide/
 https://www.udemy.com/course/c-mega-quiz-and-certification/
+https://www.udemy.com/course/github-advanced-security/
+https://www.udemy.com/course/github-copilot-exam-practice-test/
