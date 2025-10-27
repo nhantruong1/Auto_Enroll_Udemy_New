@@ -10150,3 +10150,4 @@ https://www.udemy.com/course/ai-governance-strategy-policy-responsible-deploymen
 https://www.udemy.com/course/mastering-http-the-ultimate-guide-to-web-communication/
 https://www.udemy.com/course/django-react-python-mysql-chatgpt-ia-generativa-app-full-stack-web-api/
 https://www.udemy.com/course/authentication-authorization-security-the-complete-guide/
+https://www.udemy.com/course/c-mega-quiz-and-certification/
