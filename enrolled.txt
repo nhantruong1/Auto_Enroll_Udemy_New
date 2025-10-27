@@ -10142,3 +10142,4 @@ https://www.udemy.com/course/chro-ru-v/
 https://www.udemy.com/course/chro-become-a-strategic-chief-human-resources-officer-en/
 https://www.udemy.com/course/hr-analytics-ua/
 https://www.udemy.com/course/kubernetes-ckackadcks-performance-optimization-1500-qs/
+https://www.udemy.com/course/kubernetes-ckad-autoscaling-1500-certified-questions/
