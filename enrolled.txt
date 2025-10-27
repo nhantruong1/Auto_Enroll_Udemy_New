@@ -10147,3 +10147,6 @@ https://www.udemy.com/course/operations-supply-chain-management-masterclass/
 https://www.udemy.com/course/six-sigma-white-belt-quality-improvement-basics-hindi/
 https://www.udemy.com/course/ai-primer-for-all-employees-in-30-minutes-ai-fast-track/
 https://www.udemy.com/course/ai-governance-strategy-policy-responsible-deployment/
+https://www.udemy.com/course/mastering-http-the-ultimate-guide-to-web-communication/
+https://www.udemy.com/course/django-react-python-mysql-chatgpt-ia-generativa-app-full-stack-web-api/
+https://www.udemy.com/course/authentication-authorization-security-the-complete-guide/
