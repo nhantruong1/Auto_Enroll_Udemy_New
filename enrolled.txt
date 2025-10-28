@@ -10156,3 +10156,5 @@ https://www.udemy.com/course/github-copilot-exam-practice-test/
 https://www.udemy.com/course/laravel-orm-migracion-a-mysql-postgresql-mssql-y-sqlite/
 https://www.udemy.com/course/transformacion-organizacional-con-ia/
 https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/
+https://www.udemy.com/course/ultimate-sap-grc-course-frameworks-controls-automation/
+https://www.udemy.com/course/generative-ai-for-brand-design-and-creative-consistency-a-z/
