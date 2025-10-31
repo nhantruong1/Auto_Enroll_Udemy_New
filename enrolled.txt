@@ -10210,3 +10210,8 @@ https://www.udemy.com/course/padi-idc-theory-practice-exams/
 https://www.udemy.com/course/emotional-intelligence-masterclass-b/
 https://www.udemy.com/course/kubernetes-cloud-native-security-associate-practice-exams-o/
 https://www.udemy.com/course/certified-strategic-leadership-professional/
+https://www.udemy.com/course/apis-in-php-the-complete-php-rest-api-with-jwt-course-2026/
+https://www.udemy.com/course/aprende-javascript-sin-dolor/
+https://www.udemy.com/course/excel-business-intelligence/
+https://www.udemy.com/course/plan-de-rescate-digital-como-actuar-frente-a-un-ciberataque/
+https://www.udemy.com/course/moodle-42-para-profesores/
