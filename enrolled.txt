@@ -10199,3 +10199,4 @@ https://www.udemy.com/course/finra-sie-securities-industry-essentials-exam-2025-
 https://www.udemy.com/course/sql-masterclass-beginner-to-expert/
 https://www.udemy.com/course/html-para-hackers-do-bem-encontre-vulnerabilidades-em-sites/
 https://www.udemy.com/course/virtualbox-para-hackers-criando-alvos-para-invasao/
+https://www.udemy.com/course/cisco-350-701-cisco-security-core-technologies-scor-test/
