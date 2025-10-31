@@ -10197,3 +10197,5 @@ https://www.udemy.com/course/certificate-in-criminal-psychology-fully-accredited
 https://www.udemy.com/course/officeadministrationmanagement/
 https://www.udemy.com/course/finra-sie-securities-industry-essentials-exam-2025-26/
 https://www.udemy.com/course/sql-masterclass-beginner-to-expert/
+https://www.udemy.com/course/html-para-hackers-do-bem-encontre-vulnerabilidades-em-sites/
+https://www.udemy.com/course/virtualbox-para-hackers-criando-alvos-para-invasao/
