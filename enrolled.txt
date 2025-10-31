@@ -10201,3 +10201,6 @@ https://www.udemy.com/course/html-para-hackers-do-bem-encontre-vulnerabilidades-
 https://www.udemy.com/course/virtualbox-para-hackers-criando-alvos-para-invasao/
 https://www.udemy.com/course/cisco-350-701-cisco-security-core-technologies-scor-test/
 https://www.udemy.com/course/how-to-play-harmonium-by-ear/
+https://www.udemy.com/course/technical-analysis-a-guide-to-technical-charts/
+https://www.udemy.com/course/ai-for-beginnersfrom-zero-to-pro-in-artificial-intelligence/
+https://www.udemy.com/course/ai-option-trading/
