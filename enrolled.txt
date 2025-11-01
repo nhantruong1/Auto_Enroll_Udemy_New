@@ -10225,3 +10225,10 @@ https://www.udemy.com/course/visio-de-escritorio-365-professional/
 https://www.udemy.com/course/php-practice-tests-210-questions-from-basics-to-advanced/
 https://www.udemy.com/course/sap-businessobjects-masterclass-2025/
 https://www.udemy.com/course/allen-bradley-micro850-plc-with-industrial-examples/
+https://www.udemy.com/course/professional-lip-contouring-training-theory-techniques/
+https://www.udemy.com/course/kubernetes-cks-runtime-security-falco-1500-questions/
+https://www.udemy.com/course/certified-supervised-machine-learning/
+https://www.udemy.com/course/statistical-inference-hypothesis-testing-for-data-science/
+https://www.udemy.com/course/master-python-ml-stats-analysis-data-visualization/
+https://www.udemy.com/course/gcp-data-engineering-end-to-end-project-retailer-domain/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-clf-c02-y/
