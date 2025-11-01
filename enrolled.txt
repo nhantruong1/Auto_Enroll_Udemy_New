@@ -10233,3 +10233,4 @@ https://www.udemy.com/course/master-python-ml-stats-analysis-data-visualization/
 https://www.udemy.com/course/gcp-data-engineering-end-to-end-project-retailer-domain/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-clf-c02-y/
 https://www.udemy.com/course/build-ecommerce-platform-using-spring-boot-reactmysql-aws/
+https://www.udemy.com/course/domina-la-ia-generativa-crea-automatiza-y-emprende-desde-0/
