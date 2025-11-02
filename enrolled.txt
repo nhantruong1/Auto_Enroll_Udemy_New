@@ -10251,3 +10251,5 @@ https://www.udemy.com/course/online-forex-trading-course/
 https://www.udemy.com/course/data-security-in-the-age-of-generative-ai/
 https://www.udemy.com/course/marketing_fundmentals_strategies/
 https://www.udemy.com/course/kubernetes-cka-edge-1500-certified-questions/
+https://www.udemy.com/course/como-crear-aplicaciones-spa-angular-net-core-sql-server/
+https://www.udemy.com/course/kubernetes-cka-high-availability-1500-certified-questions/
