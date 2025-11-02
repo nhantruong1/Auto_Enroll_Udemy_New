@@ -10235,3 +10235,16 @@ https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-clf-
 https://www.udemy.com/course/build-ecommerce-platform-using-spring-boot-reactmysql-aws/
 https://www.udemy.com/course/domina-la-ia-generativa-crea-automatiza-y-emprende-desde-0/
 https://www.udemy.com/course/inteligencia-de-negocios-con-power-bi-desktop/
+https://www.udemy.com/course/prompt-engineering-with-chatgpt-deepseek-ai-exploured/
+https://www.udemy.com/course/develop-a-complete-inventory-system-using-springboot-react/
+https://www.udemy.com/course/build-a-full-inventory-mgt-system-using-springboot-angular/
+https://www.udemy.com/course/power-bi-mi-primer-proyecto-fitness-life/
+https://www.udemy.com/course/aws-services-selection-decision-guides/
+https://www.udemy.com/course/django-course-for-absolute-beginners-with-project/
+https://www.udemy.com/course/distributed-systems-and-networking-ultimate-bootcamp-2025/
+https://www.udemy.com/course/analitica-avanzada-con-power-bi/
+https://www.udemy.com/course/master-spring-boot-oauth2-with-google-login-react-frontend/
+https://www.udemy.com/course/aws-analytics-services-hands-on-lab-demos/
+https://www.udemy.com/course/sap-ale-edi-idoc-integration-for-functional-consultants/
+https://www.udemy.com/course/feel-activation-by-yuliana-g/
+https://www.udemy.com/course/online-forex-trading-course/
