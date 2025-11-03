@@ -10256,3 +10256,7 @@ https://www.udemy.com/course/kubernetes-cka-high-availability-1500-certified-que
 https://www.udemy.com/course/40-days-python-programming-bootcamp-build-real-projects/
 https://www.udemy.com/course/ai-900-practice-test-600-questions-for-exam-readiness/
 https://www.udemy.com/course/mega-pack-az-900-104-204-305-500-ai-102-practice-tests/
+https://www.udemy.com/course/sourcing-automation-speed-up-hiring-4x-linkedin-github/
+https://www.udemy.com/course/financial-literacy-for-business-efficiency-driven-strategy/
+https://www.udemy.com/course/accounts-receivable-in-sap-s4hana-cloud/
+https://www.udemy.com/course/ai-recruit-ar/
