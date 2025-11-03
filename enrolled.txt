@@ -10253,3 +10253,6 @@ https://www.udemy.com/course/marketing_fundmentals_strategies/
 https://www.udemy.com/course/kubernetes-cka-edge-1500-certified-questions/
 https://www.udemy.com/course/como-crear-aplicaciones-spa-angular-net-core-sql-server/
 https://www.udemy.com/course/kubernetes-cka-high-availability-1500-certified-questions/
+https://www.udemy.com/course/40-days-python-programming-bootcamp-build-real-projects/
+https://www.udemy.com/course/ai-900-practice-test-600-questions-for-exam-readiness/
+https://www.udemy.com/course/mega-pack-az-900-104-204-305-500-ai-102-practice-tests/
