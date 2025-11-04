@@ -10307,3 +10307,8 @@ https://www.udemy.com/course/interior-design-using-plants-biophilic-interior-des
 https://www.udemy.com/course/data-analysis-using-excel-v1/
 https://www.udemy.com/course/vmware-vsphere-foundation-support-2v0-1825-practice-exam/
 https://www.udemy.com/course/powerful-ict-scalping-forex-crypto-strategies/
+https://www.udemy.com/course/aws-cloud-guide-serverless-framework-api-gateway-python/
+https://www.udemy.com/course/jquery-y-mobile/
+https://www.udemy.com/course/sass-hojas-de-estilo-sorprendentes/
+https://www.udemy.com/course/kubernetes-cks-chaos-engineering-1500-certified-questions/
+https://www.udemy.com/course/kubernetes-ckad-cka-cks-progressive-delivery-1500-qs/
