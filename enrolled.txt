@@ -10291,3 +10291,10 @@ https://www.udemy.com/course/marketing-101-building-strong-brands-from-basics-to
 https://www.udemy.com/course/comptia-security-sy0-701-practice-exams-ts/
 https://www.udemy.com/course/comptia-linux-xk0-005-practice-exams-h/
 https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner-new/
+https://www.udemy.com/course/genai-cybersecurity-solutions-i/
+https://www.udemy.com/course/build-a-hotel-booking-platform-using-springboot-react-2025/
+https://www.udemy.com/course/build-hotel-booking-app-in-springboot-angular-payment-2025/
+https://www.udemy.com/course/build-a-task-manager-spring-boot-react-aws-deployment/
+https://www.udemy.com/course/food-ordering-app-spring-boot-react-payment-deployment/
+https://www.udemy.com/course/full-stack-airline-booking-app-java-spring-boot-react/
+https://www.udemy.com/course/full-stack-fintech-app-spring-boot-4-react-and-aws-cicd/
