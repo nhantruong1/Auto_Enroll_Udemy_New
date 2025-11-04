@@ -10298,3 +10298,12 @@ https://www.udemy.com/course/build-a-task-manager-spring-boot-react-aws-deployme
 https://www.udemy.com/course/food-ordering-app-spring-boot-react-payment-deployment/
 https://www.udemy.com/course/full-stack-airline-booking-app-java-spring-boot-react/
 https://www.udemy.com/course/full-stack-fintech-app-spring-boot-4-react-and-aws-cicd/
+https://www.udemy.com/course/bash-scripting-certificated/
+https://www.udemy.com/course/data-science-mastery-2025-excel-python-tableau/
+https://www.udemy.com/course/full-stack-health-care-telemedicine-app-spring-boot-react/
+https://www.udemy.com/course/full-stack-health-care-telemed-app-spring-boot-angular/
+https://www.udemy.com/course/effective-communication-org/
+https://www.udemy.com/course/interior-design-using-plants-biophilic-interior-designs-a-z/
+https://www.udemy.com/course/data-analysis-using-excel-v1/
+https://www.udemy.com/course/vmware-vsphere-foundation-support-2v0-1825-practice-exam/
+https://www.udemy.com/course/powerful-ict-scalping-forex-crypto-strategies/
