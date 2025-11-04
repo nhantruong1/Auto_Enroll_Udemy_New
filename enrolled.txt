@@ -10284,3 +10284,6 @@ https://www.udemy.com/course/senior-executive-program-ai-robotics-and-systems/
 https://www.udemy.com/course/iso-28000-security-management-systems-for-the-supply-chain/
 https://www.udemy.com/course/strategic-market-research-key-methods-for-success/
 https://www.udemy.com/course/master-microsoft-copilot-ai-to-increase-windows-productivity/
+https://www.udemy.com/course/leadership-teamwork-conflict-management-for-organizations/
+https://www.udemy.com/course/business-problem-solving-frameworks/
+https://www.udemy.com/course/the-complete-svelte-course-inc-sveltekit-ssr-firebase/
