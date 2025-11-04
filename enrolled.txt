@@ -10290,3 +10290,4 @@ https://www.udemy.com/course/the-complete-svelte-course-inc-sveltekit-ssr-fireba
 https://www.udemy.com/course/marketing-101-building-strong-brands-from-basics-to-strategy/
 https://www.udemy.com/course/comptia-security-sy0-701-practice-exams-ts/
 https://www.udemy.com/course/comptia-linux-xk0-005-practice-exams-h/
+https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner-new/
