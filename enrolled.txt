@@ -10312,3 +10312,4 @@ https://www.udemy.com/course/jquery-y-mobile/
 https://www.udemy.com/course/sass-hojas-de-estilo-sorprendentes/
 https://www.udemy.com/course/kubernetes-cks-chaos-engineering-1500-certified-questions/
 https://www.udemy.com/course/kubernetes-ckad-cka-cks-progressive-delivery-1500-qs/
+https://www.udemy.com/course/digital-twin-applications-in-automotive-engineering/
