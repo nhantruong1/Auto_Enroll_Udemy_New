@@ -10318,3 +10318,5 @@ https://www.udemy.com/course/ai-recruitment-automatisering-optimering-af-hr-da/
 https://www.udemy.com/course/learn-muay-chaiya-online/
 https://www.udemy.com/course/faceless-social-media-content-creation-using-free-ai-tools/
 https://www.udemy.com/course/sql-database-design-practice-test/
+https://www.udemy.com/course/vuejs-knowledge-evaluation-set/
+https://www.udemy.com/course/flutter-dart-practice-tests/
