@@ -10324,3 +10324,5 @@ https://www.udemy.com/course/swift-ios-developer-quiz-series/
 https://www.udemy.com/course/building-ai-agents-agentic-ai-system-via-microsoft-autogen/
 https://www.udemy.com/course/emotional-intelligence-assessment-course/
 https://www.udemy.com/course/talent-management-mastery/
+https://www.udemy.com/course/ai-product-manager-bootcamp/
+https://www.udemy.com/course/desarrolla-la-logica-de-programacion-con-pseint-y-algoritmos/
