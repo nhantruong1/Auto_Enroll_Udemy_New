@@ -10346,3 +10346,4 @@ https://www.udemy.com/course/die-bandscheibe-verstehen/
 https://www.udemy.com/course/remotely-operated-vehicles-rovs-a-subsea-enabler/
 https://www.udemy.com/course/cyber-security-and-artificial-intelligence-risk-course/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-practice-exam-2025/
+https://www.udemy.com/course/full-stack-ai-engineer-python-machine-learning-dl-generative-ai/
