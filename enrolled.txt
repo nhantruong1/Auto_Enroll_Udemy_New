@@ -10328,3 +10328,4 @@ https://www.udemy.com/course/ai-product-manager-bootcamp/
 https://www.udemy.com/course/desarrolla-la-logica-de-programacion-con-pseint-y-algoritmos/
 https://www.udemy.com/course/statistics-for-data-science-business-analysis-with-python/
 https://www.udemy.com/course/oil-and-gas-subsea-systems-the-underwater-world/
+https://www.udemy.com/course/human-centered-ai-for-leaders/
