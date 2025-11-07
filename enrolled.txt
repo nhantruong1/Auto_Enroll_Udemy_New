@@ -10329,3 +10329,5 @@ https://www.udemy.com/course/desarrolla-la-logica-de-programacion-con-pseint-y-a
 https://www.udemy.com/course/statistics-for-data-science-business-analysis-with-python/
 https://www.udemy.com/course/oil-and-gas-subsea-systems-the-underwater-world/
 https://www.udemy.com/course/human-centered-ai-for-leaders/
+https://www.udemy.com/course/generative-ai-from-concept-to-creation-2025-genai-08/
+https://www.udemy.com/course/advanced-wireshark/
