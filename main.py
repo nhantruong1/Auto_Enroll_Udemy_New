@@ -29,7 +29,10 @@ COUPON_DISCUDEMY_LINKS = [
     'https://www.discudemy.com/category/mysql',
     'https://www.discudemy.com/category/django',
     'https://www.discudemy.com/category/ethical-hacking',
-    'https://www.discudemy.com/category/debug-test'
+    'https://www.discudemy.com/category/debug-test',
+    'https://www.discudemy.com/category/aws',
+    'https://www.discudemy.com/category/nosql',
+    'https://www.discudemy.com/category/java'
 ] # Category links
 
 class Auto_Enroll_Udemy:
