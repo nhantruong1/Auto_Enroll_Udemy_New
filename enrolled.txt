@@ -10391,3 +10391,5 @@ https://www.udemy.com/course/master-python-for-data-science-machine-learning-aut
 https://www.udemy.com/course/google-cloud-generative-ai-leader-practice-exams-y/
 https://www.udemy.com/course/employee-wellness-building-well-being-programs-that-work/
 https://www.udemy.com/course/create-interactive-presentations/
+https://www.udemy.com/course/no-code-development-with-bubble-complete-boot-camp/
+https://www.udemy.com/course/make-from-beginner-to-pro-ai-automations-and-ai-agents/
