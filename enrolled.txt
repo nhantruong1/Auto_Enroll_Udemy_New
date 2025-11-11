@@ -10394,3 +10394,9 @@ https://www.udemy.com/course/create-interactive-presentations/
 https://www.udemy.com/course/no-code-development-with-bubble-complete-boot-camp/
 https://www.udemy.com/course/make-from-beginner-to-pro-ai-automations-and-ai-agents/
 https://www.udemy.com/course/cobit2019-design-implementation-1500-certified-questions/
+https://www.udemy.com/course/terraform-for-absolute-beginners/
+https://www.udemy.com/course/docker-for-absolute-beginners/
+https://www.udemy.com/course/django-rest-framework-for-absolute-beginners/
+https://www.udemy.com/course/owasp-top-10-web-application-security-risks-for-beginners/
+https://www.udemy.com/course/large-scale-convex-optimization/
+https://www.udemy.com/course/land-your-first-qa-job-in-game-testing/
