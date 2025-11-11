@@ -10386,3 +10386,6 @@ https://www.udemy.com/course/certified-in-cybersecurity-isc2-cloudguruamit/
 https://www.udemy.com/course/agile-scrum-project-management-udemy/
 https://www.udemy.com/course/learn-aigp/
 https://www.udemy.com/course/aws-aif-c01-realdumps/
+https://www.udemy.com/course/the-strategic-use-of-ai-in-brand-management/
+https://www.udemy.com/course/master-python-for-data-science-machine-learning-automation/
+https://www.udemy.com/course/google-cloud-generative-ai-leader-practice-exams-y/
