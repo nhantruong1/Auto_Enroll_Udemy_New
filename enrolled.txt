@@ -10401,3 +10401,16 @@ https://www.udemy.com/course/owasp-top-10-web-application-security-risks-for-beg
 https://www.udemy.com/course/large-scale-convex-optimization/
 https://www.udemy.com/course/land-your-first-qa-job-in-game-testing/
 https://www.udemy.com/course/powerpoint-for-business-create-deliver-pro-presentations/
+https://www.udemy.com/course/cyber-security-awareness-fraud-prevention-training/
+https://www.udemy.com/course/github-actions-for-beginners-/
+https://www.udemy.com/course/build-cicd-pipelines-with-gitlab-ci/
+https://www.udemy.com/course/foundations-of-machine-learning-a-beginners-journey/
+https://www.udemy.com/course/kubernetes-for-absolute-beginners/
+https://www.udemy.com/course/kubernetes-beyond-the-basics-with-hands-on-labs/
+https://www.udemy.com/course/the-ultimate-kubernetes-fundamentals-practical-hands-on-labs/
+https://www.udemy.com/course/helm-for-absolute-beginners-o/
+https://www.udemy.com/course/excel-made-easy-learn-step-by-step-become-a-confident-use/
+https://www.udemy.com/course/chief-ai-officer-caio-leading-enterprise-ai-transformation/
+https://www.udemy.com/course/deloitte-human-capital-trends-report-2026-by-papahr-overview/
+https://www.udemy.com/course/les-fondamentaux-de-kubernetes-avec-ateliers-pratiques/
+https://www.udemy.com/course/certified-anomaly-detection-outlier-analytics/
