@@ -10400,3 +10400,4 @@ https://www.udemy.com/course/django-rest-framework-for-absolute-beginners/
 https://www.udemy.com/course/owasp-top-10-web-application-security-risks-for-beginners/
 https://www.udemy.com/course/large-scale-convex-optimization/
 https://www.udemy.com/course/land-your-first-qa-job-in-game-testing/
+https://www.udemy.com/course/powerpoint-for-business-create-deliver-pro-presentations/
