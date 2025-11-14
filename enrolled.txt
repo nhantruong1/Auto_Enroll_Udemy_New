@@ -10443,3 +10443,4 @@ https://www.udemy.com/course/check-point-certified-harmony-endpoint-specialist-e
 https://www.udemy.com/course/splunk-enterprise-certified-architect-practice-exam-h/
 https://www.udemy.com/course/certified-data-engineer-associate/
 https://www.udemy.com/course/unofficial-tests-databricks-certified-dataengineer-associate/
+https://www.udemy.com/course/python-for-automation-automate-tasks-excel-web-and-files/
