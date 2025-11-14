@@ -10442,3 +10442,4 @@ https://www.udemy.com/course/certified-generative-ai-engineer-associate-practice
 https://www.udemy.com/course/check-point-certified-harmony-endpoint-specialist-exam-prep/
 https://www.udemy.com/course/splunk-enterprise-certified-architect-practice-exam-h/
 https://www.udemy.com/course/certified-data-engineer-associate/
+https://www.udemy.com/course/unofficial-tests-databricks-certified-dataengineer-associate/
