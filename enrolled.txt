@@ -10453,3 +10453,6 @@ https://www.udemy.com/course/fastapi-interview-questions-python/
 https://www.udemy.com/course/unofficial-test-for-aws-certified-security-specialty-scs-c01/
 https://www.udemy.com/course/mastering-human-factors-for-aviation-personnel/
 https://www.udemy.com/course/tableau-data-analyst-tableau-associate-exams/
+https://www.udemy.com/course/reaper-essentials-create-record-and-mix-with-confidence/
+https://www.udemy.com/course/research-methodology-basic-to-advanced/
+https://www.udemy.com/course/unofficial-tests-databricks-certified-generative-ai-engineer/
