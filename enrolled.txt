@@ -10451,3 +10451,5 @@ https://www.udemy.com/course/data-structures-algorithm-interview/
 https://www.udemy.com/course/microsoft-md-102-endpoint-management/
 https://www.udemy.com/course/fastapi-interview-questions-python/
 https://www.udemy.com/course/unofficial-test-for-aws-certified-security-specialty-scs-c01/
+https://www.udemy.com/course/mastering-human-factors-for-aviation-personnel/
+https://www.udemy.com/course/tableau-data-analyst-tableau-associate-exams/
