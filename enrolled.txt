@@ -10450,3 +10450,4 @@ https://www.udemy.com/course/certified-cloud-computing-exam-aws-azure-google-clo
 https://www.udemy.com/course/data-structures-algorithm-interview/
 https://www.udemy.com/course/microsoft-md-102-endpoint-management/
 https://www.udemy.com/course/fastapi-interview-questions-python/
+https://www.udemy.com/course/unofficial-test-for-aws-certified-security-specialty-scs-c01/
