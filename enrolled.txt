@@ -10488,3 +10488,4 @@ https://www.udemy.com/course/ethical-supply-chain-step-by-step/
 https://www.udemy.com/course/certified-nosql-graph-databases/
 https://www.udemy.com/course/certified-data-wrangling-cleaning/
 https://www.udemy.com/course/certified-data-visualization-dashboarding/
+https://www.udemy.com/course/lpic-1-ultimate-prep/
