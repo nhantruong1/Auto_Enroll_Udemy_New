@@ -10506,3 +10506,4 @@ https://www.udemy.com/course/alibaba-cloud-certified-associate-cloud-engineer-ex
 https://www.udemy.com/course/pgd-fire-safety-management/
 https://www.udemy.com/course/programacion-orientada-a-objetos-con-javascript/
 https://www.udemy.com/course/automated-trading-on-mt5-step-by-step/
+https://www.udemy.com/course/hashicorp-3-in-1-terraform-consul-vault-1500-questions-k/
