@@ -10507,3 +10507,5 @@ https://www.udemy.com/course/pgd-fire-safety-management/
 https://www.udemy.com/course/programacion-orientada-a-objetos-con-javascript/
 https://www.udemy.com/course/automated-trading-on-mt5-step-by-step/
 https://www.udemy.com/course/hashicorp-3-in-1-terraform-consul-vault-1500-questions-k/
+https://www.udemy.com/course/az-900-architecture-core-services-1500-certified-questions/
+https://www.udemy.com/course/lpi-web-development-practice-test-1500-certified-questions/
