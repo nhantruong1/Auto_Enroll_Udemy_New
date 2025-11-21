@@ -10544,3 +10544,4 @@ https://www.udemy.com/course/ai-red-teaming/
 https://www.udemy.com/course/lfca-linux-foundation-certified-it-associate-practice-exams/
 https://www.udemy.com/course/lvgl-und-esp32/
 https://www.udemy.com/course/raspberry-pi-pico-2/
+https://www.udemy.com/course/disaster-recovery-step-by-step/
