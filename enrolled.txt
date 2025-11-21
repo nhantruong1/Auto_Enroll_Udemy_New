@@ -10540,3 +10540,7 @@ https://www.udemy.com/course/python-for-excel-automation-master-data-processing-
 https://www.udemy.com/course/complete-artificial-intelligence-and-python-developer-course/
 https://www.udemy.com/course/ki-fur-strategische-personalprozesse-und-compliance-de/
 https://www.udemy.com/course/ia-para-operaciones-estrategicas-de-rr-hh-es/
+https://www.udemy.com/course/ai-red-teaming/
+https://www.udemy.com/course/lfca-linux-foundation-certified-it-associate-practice-exams/
+https://www.udemy.com/course/lvgl-und-esp32/
+https://www.udemy.com/course/raspberry-pi-pico-2/
