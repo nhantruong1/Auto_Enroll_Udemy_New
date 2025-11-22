@@ -10553,3 +10553,5 @@ https://www.udemy.com/course/manager-become-a-leader/
 https://www.udemy.com/course/digital-marketing-mastery-20/
 https://www.udemy.com/course/python-for-beginners-learn-modern-python/
 https://www.udemy.com/course/learn-php-laravel-12-for-beginners-2026-build-cms-blog/
+https://www.udemy.com/course/active-directory-deploying-and-managing-certificates-pt/
+https://www.udemy.com/course/sre-interview-questions-practice-test/
