@@ -10555,3 +10555,6 @@ https://www.udemy.com/course/python-for-beginners-learn-modern-python/
 https://www.udemy.com/course/learn-php-laravel-12-for-beginners-2026-build-cms-blog/
 https://www.udemy.com/course/active-directory-deploying-and-managing-certificates-pt/
 https://www.udemy.com/course/sre-interview-questions-practice-test/
+https://www.udemy.com/course/building-a-personal-brand-for-career-success-v/
+https://www.udemy.com/course/career-transition-strategies-moving-into-a-new-industry-x/
+https://www.udemy.com/course/jira-software-essentials-practice-exams/
