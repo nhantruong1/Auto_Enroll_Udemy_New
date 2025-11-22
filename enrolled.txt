@@ -10551,3 +10551,4 @@ https://www.udemy.com/course/aws-compute-services-hands-on-lab-demos/
 https://www.udemy.com/course/architectural-collage-post-production-for-portfolio-design/
 https://www.udemy.com/course/manager-become-a-leader/
 https://www.udemy.com/course/digital-marketing-mastery-20/
+https://www.udemy.com/course/python-for-beginners-learn-modern-python/
