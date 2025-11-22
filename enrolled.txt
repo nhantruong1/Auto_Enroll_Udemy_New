@@ -10545,3 +10545,8 @@ https://www.udemy.com/course/lfca-linux-foundation-certified-it-associate-practi
 https://www.udemy.com/course/lvgl-und-esp32/
 https://www.udemy.com/course/raspberry-pi-pico-2/
 https://www.udemy.com/course/disaster-recovery-step-by-step/
+https://www.udemy.com/course/python-ethical-hacking-pentest-for-hackers-scripting-basics/
+https://www.udemy.com/course/aws-developerdevops-services-hands-on-lab-demos/
+https://www.udemy.com/course/aws-compute-services-hands-on-lab-demos/
+https://www.udemy.com/course/architectural-collage-post-production-for-portfolio-design/
+https://www.udemy.com/course/manager-become-a-leader/
