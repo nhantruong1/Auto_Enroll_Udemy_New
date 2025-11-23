@@ -10587,3 +10587,5 @@ https://www.udemy.com/course/az-104-azure-administrator-test-1500-certified-ques
 https://www.udemy.com/course/leadership-management-training-become-an-effective-leader/
 https://www.udemy.com/course/cmo-c-level-ru/
 https://www.udemy.com/course/troubleshooter-ru/
+https://www.udemy.com/course/git-github-certification-practice/
+https://www.udemy.com/course/shell-scripting-practice-exam/
