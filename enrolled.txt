@@ -10589,3 +10589,7 @@ https://www.udemy.com/course/cmo-c-level-ru/
 https://www.udemy.com/course/troubleshooter-ru/
 https://www.udemy.com/course/git-github-certification-practice/
 https://www.udemy.com/course/shell-scripting-practice-exam/
+https://www.udemy.com/course/complete-python-guide-basics-to-real-world-projects/
+https://www.udemy.com/course/c-programming-from-fundamentals-to-advanced-concepts/
+https://www.udemy.com/course/medical-billing-coding-certification-prep-for-beginners/
+https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/
