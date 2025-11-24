@@ -10593,3 +10593,4 @@ https://www.udemy.com/course/complete-python-guide-basics-to-real-world-projects
 https://www.udemy.com/course/c-programming-from-fundamentals-to-advanced-concepts/
 https://www.udemy.com/course/medical-billing-coding-certification-prep-for-beginners/
 https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/
+https://www.udemy.com/course/genai-for-sales-marketing-masterclass-10-ai-tools-2025/
