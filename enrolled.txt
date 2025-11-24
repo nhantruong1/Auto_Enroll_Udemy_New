@@ -10595,3 +10595,5 @@ https://www.udemy.com/course/medical-billing-coding-certification-prep-for-begin
 https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/
 https://www.udemy.com/course/genai-for-sales-marketing-masterclass-10-ai-tools-2025/
 https://www.udemy.com/course/az-120-azure-for-sap-workloads-1500-certified-questions/
+https://www.udemy.com/course/data-analytics-with-excel-pivottables-2016/
+https://www.udemy.com/course/javascript-certification-practice-tests-es6-core-concept/
