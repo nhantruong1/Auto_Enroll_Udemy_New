@@ -10594,3 +10594,4 @@ https://www.udemy.com/course/c-programming-from-fundamentals-to-advanced-concept
 https://www.udemy.com/course/medical-billing-coding-certification-prep-for-beginners/
 https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/
 https://www.udemy.com/course/genai-for-sales-marketing-masterclass-10-ai-tools-2025/
+https://www.udemy.com/course/az-120-azure-for-sap-workloads-1500-certified-questions/
