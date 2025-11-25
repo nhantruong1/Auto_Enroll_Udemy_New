@@ -10599,3 +10599,7 @@ https://www.udemy.com/course/data-analytics-with-excel-pivottables-2016/
 https://www.udemy.com/course/javascript-certification-practice-tests-es6-core-concept/
 https://www.udemy.com/course/especializacion-en-transformacion-de-datos-con-power-query/
 https://www.udemy.com/course/understanding-autism-spectrum-disorder-i/
+https://www.udemy.com/course/python-programming-for-beginners-1-hour-fast/
+https://www.udemy.com/course/learn-pandas-in-1-hour-python-data-analysis/
+https://www.udemy.com/course/emprendedor-espresso-01-de-idea-a-realidad/
+https://www.udemy.com/course/iso-27001-information-security/
