@@ -10603,3 +10603,7 @@ https://www.udemy.com/course/python-programming-for-beginners-1-hour-fast/
 https://www.udemy.com/course/learn-pandas-in-1-hour-python-data-analysis/
 https://www.udemy.com/course/emprendedor-espresso-01-de-idea-a-realidad/
 https://www.udemy.com/course/iso-27001-information-security/
+https://www.udemy.com/course/business-analysis-with-visually-effective-power-bi-reports/
+https://www.udemy.com/course/genai-for-image-video-creation-nano-banana-veo-31/
+https://www.udemy.com/course/faa-uas-part-107-practice-questions-2025-26/
+https://www.udemy.com/course/ai-ethics-governance-certification-prep-aigp-2025-26/
