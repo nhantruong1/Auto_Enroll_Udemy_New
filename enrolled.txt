@@ -10616,3 +10616,4 @@ https://www.udemy.com/course/comment-integrer-lia-dans-la-gestion-des-projets-cl
 https://www.udemy.com/course/office-politics-step-by-step-f/
 https://www.udemy.com/course/artisan-pastry-for-beginners/
 https://www.udemy.com/course/esg-certification-prep-202526-complete-practice-test/
+https://www.udemy.com/course/exploring-game-mechanics-with-python-and-pygame/
