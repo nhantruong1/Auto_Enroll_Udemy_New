@@ -10620,3 +10620,6 @@ https://www.udemy.com/course/exploring-game-mechanics-with-python-and-pygame/
 https://www.udemy.com/course/aspen-plus-course/
 https://www.udemy.com/course/fire-safety-for-construction-education-and-care-workers/
 https://www.udemy.com/course/finance-career-paths-find-your-ideal-role/
+https://www.udemy.com/course/google-ai-leader-exam-prep-full-mock-exams-topic-quizzes/
+https://www.udemy.com/course/microsoft-copilot-for-work-learn-to-work-faster-smarter/
+https://www.udemy.com/course/investment-bootcamp/
