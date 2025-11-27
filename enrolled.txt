@@ -10645,3 +10645,5 @@ https://www.udemy.com/course/fundamentals-of-low-power-vlsi-design/
 https://www.udemy.com/course/comptia-a-core-2-220-1102-1500-certified-questions/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-clf-c02-2025/
 https://www.udemy.com/course/salesforce-certified-integration-architect-tests-2025/
+https://www.udemy.com/course/modern-microfab-and-micro-electro-mechanical-systems-mems/
+https://www.udemy.com/course/project-cost-management-estimating-budgeting-earned-value/
