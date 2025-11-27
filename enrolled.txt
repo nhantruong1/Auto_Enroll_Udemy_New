@@ -10647,3 +10647,6 @@ https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-clf
 https://www.udemy.com/course/salesforce-certified-integration-architect-tests-2025/
 https://www.udemy.com/course/modern-microfab-and-micro-electro-mechanical-systems-mems/
 https://www.udemy.com/course/project-cost-management-estimating-budgeting-earned-value/
+https://www.udemy.com/course/linux-command-line-bootcamp/
+https://www.udemy.com/course/microsoft-teams-course/
+https://www.udemy.com/course/sleep-management/
