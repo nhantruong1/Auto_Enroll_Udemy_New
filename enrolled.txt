@@ -10639,3 +10639,9 @@ https://www.udemy.com/course/azure-az900aws-fundamentals/
 https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/
 https://www.udemy.com/course/neuromarketing-ai-influence-consumer-behavior/
 https://www.udemy.com/course/ai-video-creation-with-your-photos-for-youtube-commercials/
+https://www.udemy.com/course/ai-strategy-transformation-for-executive-leaders/
+https://www.udemy.com/course/complete-jquery-bootcamp-events-ui-animations-projects/
+https://www.udemy.com/course/fundamentals-of-low-power-vlsi-design/
+https://www.udemy.com/course/comptia-a-core-2-220-1102-1500-certified-questions/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-clf-c02-2025/
+https://www.udemy.com/course/salesforce-certified-integration-architect-tests-2025/
