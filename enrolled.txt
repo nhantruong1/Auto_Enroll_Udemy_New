@@ -10655,3 +10655,6 @@ https://www.udemy.com/course/php-codeigniter-4-build-coffee-shop-management-syst
 https://www.udemy.com/course/lightroom-mobile-course/
 https://www.udemy.com/course/comptia-security-sy0-701-1500-certified-questions/
 https://www.udemy.com/course/aws-machine-learning-engineer-mla-c01-practice-exams-2025/
+https://www.udemy.com/course/ai-movie-making/
+https://www.udemy.com/course/comptia-network-n10-009-1500-certified-questions/
+https://www.udemy.com/course/comptia-linux-xk0-005-1500-certified-questions/
