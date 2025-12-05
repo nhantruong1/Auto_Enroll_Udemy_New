@@ -10695,3 +10695,5 @@ https://www.udemy.com/course/gcp-devops-terraform-iac-azure-devops-cicd-mastercl
 https://www.udemy.com/course/internal-controls-masterclass-design-risk-based-testing/
 https://www.udemy.com/course/ai-ethicsresponsible-use/
 https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/
+https://www.udemy.com/course/ai-primer-for-all-employees-30-min/
+https://www.udemy.com/course/master-ms-word-excel-powerpoint-and-google-doc-google-sheets/
