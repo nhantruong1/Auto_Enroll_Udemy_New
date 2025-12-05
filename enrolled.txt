@@ -10687,3 +10687,11 @@ https://www.udemy.com/course/contract-management-100-questions-and-answers-part-
 https://www.udemy.com/course/succession-planning-mastery/
 https://www.udemy.com/course/pinterest-profit-system-schritt-fur-schritt-zum-einkommen/
 https://www.udemy.com/course/mastering-trade-based-money-laundering-tbml/
+https://www.udemy.com/course/build-a-complete-aspnet-core-url-shortener-app/
+https://www.udemy.com/course/complete-ecommerce-aspnet-mvc-application/
+https://www.udemy.com/course/the-complete-guide-to-aspnet-web-api/
+https://www.udemy.com/course/csharp-beginner-to-advanced/
+https://www.udemy.com/course/gcp-devops-terraform-iac-azure-devops-cicd-masterclass/
+https://www.udemy.com/course/internal-controls-masterclass-design-risk-based-testing/
+https://www.udemy.com/course/ai-ethicsresponsible-use/
+https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/
