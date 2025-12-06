@@ -10708,3 +10708,6 @@ https://www.udemy.com/course/microsoft-excel-practice-test-1500-certified-questi
 https://www.udemy.com/course/dp-100-practice-test-data-science-1500-certified-questions/
 https://www.udemy.com/course/seo-ai-seo-course/
 https://www.udemy.com/course/cobit2019-foundation-practice-test-1500-certified-questions/
+https://www.udemy.com/course/certified-data-management-professional-l/
+https://www.udemy.com/course/python-coding-for-ml-interviews-basics-to-advanced/
+https://www.udemy.com/course/dp-300-practice-test-database-administrator-1500-questions/
