@@ -10745,3 +10745,5 @@ https://www.udemy.com/course/autocad-2d-for-mechanical-design-20-quick-projects/
 https://www.udemy.com/course/master-de/
 https://www.udemy.com/course/design-ai-products/
 https://www.udemy.com/course/the-skills-economy-transforming-into-a-skills-based-org/
+https://www.udemy.com/course/prompt-engineering-intelligenza-artificiale-50-prompt/
+https://www.udemy.com/course/crud-con-php-mysql-y-js-en-el-modelo-mvc/
