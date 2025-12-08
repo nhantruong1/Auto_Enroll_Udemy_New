@@ -10748,3 +10748,5 @@ https://www.udemy.com/course/the-skills-economy-transforming-into-a-skills-based
 https://www.udemy.com/course/prompt-engineering-intelligenza-artificiale-50-prompt/
 https://www.udemy.com/course/crud-con-php-mysql-y-js-en-el-modelo-mvc/
 https://www.udemy.com/course/react-flask-rest-python-mysql-y-chatgpt-ia-app-full-stack-web/
+https://www.udemy.com/course/seo-yapay-zeka/
+https://www.udemy.com/course/excel-ile-gercek-is-raporlar-sfrdan-ustalk-seviyesine/
