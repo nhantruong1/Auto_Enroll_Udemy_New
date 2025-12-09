@@ -10760,3 +10760,4 @@ https://www.udemy.com/course/microsoft-sentinel-end-to-end-soc-implementation-tr
 https://www.udemy.com/course/electrical-safety-training-for-beginner-technicians/
 https://www.udemy.com/course/ai-agents-and-automation/
 https://www.udemy.com/course/aws-cloudops-engineer-associate-soa-c03-1500-questions/
+https://www.udemy.com/course/faa-uas-part-107-practice-questions-2026/
