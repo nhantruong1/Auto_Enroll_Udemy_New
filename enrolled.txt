@@ -10750,3 +10750,8 @@ https://www.udemy.com/course/crud-con-php-mysql-y-js-en-el-modelo-mvc/
 https://www.udemy.com/course/react-flask-rest-python-mysql-y-chatgpt-ia-app-full-stack-web/
 https://www.udemy.com/course/seo-yapay-zeka/
 https://www.udemy.com/course/excel-ile-gercek-is-raporlar-sfrdan-ustalk-seviyesine/
+https://www.udemy.com/course/the-definitive-guide-to-chatgpt-prompts-for-work/
+https://www.udemy.com/course/bluetooth-development/
+https://www.udemy.com/course/break-the-chains-from-broken-to-boundless-mini-course/
+https://www.udemy.com/course/argo-cd-rollouts-gitops/
+https://www.udemy.com/course/growth-hacking-scarcity-marketing-in-the-digital-age/
