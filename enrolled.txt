@@ -10773,3 +10773,8 @@ https://www.udemy.com/course/ml-made-easy-a-2point5-hour-crash-course-with-weka/
 https://www.udemy.com/course/seo-ia-polish/
 https://www.udemy.com/course/synology-dsm-guide-pratique-francais/
 https://www.udemy.com/course/isc2-certified-in-cybersecurity-cc-full-practice-exam-2025/
+https://www.udemy.com/course/5g-cybersecurity/
+https://www.udemy.com/course/iso-50001-lead-auditor/
+https://www.udemy.com/course/vmware-cloud-foundation-52-architect-exam-vcp-vcf/
+https://www.udemy.com/course/comptia-comptia-tech-fc0-u71-x/
+https://www.udemy.com/course/aws-certified-devops-engineer-professional-dop-c02-exam-r/
