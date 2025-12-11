@@ -10793,3 +10793,5 @@ https://www.udemy.com/course/les-microservices-et-spring-boot-au-service-des-ent
 https://www.udemy.com/course/mindful-choices-in-a-complex-world-living-without-regret/
 https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/
 https://www.udemy.com/course/chart-patterns-forex-trading-with-volume-analysis/
+https://www.udemy.com/course/artificial-intelligence-for-entrepreneurs/
+https://www.udemy.com/course/soc-for-blue-teaming-by-hacktify-cyber-security/
