@@ -10791,3 +10791,4 @@ https://www.udemy.com/course/negotiation-skills-mastery/
 https://www.udemy.com/course/cisco-packet-tracer-complete-hands-on-network-training/
 https://www.udemy.com/course/les-microservices-et-spring-boot-au-service-des-entreprises/
 https://www.udemy.com/course/mindful-choices-in-a-complex-world-living-without-regret/
+https://www.udemy.com/course/coding-the-brain-ai-machine-learning-for-bcis/
