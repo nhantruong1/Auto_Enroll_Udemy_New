@@ -10802,3 +10802,7 @@ https://www.udemy.com/course/new-github-copilot-certification-5-practice-exams-2
 https://www.udemy.com/course/snowpro-advanced-architect-certification-1500-questions/
 https://www.udemy.com/course/cybersecurity-defense-with-genai/
 https://www.udemy.com/course/snowpro-advanced-data-engineer-certification-1500-questions/
+https://www.udemy.com/course/python-one-liners/
+https://www.udemy.com/course/master-social-media-automation-with-python/
+https://www.udemy.com/course/python-for-absolute-beginnerz/
+https://www.udemy.com/course/ai-for-mastering-complexity/
