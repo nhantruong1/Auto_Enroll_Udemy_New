@@ -10821,3 +10821,4 @@ https://www.udemy.com/course/flappy-bird-from-scratch-unity6/
 https://www.udemy.com/course/excel-power-pivot-desde-cero/
 https://www.udemy.com/course/beyaz-yakallar-icin-kariyer-yolculugu-sanat/
 https://www.udemy.com/course/iso-90012026understanding-and-implementing-the-new-changes/
+https://www.udemy.com/course/introduction-to-sql23/
