@@ -10834,3 +10834,6 @@ https://www.udemy.com/course/the-psychology-of-stress-and-mental-disorders/
 https://www.udemy.com/course/base44-mastery-build-enterprise-ai-workflow-automations/
 https://www.udemy.com/course/certification-course-snowflake-snowpror-specialty-gen-ai-latest/
 https://www.udemy.com/course/pmi-sp-advanced-project-scheduling-control-techniques/
+https://www.udemy.com/course/python-bootcamp-2025-2026-from-beginner-to-master/
+https://www.udemy.com/course/master-in-data-analysis-numpy-pandas-visualuze-streamlit/
+https://www.udemy.com/course/building-a-self-controlled-car-through-ai-inferences-iot/
