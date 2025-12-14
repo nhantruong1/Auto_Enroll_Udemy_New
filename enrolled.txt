@@ -10839,3 +10839,5 @@ https://www.udemy.com/course/master-in-data-analysis-numpy-pandas-visualuze-stre
 https://www.udemy.com/course/building-a-self-controlled-car-through-ai-inferences-iot/
 https://www.udemy.com/course/equilibre-emotionnel/
 https://www.udemy.com/course/draft/6966295/
+https://www.udemy.com/course/mastering-c-programming-from-basics-to-advanced/
+https://www.udemy.com/course/autocad-2d-for-civil-engineers/
