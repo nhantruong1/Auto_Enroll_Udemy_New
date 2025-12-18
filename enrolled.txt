@@ -10890,3 +10890,12 @@ https://www.udemy.com/course/ai-for-product-and-process-optimization/
 https://www.udemy.com/course/complete-pmp-exam-practice-tests-people-process-business/
 https://www.udemy.com/course/pmp-exam-prep-6-full-tests-1080-questions-25-pdu-jul-25/
 https://www.udemy.com/course/agentic-ai-from-foundations-to-enterprise-grade-systems/
+https://www.udemy.com/course/augmented-reality-in-depth-101-by-debayandey-thnewagetraveller/
+https://www.udemy.com/course/django-framework-mastery-tests/
+https://www.udemy.com/course/flask-web-development-practice-exams/
+https://www.udemy.com/course/laravel-framework-practice-test/
+https://www.udemy.com/course/codeigniter-developer-quiz-pack/
+https://www.udemy.com/course/c-oop-concept-test-series/
+https://www.udemy.com/course/c-developer-certification-practice/
+https://www.udemy.com/course/postgresql-developer-assessment/
+https://www.udemy.com/course/data-structures-algorithms-practice-test/
