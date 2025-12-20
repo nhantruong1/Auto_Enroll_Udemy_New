@@ -10931,3 +10931,4 @@ https://www.udemy.com/course/ai-pentru-operatiuni-strategice-de-resurse-umane-ro
 https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/
 https://www.udemy.com/course/ai-powered-e-commerce-app-with-net-9-angular-20-rag/
 https://www.udemy.com/course/linkedin-ua/
+https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-plotly/
