@@ -10928,3 +10928,5 @@ https://www.udemy.com/course/consumer-sales-training-masterclass-consumer-busine
 https://www.udemy.com/course/airbnb-business-how-to-start-your-airbnb-business/
 https://www.udemy.com/course/how-to-create-video-marketing-in-2020/
 https://www.udemy.com/course/ai-pentru-operatiuni-strategice-de-resurse-umane-ro/
+https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/
+https://www.udemy.com/course/ai-powered-e-commerce-app-with-net-9-angular-20-rag/
