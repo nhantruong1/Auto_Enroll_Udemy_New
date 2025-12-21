@@ -10935,3 +10935,4 @@ https://www.udemy.com/course/python-data-analysis-bootcamp-pandas-seaborn-and-pl
 https://www.udemy.com/course/planner-microsoft/
 https://www.udemy.com/course/cisco-ccnp-ensld-300-420-1500-certified-exam-questions/
 https://www.udemy.com/course/product-marketing-go-to-market/
+https://www.udemy.com/course/primavera-p6-project-planning-scheduling-basic-to-advanced/
