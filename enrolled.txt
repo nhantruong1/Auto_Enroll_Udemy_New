@@ -10937,3 +10937,6 @@ https://www.udemy.com/course/cisco-ccnp-ensld-300-420-1500-certified-exam-questi
 https://www.udemy.com/course/product-marketing-go-to-market/
 https://www.udemy.com/course/primavera-p6-project-planning-scheduling-basic-to-advanced/
 https://www.udemy.com/course/cisco-certified-support-tehnician-ccst-1500-exam-questions/
+https://www.udemy.com/course/sawy-nodejs/
+https://www.udemy.com/course/sql-practice-tests-200-questions-from-basics-to-advanced/
+https://www.udemy.com/course/css-practice-tests-280-questions-from-basics-to-advanced/
