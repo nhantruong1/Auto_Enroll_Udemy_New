@@ -10940,3 +10940,5 @@ https://www.udemy.com/course/cisco-certified-support-tehnician-ccst-1500-exam-qu
 https://www.udemy.com/course/sawy-nodejs/
 https://www.udemy.com/course/sql-practice-tests-200-questions-from-basics-to-advanced/
 https://www.udemy.com/course/css-practice-tests-280-questions-from-basics-to-advanced/
+https://www.udemy.com/course/ai-image-generation-for-business-marketing/
+https://www.udemy.com/course/genai-readiness-implementation-transformation/
