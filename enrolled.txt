@@ -10954,3 +10954,5 @@ https://www.udemy.com/course/pass-cisi-paper-1-economics-markets-for-wealth-mana
 https://www.udemy.com/course/the-ultimate-fifa-agent-exam-prep-6-timed-practice-tests/
 https://www.udemy.com/course/cams-certified-anti-money-laundering-specialist-practice-exa/
 https://www.udemy.com/course/ai-implementation-for-people-managers/
+https://www.udemy.com/course/haskell-tutorial/
+https://www.udemy.com/course/rust-programming-language-z/
