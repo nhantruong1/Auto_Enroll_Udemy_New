@@ -10956,3 +10956,12 @@ https://www.udemy.com/course/cams-certified-anti-money-laundering-specialist-pra
 https://www.udemy.com/course/ai-implementation-for-people-managers/
 https://www.udemy.com/course/haskell-tutorial/
 https://www.udemy.com/course/rust-programming-language-z/
+https://www.udemy.com/course/angular-20-masterclass-build-real-project/
+https://www.udemy.com/course/digital-literacy-and-critical-thinking-online/
+https://www.udemy.com/course/python-programming-for-pcep-beginner-to-certified/
+https://www.udemy.com/course/financial-markets-from-basics-to-advanced/
+https://www.udemy.com/course/ai-ready-hr-practical-skills-for-junior-middle-hr-general/
+https://www.udemy.com/course/supply-chain-risk-management-step-by-step/
+https://www.udemy.com/course/domina-sql-convierte-preguntas-de-negocio-en-respuestas/
+https://www.udemy.com/course/certification-in-devops-with-cloud-docker-ci-cd-ansible/
+https://www.udemy.com/course/ansible-zero-to-hero-with-realtime-framework-pipelines/
