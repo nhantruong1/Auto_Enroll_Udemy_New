@@ -11006,3 +11006,5 @@ https://www.udemy.com/course/pharmaceutical-industry-from-drug-findings-to-marke
 https://www.udemy.com/course/bash-fundamentals-for-linux-users/
 https://www.udemy.com/course/phishing-attacks-defense/
 https://www.udemy.com/course/certified-energy-management-professional-cemp/
+https://www.udemy.com/course/kanban-method/
+https://www.udemy.com/course/linux-system-administration-with-red-hat-fedora/
