@@ -11014,3 +11014,4 @@ https://www.udemy.com/course/iso-19770-1implement-it-asset-management-ham-step-b
 https://www.udemy.com/course/the-ultimate-php-oop-crash-course-for-beginners-2025/
 https://www.udemy.com/course/ai-900-azure-ai-fundamentals-exam/
 https://www.udemy.com/course/jenkins-automation-test-bank/
+https://www.udemy.com/course/complete-hand-on-azure-administrator-training/
