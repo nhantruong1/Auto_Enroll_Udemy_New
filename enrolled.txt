@@ -11018,3 +11018,5 @@ https://www.udemy.com/course/complete-hand-on-azure-administrator-training/
 https://www.udemy.com/course/apache-spark-interview-question-and-answer-100-faq/
 https://www.udemy.com/course/human-anatomy-physiology-structural-organization-of-body/
 https://www.udemy.com/course/osint-pronai-sve-pretrazuj-i-istrazuj-online-hr/
+https://www.udemy.com/course/cto-chief-technology-officer-c-level-ru/
+https://www.udemy.com/course/osint-gasiti-orice-cautati-si-investigati-online-ro/
