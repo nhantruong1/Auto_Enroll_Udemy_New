@@ -11024,3 +11024,4 @@ https://www.udemy.com/course/data-portfolio-builder-sql-data-cleaning-for-dashbo
 https://www.udemy.com/course/osint-trova-qualsiasi-cosa-cerca-e-indaga-online-it/
 https://www.udemy.com/course/google-gemini-for-project-management/
 https://www.udemy.com/course/osint-jp/
+https://www.udemy.com/course/sql-mysql-course-ru/
