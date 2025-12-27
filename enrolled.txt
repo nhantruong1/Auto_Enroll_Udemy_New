@@ -11026,3 +11026,5 @@ https://www.udemy.com/course/google-gemini-for-project-management/
 https://www.udemy.com/course/osint-jp/
 https://www.udemy.com/course/sql-mysql-course-ru/
 https://www.udemy.com/course/iso-27004-implement-isms-measurement-step-by-step/
+https://www.udemy.com/course/cisco-ccnp-firewalls-300-710-exam-test-1500-questions/
+https://www.udemy.com/course/javascript-interview-practice-tests/
