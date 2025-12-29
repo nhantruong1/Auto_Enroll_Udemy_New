@@ -11047,3 +11047,4 @@ https://www.udemy.com/course/diversity-inclusion-unconscious-bias-in-hindi/
 https://www.udemy.com/course/product-management-product-ownership-in-hindi/
 https://www.udemy.com/course/fullstack-web-development-course-projects-base/
 https://www.udemy.com/course/nodejs-projects-bootcamp-learn-by-doing/
+https://www.udemy.com/course/ai-agents-flowise/
