@@ -11051,3 +11051,6 @@ https://www.udemy.com/course/ai-agents-flowise/
 https://www.udemy.com/course/learn-java-programming-from-a-vtuber/
 https://www.udemy.com/course/program-management-step-by-step/
 https://www.udemy.com/course/low-code-no-code-mastery/
+https://www.udemy.com/course/practical-nist-risk-management-framework-implementation/
+https://www.udemy.com/course/computer-vision-mastery-real-time-projects-opencv-python-ai-yolo/
+https://www.udemy.com/course/real-estate-tokenization/
