@@ -11049,3 +11049,5 @@ https://www.udemy.com/course/fullstack-web-development-course-projects-base/
 https://www.udemy.com/course/nodejs-projects-bootcamp-learn-by-doing/
 https://www.udemy.com/course/ai-agents-flowise/
 https://www.udemy.com/course/learn-java-programming-from-a-vtuber/
+https://www.udemy.com/course/program-management-step-by-step/
+https://www.udemy.com/course/low-code-no-code-mastery/
