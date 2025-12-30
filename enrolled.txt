@@ -11055,3 +11055,5 @@ https://www.udemy.com/course/practical-nist-risk-management-framework-implementa
 https://www.udemy.com/course/computer-vision-mastery-real-time-projects-opencv-python-ai-yolo/
 https://www.udemy.com/course/real-estate-tokenization/
 https://www.udemy.com/course/gen-ai-customer-success/
+https://www.udemy.com/course/openai-chatgpt-for-business/
+https://www.udemy.com/course/mastering-ai-and-data-analysis-with-jmp-software/
