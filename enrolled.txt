@@ -11083,3 +11083,5 @@ https://www.udemy.com/course/get-your-point-across-clearly-and-succinctly/
 https://www.udemy.com/course/werde-ein-kompetenter-vertrauensmentor-de/
 https://www.udemy.com/course/cto-chief-technology-officer-en/
 https://www.udemy.com/course/modern-posh/
+https://www.udemy.com/course/mastering-linux-system-administration-and-troubleshooting/
+https://www.udemy.com/course/secure-and-hardening-linux/
