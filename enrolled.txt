@@ -11096,3 +11096,9 @@ https://www.udemy.com/course/creating-a-product-centric-organization-f/
 https://www.udemy.com/course/isoiec-27033-network-security/
 https://www.udemy.com/course/prospection-linkedin-automatisee-avec-un-agent-ia-limova/
 https://www.udemy.com/course/complete-ai-agent-practical-course-c-aipc/
+https://www.udemy.com/course/build-realtime-data-dashboard-with-awspythonkafkagrafana/
+https://www.udemy.com/course/lovable-ai/
+https://www.udemy.com/course/microsoft-excel-master-data-analysis-cleaning-dashboards/
+https://www.udemy.com/course/excel-formulas-and-functions-tips-tricks-and-shortcuts/
+https://www.udemy.com/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/
+https://www.udemy.com/course/automatiser-youtube-avec-lia-workflow-n8n/
