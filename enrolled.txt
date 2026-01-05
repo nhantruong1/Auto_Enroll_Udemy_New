@@ -11158,3 +11158,4 @@ https://www.udemy.com/course/dbms-mcq/
 https://www.udemy.com/course/java-build-tools-maven-gradle-practice-questions/
 https://www.udemy.com/course/interior-design-for-living-room-simple-fast/
 https://www.udemy.com/course/scrum-master-certification-psm-i-exam-jira-training/
+https://www.udemy.com/course/iso-42005-ai-impact-assessment-practical-implementation/
