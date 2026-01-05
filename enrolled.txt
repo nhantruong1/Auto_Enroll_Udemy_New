@@ -11150,3 +11150,9 @@ https://www.udemy.com/course/generative-ai-the-ultimate-guide/
 https://www.udemy.com/course/400-oops-interview-questions-practice-test/
 https://www.udemy.com/course/angular-interview-questions/
 https://www.udemy.com/course/400-javascript-interview-questions-practice-test/
+https://www.udemy.com/course/excel-kopiertool-mit-vba-makros/
+https://www.udemy.com/course/curso-net/
+https://www.udemy.com/course/node-js-developer-interview-questions/
+https://www.udemy.com/course/angular-developer-interview-questions/
+https://www.udemy.com/course/dbms-mcq/
+https://www.udemy.com/course/java-build-tools-maven-gradle-practice-questions/
