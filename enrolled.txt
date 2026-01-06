@@ -11180,3 +11180,4 @@ https://www.udemy.com/course/certified-cloud-native-platform-engineering-associa
 https://www.udemy.com/course/ethical-hacker-cerfification-v13-practice-exams/
 https://www.udemy.com/course/kca-kyverno-certified-associate-practice-exams/
 https://www.udemy.com/course/cba-certified-backstage-associate-practice-exams/
+https://www.udemy.com/course/samoalex/
