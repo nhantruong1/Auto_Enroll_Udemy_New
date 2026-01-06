@@ -11160,3 +11160,6 @@ https://www.udemy.com/course/interior-design-for-living-room-simple-fast/
 https://www.udemy.com/course/scrum-master-certification-psm-i-exam-jira-training/
 https://www.udemy.com/course/iso-42005-ai-impact-assessment-practical-implementation/
 https://www.udemy.com/course/applied-prompt-engineering-for-ai-systems/
+https://www.udemy.com/course/c-unboxed-programming-language/
+https://www.udemy.com/course/principios-de-pruebas-software/
+https://www.udemy.com/course/human-judgment-in-the-age-of-ai/
