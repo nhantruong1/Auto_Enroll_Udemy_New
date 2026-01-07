@@ -11200,3 +11200,11 @@ https://www.udemy.com/course/leadership-in-the-modern-age/
 https://www.udemy.com/course/microsoft-azure-certifications-complete-preparation-exam/
 https://www.udemy.com/course/ccnp-enterprise-encor-350-401-complete-preparation-exam/
 https://www.udemy.com/course/masterclass-lean-six-sigma-examens-pratiques-pour-reussir/
+https://www.udemy.com/course/monitoring-and-maintaining-genai-systems-e/
+https://www.udemy.com/course/java-oop-fundamentals-questions/
+https://www.udemy.com/course/java-performance-optimization-questions/
+https://www.udemy.com/course/java-app-development-questions/
+https://www.udemy.com/course/java-stream-api-questions/
+https://www.udemy.com/course/java-testing-test-automation-questions/
+https://www.udemy.com/course/java-spring-framework-questions/
+https://www.udemy.com/course/java-annotations-questions/
