@@ -11214,3 +11214,6 @@ https://www.udemy.com/course/az-400-microsoft-azure-devops-solutions-practice-ex
 https://www.udemy.com/course/az-500-azure-security-engineer-associate-practice-exams/
 https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-exams-i/
 https://www.udemy.com/course/az-801-windows-server-hybrid-advanced-services-prep-tests-s/
+https://www.udemy.com/course/vcp-cloud-foundation-architect-design-2v01325-exam/
+https://www.udemy.com/course/az-305-designing-microsoft-azure-infrastructure-solutions-s/
+https://www.udemy.com/course/f5-as3-api-automation-practice-test-1500-exam-questions/
