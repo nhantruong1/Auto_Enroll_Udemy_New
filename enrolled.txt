@@ -11217,3 +11217,5 @@ https://www.udemy.com/course/az-801-windows-server-hybrid-advanced-services-prep
 https://www.udemy.com/course/vcp-cloud-foundation-architect-design-2v01325-exam/
 https://www.udemy.com/course/az-305-designing-microsoft-azure-infrastructure-solutions-s/
 https://www.udemy.com/course/f5-as3-api-automation-practice-test-1500-exam-questions/
+https://www.udemy.com/course/kali-linux-from-scratch-for-ethical-hackers-2024-in-arabic/
+https://www.udemy.com/course/lean-six-sigma-white-belt-certification-course/
