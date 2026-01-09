@@ -11231,3 +11231,8 @@ https://www.udemy.com/course/practice-exams-for-chfi-certification-unofficial/
 https://www.udemy.com/course/strategic-workplace-communication-intent-and-method/
 https://www.udemy.com/course/neural-signal-processing-applied-ai/
 https://www.udemy.com/course/aws-certified-ai-practitioner-6-practice-exams/
+https://www.udemy.com/course/java-exception-handling-questions/
+https://www.udemy.com/course/java-file-handling-io-streams-questions/
+https://www.udemy.com/course/java-generics-questions/
+https://www.udemy.com/course/java-gui-programming-questions/
+https://www.udemy.com/course/java-jdbc-database-programming-questions/
