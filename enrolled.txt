@@ -11239,3 +11239,5 @@ https://www.udemy.com/course/java-jdbc-database-programming-questions/
 https://www.udemy.com/course/java-lambda-expressions-questions/
 https://www.udemy.com/course/java-memory-management-questions/
 https://www.udemy.com/course/java-multithreading-concurrency-questions/
+https://www.udemy.com/course/clojures-core-syntax/
+https://www.udemy.com/course/julias-core-syntax/
