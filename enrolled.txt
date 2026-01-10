@@ -11241,3 +11241,5 @@ https://www.udemy.com/course/java-memory-management-questions/
 https://www.udemy.com/course/java-multithreading-concurrency-questions/
 https://www.udemy.com/course/clojures-core-syntax/
 https://www.udemy.com/course/julias-core-syntax/
+https://www.udemy.com/course/immunotechnology-online-course/
+https://www.udemy.com/course/a-comprehensive-study-of-virology/
