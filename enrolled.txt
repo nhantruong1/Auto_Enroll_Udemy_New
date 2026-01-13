@@ -11281,3 +11281,4 @@ https://www.udemy.com/course/full-stack-ai-engineer-deep-learning-ii/
 https://www.udemy.com/course/practice-tests-databricks-associate-apache-spark-developer/
 https://www.udemy.com/course/practice-tests-for-databricks-machine-learning-associate/
 https://www.udemy.com/course/wordpress-web-development-in-urduhindi-beginner-to-pro/
+https://www.udemy.com/course/mcp-for-devs-master-model-context-protocol/
