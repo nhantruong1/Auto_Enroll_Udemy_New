@@ -11312,3 +11312,4 @@ https://www.udemy.com/course/certified-business-analytics-decision-making/
 https://www.udemy.com/course/certified-ab-testing-experimental-design/
 https://www.udemy.com/course/certified-statistical-modelling-inference/
 https://www.udemy.com/course/certified-deep-learning-with-neural-networks/
+https://www.udemy.com/course/google-gemini-for-marketers-strategy-and-ai-thinking/
