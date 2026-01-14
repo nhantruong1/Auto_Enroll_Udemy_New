@@ -11301,3 +11301,9 @@ https://www.udemy.com/course/learn-kotlin-for-android-android-app-development-bo
 https://www.udemy.com/course/complete-css-web-design-course-front-end-web-development/
 https://www.udemy.com/course/safeguarding-adults-vulnerable-people-expert-training/
 https://www.udemy.com/course/car-can-bus/
+https://www.udemy.com/course/az-700-designing-azure-networking-practice-exam-2026/
+https://www.udemy.com/course/77-727-office-specialist-excel-office-2016-exam-2026/
+https://www.udemy.com/course/certified-generative-ai-transformers/
+https://www.udemy.com/course/certified-big-data-analytics-hadoop-spark/
+https://www.udemy.com/course/certified-data-engineering-pipelines/
+https://www.udemy.com/course/certified-predictive-modeling-regression/
