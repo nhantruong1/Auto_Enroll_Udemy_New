@@ -11307,3 +11307,8 @@ https://www.udemy.com/course/certified-generative-ai-transformers/
 https://www.udemy.com/course/certified-big-data-analytics-hadoop-spark/
 https://www.udemy.com/course/certified-data-engineering-pipelines/
 https://www.udemy.com/course/certified-predictive-modeling-regression/
+https://www.udemy.com/course/certified-reinforcement-learning/
+https://www.udemy.com/course/certified-business-analytics-decision-making/
+https://www.udemy.com/course/certified-ab-testing-experimental-design/
+https://www.udemy.com/course/certified-statistical-modelling-inference/
+https://www.udemy.com/course/certified-deep-learning-with-neural-networks/
