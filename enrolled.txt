@@ -11326,3 +11326,7 @@ https://www.udemy.com/course/sql-for-data-science-and-data-analysisbeginner-to-a
 https://www.udemy.com/course/manifest-your-desires-by-finding-your-trueself/
 https://www.udemy.com/course/a-collection-of-mind-videos-mind-movies/
 https://www.udemy.com/course/master-programming-with-c-and-c-from-beginner-to-advanced/
+https://www.udemy.com/course/yaml-fundamentals-compete-course/
+https://www.udemy.com/course/master-html-for-modern-web-design-front-end-web-development/
+https://www.udemy.com/course/csm-adopt-proven-sales-strategies-for-retention-and-growth/
+https://www.udemy.com/course/certified-in-agile-management-mcq-exam-preparation/
