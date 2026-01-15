@@ -11337,3 +11337,5 @@ https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03
 https://www.udemy.com/course/digital-marketing-certification-mcq-exam-preparation/
 https://www.udemy.com/course/certified-in-digital-marketing-mcq-exam-preparation/
 https://www.udemy.com/course/wie-wir-unser-gluck-und-unsere-zufriedenheit-steigern-konnen/
+https://www.udemy.com/course/all-in-one-java-spring-boot-spring-and-hibernate/
+https://www.udemy.com/course/the-self-help-masterclass-life-lessons-from-books/
