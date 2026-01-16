@@ -11346,3 +11346,7 @@ https://www.udemy.com/course/simple-ai-prompting-system-for-beginners-the-new-5w
 https://www.udemy.com/course/the-ultimate-ai-engineer-job-preparation-course-2026/
 https://www.udemy.com/course/curso-practico-de-customer-success-con-ia-generativa/
 https://www.udemy.com/course/unofficial-tests-for-multimodal-generative-ai-associate-c/
+https://www.udemy.com/course/enterprise-api-management-using-apigee-x-and-genai-strategies/
+https://www.udemy.com/course/analisis-de-datos-con-ia-y-python-en-10-dias-de-0-a-reporte/
+https://www.udemy.com/course/build-high-converting-landing-pages-with-chatgpt/
+https://www.udemy.com/course/sap-transportation-management-certification-prep-exam/
