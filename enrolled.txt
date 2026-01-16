@@ -11340,3 +11340,6 @@ https://www.udemy.com/course/wie-wir-unser-gluck-und-unsere-zufriedenheit-steige
 https://www.udemy.com/course/all-in-one-java-spring-boot-spring-and-hibernate/
 https://www.udemy.com/course/the-self-help-masterclass-life-lessons-from-books/
 https://www.udemy.com/course/microsoft-excel-formulas-functions-masterclass/
+https://www.udemy.com/course/ai-for-business-analysts-z/
+https://www.udemy.com/course/manus-ai-mastery-build-real-world-projects-with-ai-agents/
+https://www.udemy.com/course/simple-ai-prompting-system-for-beginners-the-new-5w-method/
