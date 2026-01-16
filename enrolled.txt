@@ -11355,3 +11355,4 @@ https://www.udemy.com/course/daily-time-management-for-busy-beginners/
 https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-ufunc-machine-learning/
 https://www.udemy.com/course/complete-guide-to-python-data-structures-and-algorithms-cour/
 https://www.udemy.com/course/practice-tests-for-databricks-data-engineer-professional/
+https://www.udemy.com/course/react-js-masterclass-zero-to-job-ready/
