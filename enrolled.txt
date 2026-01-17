@@ -11367,3 +11367,5 @@ https://www.udemy.com/course/technology-career-readiness-assessment-tests/
 https://www.udemy.com/course/un-official-cisco-200-901-devnet-associate-devasc/
 https://www.udemy.com/course/mongodb-interview-questions-test/
 https://www.udemy.com/course/certified-safety-manager/
+https://www.udemy.com/course/python-for-mlops/
+https://www.udemy.com/course/certified-in-risk-and-information-systems-control-crisc-c/
