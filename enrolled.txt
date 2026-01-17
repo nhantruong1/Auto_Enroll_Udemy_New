@@ -11357,3 +11357,5 @@ https://www.udemy.com/course/complete-guide-to-python-data-structures-and-algori
 https://www.udemy.com/course/practice-tests-for-databricks-data-engineer-professional/
 https://www.udemy.com/course/react-js-masterclass-zero-to-job-ready/
 https://www.udemy.com/course/implement-balanced-scorecards-step-by-step-p/
+https://www.udemy.com/course/full-stack-ai-engineer-2026-generative-ai-llms-iii/
+https://www.udemy.com/course/certificacion-ccna-version-200-301/
