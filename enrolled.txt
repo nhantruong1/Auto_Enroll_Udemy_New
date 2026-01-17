@@ -11359,3 +11359,6 @@ https://www.udemy.com/course/react-js-masterclass-zero-to-job-ready/
 https://www.udemy.com/course/implement-balanced-scorecards-step-by-step-p/
 https://www.udemy.com/course/full-stack-ai-engineer-2026-generative-ai-llms-iii/
 https://www.udemy.com/course/certificacion-ccna-version-200-301/
+https://www.udemy.com/course/curso-completo-seguridad-informatica-achirou-chirou-alvaro/
+https://www.udemy.com/course/draft/7016339/
+https://www.udemy.com/course/conscientizacaociberseguranca/
