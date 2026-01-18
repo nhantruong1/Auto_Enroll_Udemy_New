@@ -11379,3 +11379,4 @@ https://www.udemy.com/course/artificial-intelligence-and-cybersecurity-expert-ex
 https://www.udemy.com/course/active-directory-and-samba-integration-mastery-2025-edition/
 https://www.udemy.com/course/project-management-certification-mcq-exam-preparation/
 https://www.udemy.com/course/certified-in-project-management-mcq-exam-preparation/
+https://www.udemy.com/course/new-aws-certified-cloud-practitioner-exam-clf-c02/
