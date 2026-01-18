@@ -11371,3 +11371,5 @@ https://www.udemy.com/course/python-for-mlops/
 https://www.udemy.com/course/certified-in-risk-and-information-systems-control-crisc-c/
 https://www.udemy.com/course/the-fundamentals-of-inheritance-tax-in-uk-tax-system/
 https://www.udemy.com/course/istqb-certified-tester-foundation-level-ctfl-test/
+https://www.udemy.com/course/the-empty-chair-finding-hope-beyond-griefs-silent-rocking/
+https://www.udemy.com/course/vmware-cloud-foundation-support-2v0-1525-practice-exam/
