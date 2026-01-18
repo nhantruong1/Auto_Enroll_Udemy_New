@@ -11380,3 +11380,10 @@ https://www.udemy.com/course/active-directory-and-samba-integration-mastery-2025
 https://www.udemy.com/course/project-management-certification-mcq-exam-preparation/
 https://www.udemy.com/course/certified-in-project-management-mcq-exam-preparation/
 https://www.udemy.com/course/new-aws-certified-cloud-practitioner-exam-clf-c02/
+https://www.udemy.com/course/crea-apis-rest-con-spring-boot-y-mysql-guia-practica/
+https://www.udemy.com/course/linked-list-mcq/
+https://www.udemy.com/course/c-programming-mcq/
+https://www.udemy.com/course/machine-learning-mcq/
+https://www.udemy.com/course/tests-de-preparation-pour-la-certification-pmp-2026-2027/
+https://www.udemy.com/course/ace-your-pmp-exam-master-pmp-questions-for-certification/
+https://www.udemy.com/course/pmp-aprobado-domina-las-preguntas-clave-g/
