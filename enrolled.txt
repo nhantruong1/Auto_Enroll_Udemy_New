@@ -11411,3 +11411,5 @@ https://www.udemy.com/course/laravel-interview-questions/
 https://www.udemy.com/course/android-interview-questions-test/
 https://www.udemy.com/course/iso-17020-lead-auditor-course-clause-by-clause/
 https://www.udemy.com/course/automation-testing-interview-questions/
+https://www.udemy.com/course/implement-isoiec-38500-it-governance-made-simple-x/
+https://www.udemy.com/course/software-testing-interview-questions/
