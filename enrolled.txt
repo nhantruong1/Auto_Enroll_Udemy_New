@@ -11392,3 +11392,4 @@ https://www.udemy.com/course/artificial-intelligence-mcq/
 https://www.udemy.com/course/advanced-microsoft-project-desktop-and-online-versions/
 https://www.udemy.com/course/english-placement-test/
 https://www.udemy.com/course/complete-devsecops-training-land-your-dream-it-job/
+https://www.udemy.com/course/the-complete-php-laravel-12-course-learn-advanced-basics/
