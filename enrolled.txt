@@ -11418,3 +11418,5 @@ https://www.udemy.com/course/best-llm/
 https://www.udemy.com/course/rest-api-interview-questions/
 https://www.udemy.com/course/aws-hands-on-guide-build-and-deploy-full-cloud-architecture/
 https://www.udemy.com/course/critical-thinking-with-ai-the-complete-guide/
+https://www.udemy.com/course/hiragana-japones-lo-basico-explicado-facil/
+https://www.udemy.com/course/ai-enginner-2026-complete-course-gen-ai-deep-machine-llm/
