@@ -11427,3 +11427,7 @@ https://www.udemy.com/course/ru-networking/
 https://www.udemy.com/course/prince2-certification-mcq-exam-preparation-live-0m/
 https://www.udemy.com/course/tree-risk-inspection-basics-assessing-for-health-and-safety/
 https://www.udemy.com/course/vcp-vmware-cloud-foundation-administrator-2v0-1725-exam/
+https://www.udemy.com/course/object-oriented-programming-oops-mcq/
+https://www.udemy.com/course/data-structures-mcq/
+https://www.udemy.com/course/certified-in-prince2-mcq-exam-preparation/
+https://www.udemy.com/course/python-ornekleri/
