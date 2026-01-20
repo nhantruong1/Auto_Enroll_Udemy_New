@@ -11416,3 +11416,5 @@ https://www.udemy.com/course/software-testing-interview-questions/
 https://www.udemy.com/course/pmp-certification-2026-8th-ed-update/
 https://www.udemy.com/course/best-llm/
 https://www.udemy.com/course/rest-api-interview-questions/
+https://www.udemy.com/course/aws-hands-on-guide-build-and-deploy-full-cloud-architecture/
+https://www.udemy.com/course/critical-thinking-with-ai-the-complete-guide/
