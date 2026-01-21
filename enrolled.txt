@@ -11437,3 +11437,4 @@ https://www.udemy.com/course/creacion-de-apis-rest-con-flask-y-sql-server/
 https://www.udemy.com/course/exam-az-140-microsoft-azure-virtual-desktop-practice-exam/
 https://www.udemy.com/course/ai-900-microsoft-azure-ai-practice-exams-2026/
 https://www.udemy.com/course/ai-102-microsoft-azure-ai-solution-practice-exams-2026/
+https://www.udemy.com/course/ai-cybersecurity-for-beginners/
