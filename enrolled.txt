@@ -11432,3 +11432,5 @@ https://www.udemy.com/course/data-structures-mcq/
 https://www.udemy.com/course/certified-in-prince2-mcq-exam-preparation/
 https://www.udemy.com/course/python-ornekleri/
 https://www.udemy.com/course/supercharge-your-linux-workflow-with-chatgpt/
+https://www.udemy.com/course/microsoft-excel-masterclass-learn-excel-step-by-step/
+https://www.udemy.com/course/creacion-de-apis-rest-con-flask-y-sql-server/
