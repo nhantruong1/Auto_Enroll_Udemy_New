@@ -11456,3 +11456,7 @@ https://www.udemy.com/course/certified-professional-in-python-programming-practi
 https://www.udemy.com/course/data-analysis-practice-test/
 https://www.udemy.com/course/oracle-database-practice-test-master-architecture/
 https://www.udemy.com/course/become-a-certified-javascript-developer-practice-tests/
+https://www.udemy.com/course/chinese-level-1/
+https://www.udemy.com/course/python-universidad/
+https://www.udemy.com/course/project-management-course-masterclass/
+https://www.udemy.com/course/scrum-master-certification-prepartion-course/
