@@ -11447,3 +11447,5 @@ https://www.udemy.com/course/web-development-with-wordpress-build-professional-w
 https://www.udemy.com/course/online-business-course/
 https://www.udemy.com/course/mastering-agentic-ai-from-prompt-to-protocols-to-production/
 https://www.udemy.com/course/life-coach-training-course/
+https://www.udemy.com/course/projektmanagement-mit-excel/
+https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists/
