@@ -11483,3 +11483,4 @@ https://www.udemy.com/course/analisis-de-datos-con-python-desde-excel/
 https://www.udemy.com/course/microsoft-az-900-azure-fundamentals-practice-exams-2026/
 https://www.udemy.com/course/draft/7025587/
 https://www.udemy.com/course/iso-31000-risk-management-lead-auditor-clause-by-clause/
+https://www.udemy.com/course/top-10-web-application-attacks-from-owasp-2025-edition/
