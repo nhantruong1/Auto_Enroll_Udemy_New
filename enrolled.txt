@@ -11479,3 +11479,4 @@ https://www.udemy.com/course/verilog-hdl-mastery-from-syntax-to-complex-systems/
 https://www.udemy.com/course/business-leadership-strategic-management-executive-program/
 https://www.udemy.com/course/microelectromechanical-systems-2-design-principles/
 https://www.udemy.com/course/iso-28000-sems-lead-auditor-course-clause-by-clause/
+https://www.udemy.com/course/analisis-de-datos-con-python-desde-excel/
