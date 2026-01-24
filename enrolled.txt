@@ -11490,3 +11490,4 @@ https://www.udemy.com/course/executive-certificate-in-strategic-leadership/
 https://www.udemy.com/course/winning-back-a-lost-customer/
 https://www.udemy.com/course/implement-isoiec-27701-step-by-step/
 https://www.udemy.com/course/iso-27701-pims-lead-auditor-course-clause-by-clause/
+https://www.udemy.com/course/vmw-cloud-foundation-vsphere-kubernetes-service-3v0-2425/
