@@ -11506,3 +11506,5 @@ https://www.udemy.com/course/iso-22301-lead-auditor-course-bcms-clause-by-clause
 https://www.udemy.com/course/whistleblower-protection-legal-frameworks-ethics/
 https://www.udemy.com/course/fhir-fast-healthcare-interoperability-resources/
 https://www.udemy.com/course/practical-agentic-ai-rag-planning-vector-search/
+https://www.udemy.com/course/sap-certified-application-associate-sap-s4hana-sales-prep/
+https://www.udemy.com/course/medical-device-regulations-mdr-essentials/
