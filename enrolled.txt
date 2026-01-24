@@ -11503,3 +11503,6 @@ https://www.udemy.com/course/iso-29993-lead-auditor-course-clause-by-clause/
 https://www.udemy.com/course/auditor-lider-iso-90012015-una-guia-practica/
 https://www.udemy.com/course/isoiec-20000-it-service-management-system-itsms/
 https://www.udemy.com/course/iso-22301-lead-auditor-course-bcms-clause-by-clause/
+https://www.udemy.com/course/whistleblower-protection-legal-frameworks-ethics/
+https://www.udemy.com/course/fhir-fast-healthcare-interoperability-resources/
+https://www.udemy.com/course/practical-agentic-ai-rag-planning-vector-search/
