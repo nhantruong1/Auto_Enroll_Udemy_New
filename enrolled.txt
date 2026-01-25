@@ -11524,3 +11524,4 @@ https://www.udemy.com/course/javascript-programming-course-build-100-projects-in
 https://www.udemy.com/course/iso-19011-lead-auditor-course-clause-by-clause/
 https://www.udemy.com/course/workforce-italian-it/
 https://www.udemy.com/course/headhunting-und-executive-search-fur-personalvermittler-de/
+https://www.udemy.com/course/aws-certified-generative-ai-developer-practice-test/
