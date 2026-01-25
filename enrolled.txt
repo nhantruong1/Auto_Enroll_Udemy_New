@@ -11530,3 +11530,5 @@ https://www.udemy.com/course/personalplanung-optimierung-und-bedarfsprognose-de/
 https://www.udemy.com/course/stellenbewertung-grading-fur-faire-gehaltsstrukturen-de/
 https://www.udemy.com/course/javascript-10-projects-in-10-days-beginner-friendly-hands/
 https://www.udemy.com/course/vergutung-benefits-cb-im-total-rewards-system-de/
+https://www.udemy.com/course/red-hat-certified-engineer-rhce-ex294-practice-exam/
+https://www.udemy.com/course/red-hat-certified-openshift-administrator-ex280-2026/
