@@ -11539,3 +11539,4 @@ https://www.udemy.com/course/microsoft-foundry-build-orchestrate-and-automate-ai
 https://www.udemy.com/course/full-stack-web-development-html-css-javascript-bootstrap-react-js/
 https://www.udemy.com/course/php-symfony-7-build-a-complete-cms-blog-system-2025/
 https://www.udemy.com/course/pl-200-microsoft-power-platform-practice-tests-quiz-2026/
+https://www.udemy.com/course/deepseek-ai-masterclass-ai-search-insights-productivity/
