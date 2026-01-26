@@ -11535,3 +11535,5 @@ https://www.udemy.com/course/red-hat-certified-openshift-administrator-ex280-202
 https://www.udemy.com/course/youtube-seo-secrets-course/
 https://www.udemy.com/course/why-smart-people-still-get-phished/
 https://www.udemy.com/course/examen-cisco-ccna-100-preguntas/
+https://www.udemy.com/course/microsoft-foundry-build-orchestrate-and-automate-ai-agent/
+https://www.udemy.com/course/full-stack-web-development-html-css-javascript-bootstrap-react-js/
