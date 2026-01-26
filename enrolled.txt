@@ -11537,3 +11537,4 @@ https://www.udemy.com/course/why-smart-people-still-get-phished/
 https://www.udemy.com/course/examen-cisco-ccna-100-preguntas/
 https://www.udemy.com/course/microsoft-foundry-build-orchestrate-and-automate-ai-agent/
 https://www.udemy.com/course/full-stack-web-development-html-css-javascript-bootstrap-react-js/
+https://www.udemy.com/course/php-symfony-7-build-a-complete-cms-blog-system-2025/
