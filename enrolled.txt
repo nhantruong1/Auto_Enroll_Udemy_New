@@ -11548,3 +11548,4 @@ https://www.udemy.com/course/flash-photography-x/
 https://www.udemy.com/course/typescript-desde-cero/
 https://www.udemy.com/course/certified-hr-analytics-pro/
 https://www.udemy.com/course/career-growth-job-placement-master-course/
+https://www.udemy.com/course/practice-exams-for-salesforce-platform-integration-architect/
