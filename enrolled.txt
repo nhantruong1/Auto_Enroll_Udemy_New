@@ -11550,3 +11550,9 @@ https://www.udemy.com/course/certified-hr-analytics-pro/
 https://www.udemy.com/course/career-growth-job-placement-master-course/
 https://www.udemy.com/course/practice-exams-for-salesforce-platform-integration-architect/
 https://www.udemy.com/course/randomness-probability-and-simulation/
+https://www.udemy.com/course/total-beginner-value-investing-for-shares-with-aunty-mindset/
+https://www.udemy.com/course/vuejs-masterclass-build-interactive-web-apps-quickly/
+https://www.udemy.com/course/python-with-machine-learning-start-building-ai-models-today/
+https://www.udemy.com/course/c-modern-c-programming-language-made-easy/
+https://www.udemy.com/course/c-programming-language-mastery-learn-c-from-scratch/
+https://www.udemy.com/course/pivot-tables-in-microsoft-excel-pivot-table-data-analysis/
