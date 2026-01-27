@@ -11556,3 +11556,5 @@ https://www.udemy.com/course/python-with-machine-learning-start-building-ai-mode
 https://www.udemy.com/course/c-modern-c-programming-language-made-easy/
 https://www.udemy.com/course/c-programming-language-mastery-learn-c-from-scratch/
 https://www.udemy.com/course/pivot-tables-in-microsoft-excel-pivot-table-data-analysis/
+https://www.udemy.com/course/data-science-machine-learning-interview-projects/
+https://www.udemy.com/course/cbt-mastery-integrative-cbt-for-anxiety-trauma-change/
