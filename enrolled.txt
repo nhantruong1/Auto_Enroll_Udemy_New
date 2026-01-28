@@ -11567,3 +11567,9 @@ https://www.udemy.com/course/sequences-and-series-l/
 https://www.udemy.com/course/introduccion-a-bootstrap-5/
 https://www.udemy.com/course/emotional-intelligence-masterclass-build-ei-for-life-work/
 https://www.udemy.com/course/pmi-cpmai-certification-practice-exams-2026/
+https://www.udemy.com/course/html-css-the-complete-web-development-guide/
+https://www.udemy.com/course/postgresql-database-administration-complete-course/
+https://www.udemy.com/course/c-bootcamp-job-ready-skills-for-net-development/
+https://www.udemy.com/course/complete-sql-course-become-an-expert-in-database-management/
+https://www.udemy.com/course/python-data-analysis-matplotlib-seaborn-pandas-numpy/
+https://www.udemy.com/course/learn-to-air-brush-beginners-crash-course/
