@@ -11611,3 +11611,4 @@ https://www.udemy.com/course/decodeanyone/
 https://www.udemy.com/course/learn-excel-step-by-step-beginner-to-confident-user/
 https://www.udemy.com/course/react-js-mcq/
 https://www.udemy.com/course/java-classes-objects-questions/
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-clf-c02-2026/
