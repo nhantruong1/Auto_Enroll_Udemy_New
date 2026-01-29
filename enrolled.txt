@@ -11591,3 +11591,8 @@ https://www.udemy.com/course/az900-microsoft-azure-fundamentals/
 https://www.udemy.com/course/create-an-effective-business-case/
 https://www.udemy.com/course/practice-exams-for-salesforce-application-architect/
 https://www.udemy.com/course/the-basics-of-surface-treatment-technologies/
+https://www.udemy.com/course/machine-learning-ai-neural-networks-a-complete-course/
+https://www.udemy.com/course/ai-models-mastery-chatgpt-gemini-and-deepseek/
+https://www.udemy.com/course/python-for-data-science-the-complete-data-science-bootcamp/
+https://www.udemy.com/course/mysql-database-management-create-manage-query-database/
+https://www.udemy.com/course/data-structures-and-algorithms-complete-developers-guide/
