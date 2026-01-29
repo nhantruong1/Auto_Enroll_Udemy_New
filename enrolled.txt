@@ -11596,3 +11596,9 @@ https://www.udemy.com/course/ai-models-mastery-chatgpt-gemini-and-deepseek/
 https://www.udemy.com/course/python-for-data-science-the-complete-data-science-bootcamp/
 https://www.udemy.com/course/mysql-database-management-create-manage-query-database/
 https://www.udemy.com/course/data-structures-and-algorithms-complete-developers-guide/
+https://www.udemy.com/course/nang-luc-goc-bedrock-thinking-luat-nen-chi-phoi-ket-qua/
+https://www.udemy.com/course/node-js-mcq/
+https://www.udemy.com/course/angular-mcq/
+https://www.udemy.com/course/java-control-flow-questions/
+https://www.udemy.com/course/draft/7006821/
+https://www.udemy.com/course/autocad-civil-3d-step-by-step-training/
