@@ -11638,3 +11638,4 @@ https://www.udemy.com/course/the-complete-mongodb-build-scale-query-nosql-databa
 https://www.udemy.com/course/data-structures-and-algorithms-in-practice-learn-by-coding/
 https://www.udemy.com/course/5-day-menopause-reset-with-e-book/
 https://www.udemy.com/course/new-ai900-azure-ai-fundamentals-5-practice-exams-2026/
+https://www.udemy.com/course/the-complete-php-object-oriented-programming-course-2025/
