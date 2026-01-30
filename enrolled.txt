@@ -11630,3 +11630,8 @@ https://www.udemy.com/course/crear-un-sistema-de-control-de-gastos-con-el-patron
 https://www.udemy.com/course/coo-operasyon-direktoru-ve-operasyonlar-direktoru-tr/
 https://www.udemy.com/course/critical-thinking-how-to-make-decisions-in-the-ai-era-en/
 https://www.udemy.com/course/examenes-sc-900-fundamentos-de-seguridad-e-identidad/
+https://www.udemy.com/course/javascript-front-end-web-development-with-javascript/
+https://www.udemy.com/course/iso-14001-ems-lead-auditor-course-clause-by-clause/
+https://www.udemy.com/course/performance-testing-using-tricentis-neoload-advanced/
+https://www.udemy.com/course/machine-learning-essentials-build-intelligent-models/
+https://www.udemy.com/course/the-complete-mongodb-build-scale-query-nosql-databases/
