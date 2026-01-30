@@ -11612,3 +11612,11 @@ https://www.udemy.com/course/learn-excel-step-by-step-beginner-to-confident-user
 https://www.udemy.com/course/react-js-mcq/
 https://www.udemy.com/course/java-classes-objects-questions/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-clf-c02-2026/
+https://www.udemy.com/course/nodejs-build-fast-and-scalable-backend-applications/
+https://www.udemy.com/course/perplexity-ai-masterclass-ai-search-and-research/
+https://www.udemy.com/course/the-complete-react-js-developer-from-zero-to-deployment/
+https://www.udemy.com/course/nextjs-masterclass-learn-nextjs-by-building-modern-web-app/
+https://www.udemy.com/course/flutter-for-web-mobile-build-fast-flexible-applications/
+https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/
+https://www.udemy.com/course/gemini-ai-complete-guide-to-googles-powerful-ai/
+https://www.udemy.com/course/unofficial-tests-databricks-certified-data-analyst-associate/
