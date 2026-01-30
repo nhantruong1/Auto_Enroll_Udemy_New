@@ -11620,3 +11620,4 @@ https://www.udemy.com/course/flutter-for-web-mobile-build-fast-flexible-applicat
 https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/
 https://www.udemy.com/course/gemini-ai-complete-guide-to-googles-powerful-ai/
 https://www.udemy.com/course/unofficial-tests-databricks-certified-data-analyst-associate/
+https://www.udemy.com/course/estrategias-de-direccion-de-empresas/
