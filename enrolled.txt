@@ -11635,3 +11635,6 @@ https://www.udemy.com/course/iso-14001-ems-lead-auditor-course-clause-by-clause/
 https://www.udemy.com/course/performance-testing-using-tricentis-neoload-advanced/
 https://www.udemy.com/course/machine-learning-essentials-build-intelligent-models/
 https://www.udemy.com/course/the-complete-mongodb-build-scale-query-nosql-databases/
+https://www.udemy.com/course/data-structures-and-algorithms-in-practice-learn-by-coding/
+https://www.udemy.com/course/5-day-menopause-reset-with-e-book/
+https://www.udemy.com/course/new-ai900-azure-ai-fundamentals-5-practice-exams-2026/
