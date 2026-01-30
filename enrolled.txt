@@ -11621,3 +11621,12 @@ https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-develop
 https://www.udemy.com/course/gemini-ai-complete-guide-to-googles-powerful-ai/
 https://www.udemy.com/course/unofficial-tests-databricks-certified-data-analyst-associate/
 https://www.udemy.com/course/estrategias-de-direccion-de-empresas/
+https://www.udemy.com/course/mastering-machine-learning-from-scratch/
+https://www.udemy.com/course/hands-on-introduction-to-nosql-with-mongodb/
+https://www.udemy.com/course/curso-de-hacker-para-iniciantes/
+https://www.udemy.com/course/curso-de-claude-estrategia-escritura-y-creatividad-con-ia/
+https://www.udemy.com/course/conhecer-kali-linux-facil-e-rapido/
+https://www.udemy.com/course/crear-un-sistema-de-control-de-gastos-con-el-patron-mvc/
+https://www.udemy.com/course/coo-operasyon-direktoru-ve-operasyonlar-direktoru-tr/
+https://www.udemy.com/course/critical-thinking-how-to-make-decisions-in-the-ai-era-en/
+https://www.udemy.com/course/examenes-sc-900-fundamentos-de-seguridad-e-identidad/
