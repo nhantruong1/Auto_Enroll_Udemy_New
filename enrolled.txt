@@ -11650,3 +11650,5 @@ https://www.udemy.com/course/python-practice-tests-210-questions-basics-to-advan
 https://www.udemy.com/course/javascript-practice-tests-220-questions-basics-to-advanced/
 https://www.udemy.com/course/ai-foundations-acceleration-for-learning-designers/
 https://www.udemy.com/course/java-practice-tests-200-questions-from-basics-to-advanced/
+https://www.udemy.com/course/az900-azure-fundamentals-5-practice-exams-2026/
+https://www.udemy.com/course/red-hat-certified-openshift-administrator-ex280-exam/
