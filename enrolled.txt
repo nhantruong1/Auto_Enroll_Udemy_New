@@ -11645,3 +11645,6 @@ https://www.udemy.com/course/mhn-az-900-microsoft-azure-fundamentals-practice-te
 https://www.udemy.com/course/mhn-cisco-ccna-200-301-practice-test-exams-2025-v1/
 https://www.udemy.com/course/circle-geometry-for-the-beginner-and-advance-level/
 https://www.udemy.com/course/aws-certified-cloud-practitioner-question-bank/
+https://www.udemy.com/course/ai-powered-sales-playbook-masterclass-strategies-scripts/
+https://www.udemy.com/course/python-practice-tests-210-questions-basics-to-advanced/
+https://www.udemy.com/course/javascript-practice-tests-220-questions-basics-to-advanced/
