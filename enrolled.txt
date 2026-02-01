@@ -11653,3 +11653,4 @@ https://www.udemy.com/course/java-practice-tests-200-questions-from-basics-to-ad
 https://www.udemy.com/course/az900-azure-fundamentals-5-practice-exams-2026/
 https://www.udemy.com/course/red-hat-certified-openshift-administrator-ex280-exam/
 https://www.udemy.com/course/the-resilience-toolkit/
+https://www.udemy.com/course/the-complete-flutter-dart-basics-to-advanced-arabic/
