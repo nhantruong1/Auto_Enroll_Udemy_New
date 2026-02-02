@@ -11662,3 +11662,4 @@ https://www.udemy.com/course/mastering-servicenow-automated-test-frameworkatf-wi
 https://www.udemy.com/course/agenticops-designing-ai-native-autonomous-systems/
 https://www.udemy.com/course/das-kiefergelenk-verstehen/
 https://www.udemy.com/course/mobile-video-production/
+https://www.udemy.com/course/the-complete-php-laravel-rest-api-development-course-2026/
