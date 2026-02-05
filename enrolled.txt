@@ -11691,3 +11691,7 @@ https://www.udemy.com/course/hr-tech-product-manager-bootcamp-for-hris-hr-techpe
 https://www.udemy.com/course/clawdbot-build-real-world-ai-agents-without-coding/
 https://www.udemy.com/course/global-tax-masterclass-for-digital-nomads-entrepreneurs/
 https://www.udemy.com/course/php-master-php-for-back-end-web-development-with-mysql/
+https://www.udemy.com/course/chatgpt-generative-ai-for-product-managers/
+https://www.udemy.com/course/ioshinstitution-of-occupational-safety-health-masterclass/
+https://www.udemy.com/course/api-spec-q1-fundamentals-for-oil-and-gas/
+https://www.udemy.com/course/desarrolla-juegos-html5-con-canvas/
